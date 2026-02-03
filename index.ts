@@ -101,46 +101,76 @@ function unmaskText(text: string, cache: Map<string, string>): string {
 }
 
 async function translateText(text: string, targetLang: string = 'Indonesian'): Promise<string> {
-    try {
-        const result = await openrouter.callModel({
-            model: 'openai/gpt-oss-120b',
-            input: [
-                {
-                    role: 'system', content: `You are an expert translator for The Elder Scrolls V: Skyrim. Translate the following dialog text to ${targetLang}. 
+    const MAX_RETRIES = 3;
+    const RETRY_DELAY_MS = 5000; // 5 detik
+
+    for (let attempt = 1; attempt <= MAX_RETRIES; attempt++) {
+        try {
+            console.log(`Translation attempt ${attempt}/${MAX_RETRIES} for: "${text.substring(0, 50)}${text.length > 50 ? '...' : ''}"`);
+
+            const result = await openrouter.callModel({
+                model: 'openai/gpt-oss-120b',
+                input: [
+                    {
+                        role: 'system', content: `You are an expert translator for The Elder Scrolls V: Skyrim. Translate the following dialog text to ${targetLang}.
 Context: Use your knowledge of Skyrim lore and character mannerisms. The text contains masked terms in brackets like [Faction_abcde]; DO NOT translate these brackets or their contents. Keep them exactly as is.
 Tone: Maintain the appropriate tone for the speaker (e.g., formal for Jarls, rough for bandits, archaic for ancient beings).
-Format: Return the output as a strictly valid JSON object with the format: {"english": "source text", "indonesian": "translated text"}. 
+Format: Return the output as a strictly valid JSON object with the format: {"english": "source text", "indonesian": "translated text"}.
 Constraints: Preserve any special tags like <...>. Do not include markdown formatting or explanations outside the JSON.`
-                },
-                { role: 'user', content: JSON.stringify({ english: text, indonesian: "" }) }
-            ],
-            provider: {
-                only: ['deepinfra/fp4']
+                    },
+                    { role: 'user', content: JSON.stringify({ english: text, indonesian: "" }) }
+                ],
+                provider: {
+                    only: ['deepinfra/fp4']
+                }
+            });
+            const translatedText = await result.getText();
+
+            if (!translatedText) {
+                if (attempt < MAX_RETRIES) {
+                    console.log(`Empty response received. Retrying in ${RETRY_DELAY_MS / 1000} seconds...`);
+                    await new Promise(resolve => setTimeout(resolve, RETRY_DELAY_MS));
+                    continue;
+                }
+                return text;
             }
-        });
-        const translatedText = await result.getText();
 
-        if (!translatedText) return text;
+            try {
+                // Find the first '{' and last '}' to extract JSON in case of extra text
+                const firstBrace = translatedText.indexOf('{');
+                const lastBrace = translatedText.lastIndexOf('}');
 
-        try {
-            // Find the first '{' and last '}' to extract JSON in case of extra text
-            const firstBrace = translatedText.indexOf('{');
-            const lastBrace = translatedText.lastIndexOf('}');
-
-            if (firstBrace !== -1 && lastBrace !== -1) {
-                const jsonStr = translatedText.substring(firstBrace, lastBrace + 1);
-                const parsed = JSON.parse(jsonStr);
-                return parsed.indonesian || text;
+                if (firstBrace !== -1 && lastBrace !== -1) {
+                    const jsonStr = translatedText.substring(firstBrace, lastBrace + 1);
+                    const parsed = JSON.parse(jsonStr);
+                    return parsed.indonesian || text;
+                }
+                return text;
+            } catch (e) {
+                console.error("Failed to parse JSON response:", translatedText);
+                if (attempt < MAX_RETRIES) {
+                    console.log(`JSON parsing failed. Retrying in ${RETRY_DELAY_MS / 1000} seconds...`);
+                    await new Promise(resolve => setTimeout(resolve, RETRY_DELAY_MS));
+                    continue;
+                }
+                return text;
             }
-            return text;
-        } catch (e) {
-            console.error("Failed to parse JSON response:", translatedText);
+        } catch (error) {
+            console.error(`Translation error (attempt ${attempt}/${MAX_RETRIES}):`, error);
+
+            if (attempt < MAX_RETRIES) {
+                console.log(`Retrying in ${RETRY_DELAY_MS / 1000} seconds...`);
+                await new Promise(resolve => setTimeout(resolve, RETRY_DELAY_MS));
+                continue;
+            }
+
+            console.error("All retry attempts failed. Returning original text.");
             return text;
         }
-    } catch (error) {
-        console.error("Translation error:", error);
-        return text;
     }
+
+    // This should never be reached, but just in case
+    return text;
 }
 
 async function main() {
@@ -208,8 +238,9 @@ async function main() {
         0x3498DB // Blue
     );
 
-    // Interval untuk notifikasi progress (setiap 5 menit)
-    const NOTIFY_INTERVAL_MS = 5 * 60 * 1000;
+    // Interval untuk notifikasi progress (setiap 1 menit atau setiap 100 item)
+    const NOTIFY_INTERVAL_MS = 1 * 60 * 1000; // 1 menit
+    const NOTIFY_ITEM_INTERVAL = 100; // Setiap 100 item
 
     for (let i = 0; i < uniqueTexts.length; i++) {
         const [textToTranslate, records] = uniqueTexts[i];
@@ -241,9 +272,12 @@ async function main() {
             stats.errorCount++;
         }
 
-        // Send progress notification every NOTIFY_INTERVAL_MS
+        // Send progress notification every NOTIFY_INTERVAL_MS or every NOTIFY_ITEM_INTERVAL items
         const now = Date.now();
-        if (now - stats.lastNotifyTime.getTime() >= NOTIFY_INTERVAL_MS) {
+        const shouldNotifyByTime = now - stats.lastNotifyTime.getTime() >= NOTIFY_INTERVAL_MS;
+        const shouldNotifyByCount = (stats.successCount + stats.errorCount) % NOTIFY_ITEM_INTERVAL === 0;
+
+        if (shouldNotifyByTime || shouldNotifyByCount) {
             stats.lastNotifyTime = new Date();
             await sendDiscordNotification(
                 '📈 Translation Progress',
