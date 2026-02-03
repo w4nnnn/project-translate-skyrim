@@ -1,0 +1,4398 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>update</Addon>
+    <Source>english</Source>
+    <Dest>english</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="000001">
+      <Source>Goat</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="000002">
+      <Source>Summons a Frost Atronach permanently.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="000003">
+      <Source>Summons a Storm Atronach for &lt;dur&gt; seconds wherever the caster is pointing.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="000004">
+      <Source>[...]</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="000005">
+      <Source>Summons a Frost Atronach for &lt;dur&gt; seconds wherever the caster is pointing.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="000006">
+      <Source>Summons a Flame Atronach permanently.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="000007">
+      <Source>Summons a Flame Atronach for &lt;dur&gt; seconds wherever the caster is pointing.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="000008">
+      <Source>Conjure Frost Thrall</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="000009">
+      <Source>Conjure Flame Atronach</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00000A">
+      <Source>Conjure Storm Atronach</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00000B">
+      <Source>Conjure Frost Atronach</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00000C">
+      <Source>Conjure Flame Thrall</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00000D">
+      <Source>Summons a Storm Atronach permanently.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00000E">
+      <Source>Conjure Storm Thrall</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00000F">
+      <Source>KINECT, List of Commands</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="000011">
+      <Source>KINECT, Using Shouts</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="000014">
+      <Source>Your follower is too far to trade with. </Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="000015">
+      <Source>The Kinect has failed to initialize.  Ensure that your Kinect is connected and updated.  Kinect commands have been disabled. </Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="000016">
+      <Source>Your Kinect has not been calibrated. Voice commands have been disabled. Please use the Kinect Tuner to calibrate your Kinect&apos;s audio. </Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="000017">
+      <Source>Saddle</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="000018">
+      <Source>Bouncer</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="000019">
+      <Source>Butcher</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00001A">
+      <Source>Ancient Knowledge</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00001B">
+      <Source>White Phial Effect</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00001D">
+      <Source>Legendary Skills</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00001E">
+      <Source>Are you sure you want to make this skill Legendary?</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00001F">
+      <Source>Making a skill Legendary will set it to 15 and return its perks. Are you sure? </Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="000020">
+      <Source>Once a skill reaches 100, you can make it legendary. The skill is reset to 15, and all perks are converted to perk points. Making a skill legendary allows you to level your character almost indefinitely.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="000021">
+      <Source>Unable to load controls. Defaults will be used.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="000022">
+      <Source>Skyrim</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="000023">
+      <Source>Unable to load settings. Defaults will be used.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="000024">
+      <Source>Controller disconnected.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="000025">
+      <Source>Please connect a controller to continue.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="000048">
+      <Source>Castle Dour</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="000071">
+      <Source>Blades Boots</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00030A">
+      <Source>Talk to the Jarl of Whiterun</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0003A8">
+      <Source>Banded Iron Armor</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00045A">
+      <Source>Return the Bust of the Gray Fox to Delvin</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0004F7">
+      <Source>Ebony Dagger</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="000584">
+      <Source>Get access to Hjerim</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="000670">
+      <Source>Deepwood Redoubt</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00073A">
+      <Source>Dragonsreach</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="000863">
+      <Source>Yes?</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0009F0">
+      <Source>Staff of Magnus</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="000A2C">
+      <Source>Mzulft Aedrome</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="000B0A">
+      <Source>Meet Karliah at the Ragged Flagon</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="000CEC">
+      <Source>Learn the Word of Power from Einarth</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="000D40">
+      <Source>Thalmor Embassy</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="000D54">
+      <Source>You have a task for me?</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="000E3F">
+      <Source>Forsworn Gauntlets</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="000E7E">
+      <Source>Morvunskar</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="000F4B">
+      <Source>Khajiit</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="000F67">
+      <Source>Frostmere Crypt</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="000FA1">
+      <Source>Can you train me to better use Heavy Armor?</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="000FA3">
+      <Source>Reachwater Rock</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00100B">
+      <Source>Penitus Oculatus Armor</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0010C7">
+      <Source>Return &lt;Alias=QuestItem&gt; to &lt;Alias.ShortName=QuestGiver&gt;</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00110C">
+      <Source>Regenerate Magicka</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="001158">
+      <Source>I can do that.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00117B">
+      <Source>I&apos;d like to make an investment in your business.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="001183">
+      <Source>Call Storm</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="001232">
+      <Source>Honeyside</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00124E">
+      <Source>Yes?</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00125F">
+      <Source>Sunderstone Gorge</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00133A">
+      <Source>Smithing</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="001364">
+      <Source>Dark Elf</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0013AB">
+      <Source>Torso</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00147D">
+      <Source>Escape the Thalmor Embassy</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="001487">
+      <Source>Return the Ship Model to Delvin</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0014BA">
+      <Source>Breton</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0014D6">
+      <Source>Falmer Gauntlets</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0014E7">
+      <Source>Matching Set</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00153D">
+      <Source>Speak to Karliah</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00157A">
+      <Source>The Way of the Voice</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0015BA">
+      <Source>Retrieve the pommel of Mehrunes&apos; Razor</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0015E5">
+      <Source>Redoran&apos;s Retreat</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="001641">
+      <Source>Deflect Arrows</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="001679">
+      <Source>Yes?</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00174E">
+      <Source>What is it you want me to do?</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="001857">
+      <Source>Retrieve the blade shards of Mehrunes&apos; Razor</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00188B">
+      <Source>Light Fingers</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0019B1">
+      <Source>Limbsplitter</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0019FB">
+      <Source>Intimidate &lt;Alias=Brute&gt; in &lt;Alias=BruteTown&gt;</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="001A99">
+      <Source>High Elf</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="001B01">
+      <Source>Guild Master&apos;s Hood</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="001B45">
+      <Source>Water Explosion</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="001BE4">
+      <Source>Barkeep</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="001C34">
+      <Source>Guide Meridia&apos;s Light through the temple</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="001C56">
+      <Source>Stormcloak Officer Boots</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="001C89">
+      <Source>Find Karliah</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="001D3C">
+      <Source>Guild Master&apos;s Boots</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="001D6B">
+      <Source>Rjorn&apos;s Drum</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="001D85">
+      <Source>Defeat the wolf spirit</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="001D86">
+      <Source>Put witch head into fire</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="001D87">
+      <Source>Speak to Kodlak</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="001D8C">
+      <Source>Go to Ysgramor&apos;s Tomb with the Circle</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="001D8D">
+      <Source>Meet the Circle</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="001D8E">
+      <Source>Give the final fragment to Eorlund</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="001D90">
+      <Source>Retrieve Kodlak&apos;s fragment</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="001D93">
+      <Source>Attend Kodlak&apos;s funeral</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="001D9E">
+      <Source>Speak with Saadia</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="001DA0">
+      <Source>Lead Saadia to the Whiterun Stables</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="001DA2">
+      <Source>Return to Saadia</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="001DA5">
+      <Source>Kill Kematu</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="001DA6">
+      <Source>Kill Kematu OR Convince Saadia to meet Kematu</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="001DAC">
+      <Source>Kill Kematu</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="001DAE">
+      <Source>Enter the Alik&apos;r hideout</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="001DAF">
+      <Source>Ebony Blade</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="001DB2">
+      <Source>Find a way to enter the Alik&apos;r hideout</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="001DBA">
+      <Source>Talk to the Alik&apos;r Prisoner</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="001DBC">
+      <Source>Inform the Alik&apos;r of Saadia&apos;s location</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="001DBE">
+      <Source>Speak with Saadia</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="001DC0">
+      <Source>Find the Redguard woman</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="001F34">
+      <Source>DB07AstridCiceroDeadYesChoice</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="001FCA">
+      <Source>The Ragged Flagon - Cistern</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002174">
+      <Source>Return to Brynjolf</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002181">
+      <Source>(Optional) Smash Bersi&apos;s prized Dwarven Urn</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002183">
+      <Source>Collect Bersi Honey-Hand&apos;s debt</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002189">
+      <Source>Collect Keerava&apos;s debt</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00218D">
+      <Source>Locate Brynjolf at the Ragged Flagon</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002196">
+      <Source>Talk to &lt;Alias=AuthorityFigure&gt;</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002198">
+      <Source>Catch the murderer</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00219D">
+      <Source>Patrol the streets of the Stone Quarter at night</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0021A1">
+      <Source>Talk to &lt;Alias=AuthorityFigure&gt;</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0021A3">
+      <Source>Investigate Hjerim with Viola</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0021A6">
+      <Source>Meet Viola outside of Hjerim</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0021A7">
+      <Source>Follow up on the clues from Hjerim</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0021A9">
+      <Source>Look for clues</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0021AF">
+      <Source>Talk to Helgird</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0021B0">
+      <Source>Examine the crime scene</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0021B1">
+      <Source>Talk to &lt;Alias=AuthorityFigure&gt;</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0021B2">
+      <Source>Report to the guard</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0021B5">
+      <Source>Question the witnesses</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0021B6">
+      <Source>Get assistance from Jorleif</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002207">
+      <Source>Return to Brynjolf</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002208">
+      <Source>Return to Maven Black-Briar</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002210">
+      <Source>Return to Sabjorn</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002215">
+      <Source>Poison the Honningbrew Vat</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002217">
+      <Source>Poison the Nest</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002219">
+      <Source>Speak to Sabjorn</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002238">
+      <Source>Dampened Spirits</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00225D">
+      <Source>Retrieve Arondil&apos;s Journals (&lt;Global=FFRiften21JFound&gt;/&lt;Global=FFRiften21JTotal&gt;)</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002263">
+      <Source>Enter Snow Veil Sanctum</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00226A">
+      <Source>Meet Mercer Frey outside Snow Veil Sanctum</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002276">
+      <Source>Speak to Karliah</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002279">
+      <Source>Speak to Enthir</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00227F">
+      <Source>Return to Enthir</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002280">
+      <Source>Duplicate the writing on Calcelmo&apos;s Stone</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002283">
+      <Source>Obtain Calcelmo&apos;s Falmer Translating Guide</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002286">
+      <Source>Gain entry to Calcelmo&apos;s Museum</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00228B">
+      <Source>Speak with Enthir</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00229B">
+      <Source>Speak to Brynjolf</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0022A0">
+      <Source>(Optional) Speak to Vex about Vald</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0022A2">
+      <Source>(Optional) Shoot the mechanism to lower the ramp</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0022A7">
+      <Source>Follow Karliah</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0022B5">
+      <Source>The Pursuit</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0022CA">
+      <Source>Wabbajack</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00238A">
+      <Source>Claim Mehrunes&apos; Razor</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00238F">
+      <Source>Speak to Mehrunes Dagon</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002390">
+      <Source>Kill Silus</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002392">
+      <Source>Meet Silus at the Shrine of Mehrunes Dagon</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00239D">
+      <Source>Bring the blade shards to Silus</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0023A1">
+      <Source>Speak to Silus inside his house</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0023A8">
+      <Source>Pieces of the Past</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0023DA">
+      <Source>Return to &lt;Alias.ShortName=Questgiver&gt;</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0023ED">
+      <Source>Hired Muscle</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0023F1">
+      <Source>Return to &lt;Alias.ShortName=Questgiver&gt;</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00244E">
+      <Source>Return to Falk Firebeard</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002451">
+      <Source>Retrieve Potema&apos;s remains</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002454">
+      <Source>Defeat Potema</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0024B0">
+      <Source>Fetch me that Book!</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0024D6">
+      <Source>Kill the Hunters</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0024D7">
+      <Source>Speak with Hircine</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0024DA">
+      <Source>Skin Sinding</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0024DB">
+      <Source>Kill Sinding</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0024DC">
+      <Source>Join the hunt</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0024DE">
+      <Source>Kill the great beast</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0024F5">
+      <Source>Ill Met By Moonlight</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00252A">
+      <Source>New Add-ons have been added.  You will need to restart to use this content.  All unsaved progress will be lost.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00252E">
+      <Source>Geirmund&apos;s Hall</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00260C">
+      <Source>Search Morvunskar for Sam and the Staff</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00260D">
+      <Source>Head to Morvunskar</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00260E">
+      <Source>Return the wedding ring to Ysolda in Whiterun</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002617">
+      <Source>Talk to Ysolda in Whiterun about the staff</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002622">
+      <Source>Ask about Sam and the staff in Rorikstead</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002624">
+      <Source>Apologize to the priestesses of Dibella</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002625">
+      <Source>Help clean up the Temple of Dibella</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002628">
+      <Source>Find Sam Guevenne</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002646">
+      <Source>Inheritance</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002685">
+      <Source>Speak to Arngeir for further training</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00268A">
+      <Source>Demonstrate your &quot;Whirlwind Sprint&quot; Shout</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00268B">
+      <Source>Learn the Word of Power from Borri</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002690">
+      <Source>Demonstrate your &quot;Unrelenting Force&quot; Shout (&lt;Global=MQ105TargetsHit&gt;/&lt;Global=MQ105TargetsTotal&gt;)</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002692">
+      <Source>Speak to Arngeir</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002696">
+      <Source>Demonstrate your &quot;Unrelenting Force&quot; Shout</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002699">
+      <Source>Speak to the Greybeards</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0026A5">
+      <Source>Dark Elf</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002733">
+      <Source>Find out how to defeat Alduin</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0027AF">
+      <Source>Clear Skies</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0027FD">
+      <Source>Steal, Thugs hunt player</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002801">
+      <Source>Talk to Delphine</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002802">
+      <Source>Search the torture chamber</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002806">
+      <Source>Search for information about the dragons returning</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002809">
+      <Source>(Optional) Retrieve your gear</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00280A">
+      <Source>Create a distraction and get away from the party</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002810">
+      <Source>Give Malborn the equipment</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002812">
+      <Source>Meet Malborn in Solitude</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002814">
+      <Source>Meet Delphine in Riverwood</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00281E">
+      <Source>Diplomatic Immunity</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002820">
+      <Source>Master WI quest</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002825">
+      <Source>Talk to Esbern</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002828">
+      <Source>Find Esbern in the Ratway Warrens</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0029A5">
+      <Source>Generic dialogue</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0029D5">
+      <Source>Bash Disarm</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002ACE">
+      <Source>Fortify Smithing</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002B5A">
+      <Source>Read Madanach&apos;s note</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002B5B">
+      <Source>Search Madanach&apos;s body</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002B5C">
+      <Source>Kill Madanach</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002B62">
+      <Source>Kill Grisvar the Unlucky</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002B67">
+      <Source>Return to Madanach</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002B69">
+      <Source>Talk to Madanach</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002B73">
+      <Source>No One Escapes Cidhna Mine</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002C1D">
+      <Source>Bersi Honey-Hand</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002C29">
+      <Source>Interrogate Odahviing</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002C2C">
+      <Source>Call Odahviing to Dragonsreach</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002C34">
+      <Source>Prepare trap for Odahviing</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002C35">
+      <Source>Learn Shout to call Odahviing</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002C37">
+      <Source>Talk to Esbern</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002C3D">
+      <Source>Talk to Arngeir</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002C40">
+      <Source>Talk to Paarthurnax</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002C61">
+      <Source>Negotiate a truce</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002C6F">
+      <Source>Talk to Ulfric Stormcloak</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002C70">
+      <Source>Talk to General Tullius</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002C73">
+      <Source>Talk to Arngeir</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002C78">
+      <Source>Season Unending</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002D1D">
+      <Source>Talk to the heroes of Sovngarde</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002D1F">
+      <Source>Gain admittance to the Hall of Valor</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002D20">
+      <Source>Sovngarde</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002DAA">
+      <Source>Bring Aela her shield</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002DAC">
+      <Source>Train with Vilkas</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002DB0">
+      <Source>Speak to Kodlak Whitemane</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002DBB">
+      <Source>Return the Eye of the Falmer to Delvin</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002DC1">
+      <Source>Return the Dwemer Puzzle Cube to Delvin</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002DC3">
+      <Source>Return the East Empire Shipping Map to Delvin</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002DC8">
+      <Source>Return the Honningbrew Decanter to Delvin</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002DC9">
+      <Source>Return the Queen Bee Statue to Delvin</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002DD3">
+      <Source>The Litany of Larceny</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002DDC">
+      <Source>Speak to Boethiah&apos;s Conduit</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002DE4">
+      <Source>Slay the Jarl of Solitude</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002DE8">
+      <Source>Slay the other cultists</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002DEC">
+      <Source>Find the cult of Boethiah</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002DEE">
+      <Source>Find the shrine of Boethiah</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002DFB">
+      <Source>Boethiah&apos;s Calling</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002DFC">
+      <Source>Retrieve Dawnbreaker</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002DFD">
+      <Source>Destroy Malkoran</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002E0F">
+      <Source>The Break of Dawn</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002E6A">
+      <Source>Return to Quintus Navale</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002E6E">
+      <Source>Find some Mammoth Tusk Powder</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002E71">
+      <Source>Retrieve the Unmelting Snow</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="002F76">
+      <Source>Hard Answers</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00309B">
+      <Source>Shadowmere</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0030B4">
+      <Source>Return to Jorrvaskr</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0030B5">
+      <Source>Retrieve the fragment</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0030B6">
+      <Source>Speak to &lt;Alias=Observer&gt;</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0030B8">
+      <Source>Speak to Skjor</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0030C3">
+      <Source>Proving Honor</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0030C5">
+      <Source>Follow &lt;Alias=Questgiver&gt;</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0030C8">
+      <Source>Brotherhood</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0030CA">
+      <Source>Return to Jorrvaskr</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0030CC">
+      <Source>(Optional) Wipe out the Silver Hand</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0030CE">
+      <Source>Retrieve the fragments of Wuuthrad</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0030D3">
+      <Source>Purity of Revenge</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="003160">
+      <Source>Deliver Moon Sugar to Ri&apos;saad</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="003233">
+      <Source>Escaped Criminal</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0032B6">
+      <Source>Deliver the soul gem to Arniel</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0032BA">
+      <Source>Heat the Convector</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0032BF">
+      <Source>Arniel&apos;s Endeavor</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="003334">
+      <Source>Clear Out Wolfskull Cave</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="003335">
+      <Source>Ask Falk Firebeard about Wolfskull Cave</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0033DD">
+      <Source>Return to Vex</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0033DF">
+      <Source>Recover the Crown of Barenziah</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0033E4">
+      <Source>Speak to Vex</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0033E6">
+      <Source>Recover the Stones of Barenziah  (&lt;Global=TGCrownGemsFound&gt;/&lt;Global=TGCrownGemsTotal&gt;)</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0033E8">
+      <Source>Become a full member of the Thieves Guild</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0034D2">
+      <Source>Bounty: Dragon</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0034E5">
+      <Source>Encounter Combat Dialogue</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="003570">
+      <Source>Thieves Guild Hood</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0035D9">
+      <Source>Collect bounty from &lt;Alias=Steward&gt;</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0035DB">
+      <Source>Kill the bandit leader located at &lt;Alias=BountyLocation&gt;</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0035DD">
+      <Source>Bounty: Bandit Boss</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0035DE">
+      <Source>Yes, Cicero is dead.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00363C">
+      <Source>My reasons are my own.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0036BA">
+      <Source>Jorrvaskr Living Quarters</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0036C1">
+      <Source>Kill the leader of &lt;Alias=BountyLocation&gt;</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0036C3">
+      <Source>Bounty: Forsworn</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0036C4">
+      <Source>Collect bounty from &lt;Alias=Steward&gt;</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0036C6">
+      <Source>Kill the giant located at &lt;Alias=BountyLocation&gt;</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0036CA">
+      <Source>Bounty: Giant</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00372C">
+      <Source>Collect bounty from &lt;Alias=Steward&gt;</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0037BF">
+      <Source>Scroll of Frost Thrall</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0037FD">
+      <Source>Bring a Dragon Scale and a Dragon Bone to Esbern</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00393E">
+      <Source>Speak with Enthir</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="003944">
+      <Source>Onmund&apos;s Request</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0039D2">
+      <Source>Find &lt;Alias=QuestItem&gt; inside &lt;Alias=Dungeon&gt;</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0039F3">
+      <Source>Enter Yngvild Barrow</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0039F4">
+      <Source>Toying With The Dead</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="003A0D">
+      <Source>Thieves Guild Gloves</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="003A4A">
+      <Source>No Stone Unturned</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="003A92">
+      <Source>Thalmor vs Player</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="003A9F">
+      <Source>Stormcloak Officer Helmet</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="003AA2">
+      <Source>Bounty hunters vs Player</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="003B92">
+      <Source>Thieves Guild Fence Handler</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="003B94">
+      <Source>Return to Tonilia</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="003B9B">
+      <Source>Thieves Guild Caravan Fence Quest</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="003BAF">
+      <Source>Find Finn&apos;s Lute</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="003BB6">
+      <Source>Return Pantea&apos;s Flute</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="003BB8">
+      <Source>Pantea&apos;s Flute</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="003BBB">
+      <Source>Find Rjorn&apos;s Drum</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="003C0E">
+      <Source>Take the Totem to the Underforge</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="003C17">
+      <Source>Totems of Hircine</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="003D5B">
+      <Source>Bloated Man&apos;s Grotto</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="003D7E">
+      <Source>Dragon Race</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="003E27">
+      <Source>Speak to Boethiah&apos;s Conduit</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="003EC4">
+      <Source>About that message from the General...</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="003EDD">
+      <Source>Repairing the Phial</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="003FE7">
+      <Source>Bleeding Damage</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0041AA">
+      <Source>Clear Skies</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0041BC">
+      <Source>Solitude</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0041D5">
+      <Source>Give Potema&apos;s remains to Styrr</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0042F5">
+      <Source>Oghma Infinium</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0043B9">
+      <Source>Take your seat</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="004444">
+      <Source>Reeking Cave</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00454F">
+      <Source>Esbern&apos;s Potion</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0045C6">
+      <Source>Japhet&apos;s Folly Towers</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="004608">
+      <Source>Shout - Guard says stop</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="004617">
+      <Source>Receive a reading from Olava the Feeble</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0046A2">
+      <Source>Southfringe Sanctum</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0046AB">
+      <Source>Talk to Brynjolf</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00472D">
+      <Source>Give Vilkas&apos;s sword to Eorlund</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0048EC">
+      <Source>Yes?</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00497F">
+      <Source>Left Weapon Rack</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0049A2">
+      <Source>Thieves Guild Boots</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="004A9D">
+      <Source>I submit. Take me to jail.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="004C20">
+      <Source>Whiterun</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="004D9E">
+      <Source>Bleeding Damage</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="004EC4">
+      <Source>Finn&apos;s Lute</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="004FA3">
+      <Source>Imperial</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="005047">
+      <Source>Mathies</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00510F">
+      <Source>Get past Borkul the Beast</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00521F">
+      <Source>Japhet&apos;s Folly</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="005265">
+      <Source>Wolfskull Cave</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="005272">
+      <Source>The Mind Of A Madman</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0053F4">
+      <Source>Who is Aventus?</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00544E">
+      <Source>Return to Madanach</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0054BB">
+      <Source>Kill the dragon located at &lt;Alias=BountyLocation&gt;</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0054D1">
+      <Source>Come on, get the truth off your chest. (Persuade)</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="005683">
+      <Source>Begin the hunt</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="005746">
+      <Source>Giant Stomp</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00584F">
+      <Source>Sultry Maiden</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0058E9">
+      <Source>Follow Madanach</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0058EA">
+      <Source>About that message from the Jarl...</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0058F8">
+      <Source>About that message from the General...</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0058F9">
+      <Source>I have an important message from General Tullius.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="005910">
+      <Source>Tell me about Maven Black-Briar.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="005982">
+      <Source>Blades Helmet</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="005A89">
+      <Source>I have the materials you requested.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="005AAC">
+      <Source>Take your leave of &lt;Alias=Victim&gt;</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="005ABC">
+      <Source>I recovered your flute.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="005B2A">
+      <Source>Stormcloak Officer Bracers</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="005BFB">
+      <Source>Thieves Guild Hood</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="005CA9">
+      <Source>Ask a prisoner about Madanach</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="005CEA">
+      <Source>I have an important message for you.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="005D0A">
+      <Source>Regenerate Health</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="005E35">
+      <Source>Conjure Flame Atronach</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="005F10">
+      <Source>A Cornered Rat</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="005F2D">
+      <Source>Louis Letrush vs Thug</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="005FAB">
+      <Source>Deliver the staff to Enthir</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="005FE9">
+      <Source>Proudspire Manor</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0060CD">
+      <Source>Jorrvaskr</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0062AC">
+      <Source>Hello.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0062DE">
+      <Source>Japhet&apos;s Folly</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="006382">
+      <Source>Thalmor Embassy, Barracks</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0064AE">
+      <Source>Retrieve the hilt of Mehrunes&apos; Razor</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0065DE">
+      <Source>(Optional) Obtain the key to Calcelmo&apos;s Museum</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00661A">
+      <Source>Breezehome</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="006691">
+      <Source>Glad you&apos;re so happy.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="006809">
+      <Source>Falmer Armor</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="006841">
+      <Source>Discover evidence of Mercer&apos;s location</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="006862">
+      <Source>Call Storm</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00687A">
+      <Source>Find Gleda the Goat</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0068AD">
+      <Source>Rescue &lt;Alias=Victim&gt; from &lt;Alias=Lair&gt;</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00690F">
+      <Source>Bring the pommel stone to Silus</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0069DE">
+      <Source>Dead Treasure Hunter with instructions</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0069F5">
+      <Source>Largashbur Longhouse</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="006BAC">
+      <Source>Yes?</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="006CB9">
+      <Source>Bring Gleda the Goat back to Ennis in Rorikstead</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="006E8B">
+      <Source>Helgen Keep</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="006E90">
+      <Source>Effects\FXEmptyObject.nif</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="006EB8">
+      <Source>Thieves Guild Radiant Shell</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="006F57">
+      <Source>Studded Imperial Armor</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="006FD6">
+      <Source>Senna</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="007148">
+      <Source>Imperial Helmet</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="007217">
+      <Source>Speak to Sinding</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0072BB">
+      <Source>Imperial</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="007375">
+      <Source>Regarding what, my lady?</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00743E">
+      <Source>Speaking With Silence</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0075B3">
+      <Source>Find the wedding ring in Witchmist Grove</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0075E8">
+      <Source>Chest</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="007674">
+      <Source>View Available Add-Ons</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0077DD">
+      <Source>Argonian</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0078C8">
+      <Source>Blood on the Ice</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0079B8">
+      <Source>Dismaying Shout</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="007A2D">
+      <Source>(Optional) Steal Haelga&apos;s Statue of Dibella</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="007A74">
+      <Source>Speak to Mallus Maccius</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="007AD0">
+      <Source>Give the fragments of Wuuthrad to Eorlund</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="007B77">
+      <Source>Dismaying Shout</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="007C3F">
+      <Source>Replace the beacon</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="007C48">
+      <Source>Yes?</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="007CD8">
+      <Source>Speak with Calcelmo</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="007DD3">
+      <Source>Speak to Brynjolf</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="007F61">
+      <Source>Bleeding Damage</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="007FFA">
+      <Source>Conjure Storm Atronach</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="008044">
+      <Source>Wood Elf</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="008281">
+      <Source>Collect Haelga&apos;s debt</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0083D7">
+      <Source>Bring Meridia&apos;s beacon to Mount Kilkreath</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00844B">
+      <Source>Penitus Oculatus Bracers</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0084A0">
+      <Source>Take Up Arms</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0084A3">
+      <Source>Speak to Styrr</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00862D">
+      <Source>Infiltrate Mercer&apos;s House</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00865B">
+      <Source>Ysolda</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="008662">
+      <Source>Find the Staff</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0086E3">
+      <Source>I would be honored to accept.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="008846">
+      <Source>Fortify Magicka</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="008896">
+      <Source>Karliah</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="008899">
+      <Source>Here, now tell me the truth. (&lt;BribeCost&gt; gold)</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="008994">
+      <Source>Kilkreath Catacombs</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0089A3">
+      <Source>Speak to Mallus Maccius</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="008A00">
+      <Source>Weakness to Sunlight</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="008A9D">
+      <Source>Bring the hilt to Silus</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="008B61">
+      <Source>Attend the tasting ceremony</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="008BA9">
+      <Source>Redguard</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="008D30">
+      <Source>Harmugstahl</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="008DA7">
+      <Source>Nightcaller Temple</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="008E11">
+      <Source>On second thought, perhaps I&apos;ll invest another time.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="008E3B">
+      <Source>Take the wedding ring</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="008EA0">
+      <Source>Haemar&apos;s Shame</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="008F72">
+      <Source>Louis Letrush</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="008F91">
+      <Source>Driftshade Cellar</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0090B2">
+      <Source>Forsaken Crypt</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0090C0">
+      <Source>I&apos;ll take it.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0090C9">
+      <Source>Bleeding Damage</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="009249">
+      <Source>A Night To Remember</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00924D">
+      <Source>Blades Armor</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="009269">
+      <Source>DialogueRiftenGoodbyes</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00940F">
+      <Source>(Optional) Use Talen-Jei to get to Keerava</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="009422">
+      <Source>Let&apos;s see what you can do with this. (&lt;Global=InvestAmount&gt; gold)</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0094A2">
+      <Source>Wait, you want me to go do this alone?</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00963A">
+      <Source>High Elf</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00968B">
+      <Source>Find the staff for Enthir</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0096C3">
+      <Source>And now that Potema has returned?</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0096CA">
+      <Source>Falk sent me to talk to you about Potema.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="009733">
+      <Source>Stormcloak Officer Armor</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0097F1">
+      <Source>I have this token for you.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0097F4">
+      <Source>I was told you could see my future.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="009803">
+      <Source>Is there anything else?</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00980F">
+      <Source>Redguard</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00997D">
+      <Source>Return to Vekel</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="009AC3">
+      <Source>Find Meridia&apos;s beacon</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="009C54">
+      <Source>Hjerim</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="009DCA">
+      <Source>Escape Cidhna Mine</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="009E37">
+      <Source>Folgunthur Crypt</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00A03D">
+      <Source>Limbsplitter</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00A05D">
+      <Source>Bthardamz Lower District</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00A065">
+      <Source>The Man Who Cried Wolf</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00A0E1">
+      <Source>Place the warped soul gem into a Convector</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00A0F8">
+      <Source>Slay everyone at &lt;Alias=Dungeon&gt; stealthily</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00A14C">
+      <Source>About that message from Ulfric...</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00A1DC">
+      <Source>Escort &lt;Alias=Victim&gt; back to &lt;Alias=VictimHome&gt;</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00A332">
+      <Source>Who is Aventus?</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00A337">
+      <Source>Fortify Health</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00A343">
+      <Source>Who is Aventus?</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00A3A3">
+      <Source>Head</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00A3DF">
+      <Source>Kill the escaped criminal</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00A495">
+      <Source>Guild Master&apos;s Armor</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00A4B5">
+      <Source>Thieves Guild Armor</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00A6C3">
+      <Source>WhiterunOlavaReadingTopic1</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00A6ED">
+      <Source>Identify Sabjorn&apos;s silent partner</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00A701">
+      <Source>Tolvald&apos;s Cave</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00A776">
+      <Source>Pinepeak Cavern</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00AA1F">
+      <Source>Falmer Boots</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00AAC8">
+      <Source>Palace of the Kings</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00AC52">
+      <Source>Retrieve and equip the Ebony Mail</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00ADC0">
+      <Source>Penitus Oculatus Boots</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00ADD6">
+      <Source>Palace of the Kings Upstairs</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00AF34">
+      <Source>Nord</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00AF57">
+      <Source>I&apos;d like training in Alchemy.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00AF84">
+      <Source>The Wolf Queen Awakened</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00AFED">
+      <Source>Conjure Frost Atronach</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00B267">
+      <Source>Hear Braig&apos;s story</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00B329">
+      <Source>Scroll of Storm Thrall</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00B4C0">
+      <Source>Talk to Sinding</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00B527">
+      <Source>Lisbet</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00B579">
+      <Source>Limbsplitter</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00B646">
+      <Source>Clear Skies</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00B784">
+      <Source>Orc</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00B82B">
+      <Source>Take a Forsworn Heart</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00B989">
+      <Source>Blade of Sacrifice</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00BA68">
+      <Source>Thank you.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00BBF7">
+      <Source>Is there anything I can help Riften with?</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00BBF8">
+      <Source>Get Greybeards&apos; help in negotiating a truce</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00BC4B">
+      <Source>Windhelm</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00BEA2">
+      <Source>Kill Kematu or talk to him</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00BECE">
+      <Source>Taking Care of Business</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00BF10">
+      <Source>Summon Ghost</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00BF86">
+      <Source>Defeat and trap Odahviing</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00C134">
+      <Source>Purity</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00C189">
+      <Source>Paralyze</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00C25E">
+      <Source>Follow Farkas to your quarters</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00C4A4">
+      <Source>Talen-Jei</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00C4AD">
+      <Source>Breton</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00C4BA">
+      <Source>Falmer Shield</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00C69C">
+      <Source>Thieves Guild Gloves</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00C6AB">
+      <Source>In order to use the Add-Ons associated with this profile, you will need to restart.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00C803">
+      <Source>Argonian</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00C8A0">
+      <Source>Speak to Kodlak</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00C8B3">
+      <Source>The maximum number of saves has been reached. Please delete older saves in order to be able to create a new one.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00C8EF">
+      <Source>Alftand Glacial Ruins</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00CAC8">
+      <Source>Yes?</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00CB68">
+      <Source>I have slain &lt;Alias=DeadFriend&gt; to gain your favor.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00CBD6">
+      <Source>Find the copy of &lt;Alias=Book&gt;</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00CC94">
+      <Source>Thieves Guild Armor</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00CD91">
+      <Source>Yes?</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00CDE5">
+      <Source>The game must restart now because Add-On content has been removed.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00CEA4">
+      <Source>Collect the bounty from &lt;Alias=Steward&gt;</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00CEBF">
+      <Source>Talk to &lt;Alias=Victim&gt;</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00CEE6">
+      <Source>Talk to Malborn</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00CFC2">
+      <Source>Retrieve the soul gem</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00D01C">
+      <Source>Gambler</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00D0B3">
+      <Source>Pit Wolf</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00D0F1">
+      <Source>Blades Shield</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00D1F4">
+      <Source>Riften</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00D23C">
+      <Source>Speak to Mehrunes Dagon</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00D33C">
+      <Source>Forsworn Headdress</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00D347">
+      <Source>Fortify Alchemy</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00D48D">
+      <Source>Revenge, Hired Thugs</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00D4BF">
+      <Source>Speak to &lt;Alias=Questgiver&gt;</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00D4D9">
+      <Source>Dead Men&apos;s Respite</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00D4EC">
+      <Source>Inform the Alik&apos;r of Saadia&apos;s location</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00D6A4">
+      <Source>Dragon Research</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00D6E4">
+      <Source>Wood Elf</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00D744">
+      <Source>Call Storm</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00D7C2">
+      <Source>Who is Aventus?</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00D872">
+      <Source>Give Finn&apos;s Lute to Inge</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00D905">
+      <Source>Elven Gilded Armor</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00D98A">
+      <Source>Nord</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00D9B2">
+      <Source>Deliver the amulet to Onmund</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00D9CD">
+      <Source>Alftand Animonculory</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00DA0D">
+      <Source>Bleeding Damage</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00DA2A">
+      <Source>Return the book to Urag gro-Shub</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00DA85">
+      <Source>Penitus Oculatus Helmet</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00DB65">
+      <Source>Dragonsreach Jarl&apos;s Quarters</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00DBF0">
+      <Source>Staff of Magnus Effect</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00DCA7">
+      <Source>Jarl Ulfric Stormcloak asked me to deliver this axe to you.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00DD45">
+      <Source>Mzulft</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00DD7A">
+      <Source>Meet Delphine at the stables</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00DEC3">
+      <Source>Blades Gauntlets</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00DEFF">
+      <Source>Yes?</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00E01D">
+      <Source>Bleeding Damage</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00E033">
+      <Source>Right Weapon Rack</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00E03E">
+      <Source>Reforge Mehrunes&apos; Razor</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00E0A5">
+      <Source>Ennis</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00E2A8">
+      <Source>Speak to Falk Firebeard</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00E455">
+      <Source>Headsman&apos;s Axe</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00E49C">
+      <Source>Stillborn Cave</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00E558">
+      <Source>Bleak Falls Temple</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00E5F3">
+      <Source>Bleeding Damage</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00E654">
+      <Source>Palace of the Kings Upstairs</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00E692">
+      <Source>Labyrinthian</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00E696">
+      <Source>Bleeding Damage</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00E6C4">
+      <Source>Thalmor Embassy, Elenwen&apos;s Solar</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00E6E7">
+      <Source>Matching Set</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00E7A6">
+      <Source>Call of the Wild</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00E88B">
+      <Source>Dungeon Delving (Jarl - Caves)</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00E8CA">
+      <Source>Glory of the Dead</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00E9DD">
+      <Source>Cellar</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00E9DF">
+      <Source>Guild Master&apos;s Gloves</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00EA36">
+      <Source>Hall of Attainment</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00EA39">
+      <Source>Valthume Catacombs</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00EABA">
+      <Source>Twilight Sepulcher</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00EABF">
+      <Source>Hall of Countenance</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00EAD1">
+      <Source>Bleeding Damage</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00EAEE">
+      <Source>Vald</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00EBDF">
+      <Source>The Fallen</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00EC5A">
+      <Source>Bleeding Damage</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00EC7B">
+      <Source>Regenerate Stamina</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00ECBD">
+      <Source>Japhet&apos;s Folly</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00ECF8">
+      <Source>Scroll of Flame Thrall</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00ED3E">
+      <Source>The Ragged Flagon</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00ED76">
+      <Source>Fortify Stamina</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00EECF">
+      <Source>Staff of Magnus Effect</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00EF14">
+      <Source>Give Rjorn&apos;s Drum to Giraud</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00EFB1">
+      <Source>Khajiit</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00F0A5">
+      <Source>You look young for a blacksmith.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00F0BB">
+      <Source>Quick Reflexes</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00F2B5">
+      <Source>Thieves Guild Boots</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00F2E5">
+      <Source>Orc</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00F407">
+      <Source>Bring the Unusual Gem to Vex in the Thieves Guild</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00F509">
+      <Source>Thieves Guild Dialogue</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00F52C">
+      <Source>Forsworn Armor</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00F5DF">
+      <Source>Skill Boosts</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00F66F">
+      <Source>Speak to Maven Black-Briar</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00F6D9">
+      <Source>Speak to Quintus Navale</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00F6EA">
+      <Source>I&apos;ve purchased Honeyside.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00F730">
+      <Source>In My Time Of Need</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00F775">
+      <Source>Dismaying Shout</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00F79B">
+      <Source>Volunruud</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00F7A8">
+      <Source>Find Pantea&apos;s Flute</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00F9D5">
+      <Source>Falmer Helmet</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00F9FF">
+      <Source>Dragon Research</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00FAEB">
+      <Source>Yes?</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00FB24">
+      <Source>Esbern&apos;s Potion</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00FB76">
+      <Source>Bleeding Damage</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00FBA4">
+      <Source>Talk to Arngeir</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00FBC0">
+      <Source>Lead someone to become trapped by the shrine and slay them</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00FC01">
+      <Source>Rescue Mission</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00FC16">
+      <Source>Forsworn Boots</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00FCAA">
+      <Source>Search the Ratway for Esbern&apos;s hideout</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00FDA8">
+      <Source>Windhelm</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00FF64">
+      <Source>Retrieve the Totem of Hircine</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="00FFCA">
+      <Source>Get to the burial chamber</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="010002">
+      <Source>Markarth</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="01010D">
+      <Source>Return Wuuthrad to Ysgramor</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="01014C">
+      <Source>Gauntlets of the Old Gods</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0101C0">
+      <Source>Louis</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0101E3">
+      <Source>Helmet of the Old Gods</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="010216">
+      <Source>Armor of the Old Gods</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="010312">
+      <Source>Boots of the Old Gods</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0103BB">
+      <Source>Dragon</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="010499">
+      <Source>Ebony Blade</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="010502">
+      <Source>Weakness to Sunlight</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="010611">
+      <Source>Cannibalism</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="01068C">
+      <Source>Weakness to Sunlight</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="01069C">
+      <Source>Collect bounty from &lt;Alias=Jarl&gt;</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="01082E">
+      <Source>Weakness to Sunlight</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0108ED">
+      <Source>Collect the bounty from &lt;Alias=Jarl&gt;</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="010ADD">
+      <Source>Feed</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="010B2C">
+      <Source>Collect bounty from &lt;Alias=Jarl&gt;</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="010BAE">
+      <Source>Collect bounty from &lt;Alias=Jarl&gt;</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="010D38">
+      <Source>Movement</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="010D3A">
+      <Source>Movement</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="010E08">
+      <Source>Clean up that murderer&apos;s mess. (&lt;Global=HDWindhelmKiller&gt; gold)</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="010FA1">
+      <Source>Glass Helmet of Resurgence</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="01100A">
+      <Source>Follow Vilkas</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0111F5">
+      <Source>The White Phial (Full)</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="01122A">
+      <Source>The White Phial (Full)</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="01126F">
+      <Source>The White Phial (Full)</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="01127F">
+      <Source>&lt;Alias=Animal&gt; is waiting for you</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="011280">
+      <Source>&lt;Alias=Follower&gt; is waiting for you</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0112D7">
+      <Source>The White Phial (Full)</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0112E0">
+      <Source>The White Phial (Full)</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0112F2">
+      <Source>The White Phial (Full)</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="01133F">
+      <Source>Falkreath Jail</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="01141A">
+      <Source>Snakeblood</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="011442">
+      <Source>Dragon Race</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="01152F">
+      <Source>Dark Brotherhood Assassin Sent to Kill the Player</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="01153E">
+      <Source>Giant Stomp</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="011636">
+      <Source>Warmaster Knockdown</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="011685">
+      <Source>Courier Delivering an Important Message</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="011738">
+      <Source>Matching Set</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="011824">
+      <Source>Place the warpred soul gem into a final Convector</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="011825">
+      <Source>Place the warped soul gem into another Convector</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="011A52">
+      <Source>Staff of Magnus Effect</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="011ACB">
+      <Source>Matching Set</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="011C00">
+      <Source>There are those who believe that when night descends upon Skyrim, werewolves descend upon the unwary...</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="011C2C">
+      <Source>Those with the blood of a werewolf can never gain resting bonuses from sleeping.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="012133">
+      <Source>Elven Boots of Eminent Stamina</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0121CC">
+      <Source>Increases your health by &lt;mag&gt; points.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="012215">
+      <Source>Magicka regenerates &lt;mag&gt;% faster.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="012232">
+      <Source>Stamina regenerates &lt;mag&gt;% faster.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="01223C">
+      <Source>Health regenerates &lt;mag&gt;% faster.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="01228E">
+      <Source>Weapons and armor can be improved &lt;mag&gt;% better.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0122BA">
+      <Source>Increases your Magicka by &lt;mag&gt; points.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0122C5">
+      <Source>Created potions are &lt;mag&gt;% more powerful.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0122D1">
+      <Source>Increases your stamina by &lt;mag&gt; points.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0122E5">
+      <Source>Grants you the Dragon Infusion perk.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="01234A">
+      <Source>Absorb &lt;mag&gt; points of Health per second from the target.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="012353">
+      <Source>A blast from Wabbajack with an unpredictable effect. </Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="01237C">
+      <Source>Character menu is not available.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="01239A">
+      <Source>Absorb &lt;mag&gt; points of Magicka per second from the target.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0124B5">
+      <Source>MaterialWaterPuddle</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0124CF">
+      <Source>MaterialWaterPuddle</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="01250A">
+      <Source>MaterialWaterPuddle</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0125C6">
+      <Source>Summons a Dremora for &lt;dur&gt; seconds.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0125D2">
+      <Source>Summon Dremora</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="01265A">
+      <Source>Ancient Knowledge</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="01266E">
+      <Source>Calls a storm for &lt;dur&gt; seconds with lightning that strikes friend and foe alike.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="012671">
+      <Source>Calls a storm for &lt;dur&gt; seconds with lightning that strikes friend and foe alike.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="012672">
+      <Source>Calls a storm for &lt;dur&gt; seconds with lightning that strikes friend and foe alike.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="012698">
+      <Source>Sprinting</Source>
+      <Dest></Dest>
+    </String>
+    <String List="0" sID="0126C0">
+      <Source>I&apos;ve purchased Honeyside.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="000010">
+      <Source>Only usable during main gameplay. You must have the shout unlocked to the level you want to use, and you can say the Shout in English or in Dragon Language.
+
+1. English Language: Available without holding RB. Just say the name. e.g. UNRELENTING FORCE, and the highest known level of the shout will trigger.
+
+2. Dragon Language: Only available when holding RB. 
+
+Note: To use Shouts or Powers while Kinect is enabled using the controller, press LB + RB at same time.
+
+
+Unrelenting Force - &quot;Fus Ro Dah&quot;
+
+Dismaying Shout - &quot;Faas Ru Maar&quot;
+
+Become Ethereal - &quot;Feim Zii Gron&quot;
+
+Whirlwind Sprint - &quot;Wuld Nah Kest&quot;
+
+Elemental Fury - &quot;Su Grah Dun&quot;
+
+Clear Skies - &quot;Lok Vah Koor&quot;
+
+Fire Breath - &quot;Yol Toor Shul&quot;
+
+Dragonrend - &quot;Joor Zah Frul&quot;
+
+Call of Valor - &quot;Hun Kaal Zoor&quot;
+
+Call Dragon - &quot;Od Ah Viing&quot; (No 1st or 2nd level variations of this shout)
+
+Animal Allegiance - &quot;Raan Mir Tah&quot;
+
+Aura Whisper - &quot;Laas Yah Nir&quot;
+
+Disarm - &quot;Zun Haal Viik&quot;
+
+Marked For Death - &quot;Krii Lun Aus&quot;
+
+Frost Breath - &quot;Fo Krah Diin&quot;
+
+Storm Call - &quot;Strun Bah Qo&quot;
+
+Kyne’s Peace - &quot;Kaan Drem Ov&quot;
+
+Slow Time - &quot;Tiid Klo Ul&quot;
+
+Throw Voice - &quot;Zul Mey Gut&quot;
+
+Ice Form - &quot;Iiz Slen Nus&quot;</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="000013">
+      <Source>KINECT COMMANDS
+
+Turn on Kinect functionality by going to SETTINGS-&gt;GAMEPLAY and check USE KINECT COMMANDS. Be sure to calibrate your Kinect sensor for sound first.
+
+MAIN GAMEPLAY
+
+&quot;Quick Items&quot; - Opens inventory menu
+&quot;Quick Magic&quot; - Opens magic menu
+&quot;Quick Skills&quot; - Opens stats menu
+&quot;Quick Map&quot; - Opens map menu
+&quot;Quick Save&quot; - Quick-saves the game
+&quot;Quick Load&quot; - Quick-loads the game
+&quot;New Save&quot; - Saves the game into a new save slot
+&quot;Pause Game&quot; - Pauses the game
+
+CHARACTER MENU
+&quot;Items&quot; - Opens inventory menu
+&quot;Magic&quot; - Opens magic menu
+&quot;Skills&quot; - Opens skills menu
+&quot;Map&quot; - Opens map menu
+
+FAVORITES MENU
+&quot;Assign &lt;hotkey command&gt;&quot; -  Sets the selected item to the spoken hotkey
+&quot;Health Potion&quot;
+&quot;Magicka Potion&quot;
+&quot;Stamina Potion&quot;
+&quot;Poison&quot;
+&quot;Sword&quot;
+&quot;Mace&quot;
+&quot;Axe&quot;
+&quot;Dagger&quot;
+&quot;Bow&quot;
+&quot;Shield&quot;
+&quot;Dual Wield Left&quot;
+&quot;Dual Wield Right&quot;
+&quot;Soul Trap&quot;
+&quot;Greatsword&quot;
+&quot;Battleaxe&quot;
+&quot;Warhammer&quot;
+&quot;Fire Spell&quot;
+&quot;Frost Spell&quot;
+&quot;Lightning Spell&quot;
+&quot;Ward Spell&quot;
+&quot;Ritual Spell&quot;
+&quot;Bound Weapon&quot;
+&quot;Summon Spell&quot;
+&quot;Armor Spell&quot;
+&quot;Calm Spell&quot;
+&quot;Frenzy Spell&quot;
+&quot;Healing Spell&quot;
+&quot;Light&quot;
+
+HOTKEY EQUIPPING
+Only usable during main gameplay
+&quot;Equip &lt;hotkey command&gt;&quot; - Equips item in the default hand
+&quot;Equip Left &lt;hotkey command&gt;&quot; - Equips item in the Left hand, if possible.
+&quot;Equip Right &lt;hotkey command&gt;&quot; - Equips item in the Right hand, if possible.
+&quot;Equip Dual &lt;hotkey command&gt;&quot; - Equips the item in both hands, if possible.
+
+See above for definition of &lt;hotkey command&gt;
+&quot;Equip Sword And Shield&quot; - Equips the item with the Sword hotkey in the right hand, and the item with the Shield hotkey in the left hand
+
+Also: 
+&quot;Equip Mace and Shield&quot;
+&quot;Equip Axe and Shield&quot;
+&quot;Equip Dagger and Shield&quot;
+&quot;Equip Dual Weapons&quot; - Equips the item with the DualWieldLeft hotkey in the left hand, and the item with the DualWieldRight hotkey in the left hand.
+
+FOLLOWER COMMANDS
+Only usable during main gameplay.  Only valid if you have a follower.
+
+&quot;Ally Follow&quot; or &quot;Ally Follow Me&quot; - Ally follows you as if you told them &quot;Follow me.&quot;
+&quot;Ally Wait&quot; or &quot;Ally Wait Here&quot; - Ally stays where they are
+&quot;Ally Trade&quot; or &quot;Ally Items&quot; - Opens the Teammate menu
+&quot;Ally Open&quot; - Commands the ally to open the container / door you’re looking at.
+&quot;Ally Stand&quot; - Commands the ally to stand at the spot you’re looking at.
+&quot;Ally Retrieve&quot; - Commands the ally to pick up the item you’re looking at.
+&quot;Ally Attack&quot; - Commands the ally to attack the NPC you’re looking at.
+&quot;Ally Interact&quot; or &quot;Ally Use&quot; - Does a generic Interact command with the ally.  Same as if you entered Command mode and pressed A.  What the ally does is dependent on what you’re looking at
+
+SHOUTS
+Only usable during main gameplay.  
+
+Unrelenting Force - &quot;Fus Ro Dah&quot;
+
+Dismaying Shout - &quot;Faas Ru Maar&quot;
+
+Become Ethereal - &quot;Feim Zii Gron&quot;
+
+Whirlwind Sprint - &quot;Wuld Nah Kest&quot;
+
+Elemental Fury - &quot;Su Grah Dun&quot;
+
+Clear Skies - &quot;Lok Vah Koor&quot;
+
+Fire Breath - &quot;Yol Toor Shul&quot;
+
+Dragonrend - &quot;Joor Zah Frul&quot;
+
+Call of Valor - &quot;Hun Kaal Zoor&quot;
+
+Call Dragon - &quot;Od Ah Viing&quot; (No 1st or 2nd level variations of this shout)
+
+Animal Allegiance - &quot;Raan Mir Tah&quot;
+
+Aura Whisper - &quot;Laas Yah Nir&quot;
+
+Disarm - &quot;Zun Haal Viik&quot;
+
+Marked For Death - &quot;Krii Lun Aus&quot;
+
+Frost Breath - &quot;Fo Krah Diin&quot;
+
+Storm Call - &quot;Strun Bah Qo&quot;
+
+Kyne’s Peace - &quot;Kaan Drem Ov&quot;
+
+Slow Time - &quot;Tiid Klo Ul&quot;
+
+Throw Voice - &quot;Zul Mey Gut&quot;
+
+Ice Form - &quot;Iiz Slen Nus&quot;
+
+
+INVENTORY MENU
+&quot;Favorites&quot;
+&quot;All&quot;
+&quot;Weapons&quot;
+&quot;Apparel&quot; or &quot;Armor&quot;
+&quot;Potions&quot;
+&quot;Scrolls&quot;
+&quot;Food&quot;
+&quot;Ingredients&quot;
+&quot;Books&quot;
+&quot;Keys&quot;
+&quot;Miscellaneous&quot;
+&quot;Sort By Name&quot; - Sorts the item list by name, increasing.  If the list is already sorted by name increasingly, sorts it decreasingly.
+&quot;Sort By Weight&quot; - Sorts the item list by weight, decreasing.  If the list is already sorted by weight decreasingly, sorts it increasingly.
+&quot;Sort By Value&quot; - Sorts the item list by value, decreasing.  If the list is already sorted by value decreasingly, sorts it increasingly.
+&quot;Close Menu&quot; - Closes the menu
+
+BARTER MENU
+Vendor categories - Open the item list for the spoken vendor category
+&quot;Their Items&quot;
+&quot;Their Weapons&quot;
+&quot;Their Apparel&quot;
+&quot;Their Potions&quot;
+&quot;Their Scrolls&quot;
+&quot;Their Food&quot;
+&quot;Their Ingredients&quot;
+&quot;Their Books&quot;
+&quot;Their Keys&quot;
+&quot;Their Miscellaneous&quot;
+
+Player categories - Opens the item list for the spoken player category
+&quot;My Items&quot; or &quot;All&quot;
+&quot;My Weapons&quot; or &quot;Weapons&quot;
+&quot;My Apparel&quot; or &quot;Apparel&quot; or &quot;Armor&quot;
+&quot;My Potions&quot; or &quot;Potions&quot;
+&quot;My Scrolls&quot; or &quot;Scrolls&quot;
+&quot;My Food&quot; or &quot;Food&quot;
+&quot;My Ingredients&quot; or &quot;Ingredients&quot;
+&quot;My Books&quot; or &quot;Books&quot;
+&quot;My Keys&quot; or &quot;Keys&quot;
+&quot;My Miscellaneous&quot;
+&quot;Sort By Name&quot;
+&quot;Sort By Value&quot;
+&quot;Sort By Weight&quot;
+&quot;Close Menu&quot;
+
+CONTAINER MENU
+&quot;Their Items&quot;
+&quot;Their Weapons&quot;
+&quot;Their Apparel&quot;
+&quot;Their Potions&quot;
+&quot;Their Scrolls&quot;
+&quot;Their Food&quot;
+&quot;Their Ingredients&quot;
+&quot;Their Books&quot;
+&quot;Their Keys&quot;
+&quot;Their Miscellaneous&quot;
+
+Player categories - Opens the item list for the spoken player category
+&quot;My Items&quot; or &quot;All&quot;
+&quot;My Weapons&quot; or &quot;Weapons&quot;
+&quot;My Apparel&quot; or &quot;Apparel&quot; or &quot;Armor&quot;
+&quot;My Potions&quot; or &quot;Potions&quot;
+&quot;My Scrolls&quot; or &quot;Scrolls&quot;
+&quot;My Food&quot; or &quot;Food&quot;
+&quot;My Ingredients&quot; or &quot;Ingredients&quot;
+&quot;My Books&quot; or &quot;Books&quot;
+&quot;My Keys&quot; or &quot;Keys&quot;
+&quot;My Miscellaneous&quot;
+&quot;Set Loot Limit &lt;value&gt;&quot; - Sets the value that the &quot;Loot Items&quot; voice command should use.
+&lt;value&gt; can be 0, 5, 10, 25, 50 or 100.
+
+&quot;Loot Items&quot; - Takes all items from a container whose value-to-weight ratio is greater than or equal to the loot limit.  If the limit is 0, only takes weightless items with value, i.e. gold.
+&quot;Sort By Name&quot;
+&quot;Sort By Value&quot;
+&quot;Sort By Weight&quot;
+&quot;Close Menu&quot;
+
+MAGIC MENU
+&quot;Favorites&quot;
+&quot;All&quot;
+&quot;Alteration&quot;
+&quot;Illusion&quot;
+&quot;Destruction&quot;
+&quot;Conjuration&quot;
+&quot;Restoration&quot;
+&quot;Shouts&quot;
+&quot;Powers&quot;
+&quot;Active Effects&quot; or &quot;Effects&quot;
+
+MAP MENU
+&quot;&lt;city name&gt;&quot; - Centers the camera on that city.  Following cities (9 hold capitals) are implemented:
+&quot;Windhelm&quot;
+&quot;Falkreath&quot;
+&quot;Dawnstar&quot;
+&quot;Morthal&quot;
+&quot;Solitude&quot;
+&quot;Markarth&quot;
+&quot;Riften&quot;
+&quot;Whiterun&quot;
+&quot;Winterhold&quot;
+&quot;Player&quot; or &quot;Where am I&quot; - Centers camera on the player.
+&quot;Waypoint&quot; - Centers camera on player-set marker, if available
+&quot;Quest Marker&quot; or &quot;Quest&quot; - Centers camera on active quest target.  Saying it multiple times will cycle through targets.
+
+
+STATS MENU
+&quot;One Handed&quot;
+&quot;Two Handed&quot;
+&quot;Archery&quot;
+&quot;Block&quot;
+&quot;Smithing&quot;
+&quot;Heavy Armor&quot;
+&quot;Light Armor&quot;
+&quot;Pickpocket&quot;
+&quot;Lockpicking&quot;
+&quot;Sneak&quot;
+&quot;Alchemy&quot;
+&quot;Speech&quot;
+&quot;Alteration&quot;
+&quot;Conjuration&quot;
+&quot;Destruction&quot;
+&quot;Illusion&quot;
+&quot;Restoration&quot;
+&quot;Enchanting&quot;</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="00001C">
+      <Source>Once a skill has reached a value of 100, you have the option to make it Legendary on the Perk screen. This option resets the skill to a value of 15, and clears all its perks. You get back the perk points for all the perks that have been cleared.
+
+Making a skill Legendary allows you to continue to level up your character beyond the normal level limit.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="00005C">
+      <Source>I&apos;ve passed through Alduin&apos;s portal into Sovngarde, the realm of Aetherius where the souls of Nord heroes go to feast and battle until the final reckoning. Now to find Alduin and defeat him once and for all.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="0000B2">
+      <Source>Citizens of Skyrim, they are a tall and fair-haired people.  Strong and hardy, Nords are famous for their resistance to cold and their talent as warriors. They can use a Battlecry to make opponents flee.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="00013D">
+      <Source>Additional 25% Armor bonus if wearing a matched set of Light Armor.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="0003CF">
+      <Source>In addition to their quick and perceptive grasp of spellcraft, even the humblest of High Rock&apos;s Bretons can boast a resistance to magic. Bretons can call upon the Dragonskin power to absorb spells.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="0003D1">
+      <Source>I have been inducted as a full member of the Companions.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="00051A">
+      <Source>Calcelmo has proven to be extremely stubborn and refuses to allow me access to his materials regarding the Falmer language. I&apos;m left with little choice other than taking matters into my own hands and stealing his notes.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="0007C6">
+      <Source>&lt;Alias=Brute&gt; won&apos;t be causing as much trouble for &lt;Alias=BruteTown&gt;.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="000AFA">
+      <Source>The people of the Wrothgarian and Dragontail Mountains, Orcish smiths are prized for their craftsmanship. Orc troops in Heavy Armor are among the finest in the Empire, and are fearsome when using their Berserker Rage.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="000F98">
+      <Source>The hunt is on and I&apos;m on my way to Riftweald Manor, Mercer Frey&apos;s estate in Riften, to locate a clue as to his current whereabouts.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="001210">
+      <Source>It was suggested that I show my Unusual Gem to Vex, a member of the Thieves Guild in Riften. However, I&apos;ll need to wait until I&apos;m full member of the Guild before she&apos;ll be able to assist me.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="001339">
+      <Source>The art of creating and improving weapons and armor from raw materials.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="001522">
+      <Source>Potema has been summoned from beyond the grave and is gathering power. Styrr has given me the key to Potema&apos;s Catacombs. I must enter the catacombs and prevent Potema from fully resurrecting by acquiring her bones.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="001620">
+      <Source>All negative effects are removed from created potions, and all positive effects are removed from created poisons.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="00170E">
+      <Source>I&apos;ve recovered one of the Eyes of the Falmer from Irkngthand. I should take it to Delvin Mallory at the Ragged Flagon to determine its true value.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="0019A4">
+      <Source>Attacks with battle axes cause extra bleeding damage.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="0019A6">
+      <Source>Attacks with battle axes cause more bleeding damage.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="0019A9">
+      <Source>Attacks with battle axes cause even more bleeding damage.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="001A57">
+      <Source>Unified perk for applying skill benefits from perks</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="001D98">
+      <Source>The Companions believe there is a way to cleanse Kodlak&apos;s soul of the taint of the beast. We&apos;re going to the ancient Tomb of Ysgramor to perform the ceremony. </Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="001D9B">
+      <Source>I should attend the funeral of Kodak Whitman, the late Harbinger of the Companions.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="001DC4">
+      <Source>The leader of the so-called &quot;assassins&quot; I&apos;ve been asked to eliminate claims that Saadia betrayed her people to the Dominion and they are here to bring her to justice. I&apos;ve agreed to lead her into an ambush at the Whiterun stables.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="001DC5">
+      <Source>The barmaid at the Bannered Mare in Whiterun is apparently a fugitive noble from Hammerfell. She claims that she is on the run from assassins sent by rival houses in her homeland and needs someone to stop them before they find her. </Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="001DCA">
+      <Source>A group of men calling themselves the Alik&apos;r are looking for a Redguard woman in Whiterun.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="001E3A">
+      <Source>I met Sinding, a werewolf who the Daedric Lord Hircine had punished by preventing his transformations. I helped kill him as a service to Hircine, and have been rewarded with the Savior&apos;s Hide.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="0020B6">
+      <Source>&lt;Alias=Victim&gt; has been kidnapped and taken to &lt;Alias=Lair&gt;. I need to get &lt;Alias.PronounObj=Victim&gt; back to &lt;Alias=VictimHome&gt;.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="002132">
+      <Source>I&apos;ve discovered what appears to be a shipping map for the East Empire Company. I should take it to Delvin Mallory at the Ragged Flagon to determine its true value.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="00218E">
+      <Source>I&apos;ve dealt with the three troublesome business owners in Riften as Brynjolf had specified. Perhaps now that I&apos;ve proven my worth to Brynjolf, I can discover more about this mysterious organization that he represents.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="002190">
+      <Source>After successfully locating the Ragged Flagon, Brynjolf has given me a new assignment. Three business owners in Riften are proving to be a thorn in his side and I&apos;m supposed to teach them the error of their ways. I should speak to Brynjolf about these townspeople in the event that they prove to be as stubborn as I&apos;m expecting them to be.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="002226">
+      <Source>Now that Mallus&apos;s position as the owner of Honningbrew Meadery has been secured, I need to find any information explaining how Sabjorn was able to fund this costly operation.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="002229">
+      <Source>The plan worked perfectly and Whiterun&apos;s Captain of the Guard was stricken with illness when he drank the poisoned mead. Sabjorn&apos;s been carted off to jail and Honningbrew Meadery is now closed.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="00222E">
+      <Source>Sabjorn has provided me with poison I&apos;m to apply to the nests deep within the tunnels under Honningbrew Meadery. As Mallus predicted, I should be able to use the very same poison to taint Sabjorn&apos;s mead as well.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="002230">
+      <Source>I&apos;ve become a key component in a cunning plan to frame Honningbrew Meadery&apos;s owner, Sabjorn, and have him imprisoned. The first part of the scheme is to approach Sabjorn under the guise of assistance with a pest problem he&apos;s having thanks to Mallus&apos;s tinkering.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="002237">
+      <Source>I&apos;ve been sent to speak to Maven Black-Briar, head of the wealthiest most influential family in Riften. According to Brynjolf, she has a job of utmost importance for me and I need to follow her directions to the letter.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="002273">
+      <Source>I&apos;m on my way to meet Mercer Frey at the ruins of Snow Veil Sanctum, Karliah&apos;s last known location. Together, Mercer and I intend to hunt her down and make her pay for Gallus&apos;s murder.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="00228D">
+      <Source>If I want to become a member of the Companions, I have to speak to their leader, Kodlak Whitemane, in Whiterun.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="002292">
+      <Source>Calcelmo&apos;s &quot;notes&quot; on the Falmer language are actually derived from a massive stone slab in his tower! It will be impossible to bring this item to Enthir to have him translate Gallus&apos;s Journal. I&apos;ll have to discover a way to make the information more portable.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="0022AD">
+      <Source>I&apos;ve discovered some plans in Riftweald Manor. This must be where Mercer Frey is headed. I should bring these the Brynjolf as soon as possible.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="0022B3">
+      <Source>I&apos;m on my way back to the Ragged Flagon to meet up with Karliah. Using the information obtained from Gallus&apos;s journal as proof, I hope to convince Brynjolf of Karliah&apos;s innocence and Mercer Frey&apos;s betrayal.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="0022D0">
+      <Source>An otherworldly voice coming from Mount Kilkreath is commanding me to find a beacon and return it.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="0023A2">
+      <Source>Silus is dead. Whatever plans he had have died with him.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="0023A4">
+      <Source>I refused to kill Silus for Mehrunes Dagon. The Razor is forever out of my grasp.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="0023A5">
+      <Source>Silus is dead and Mehrunes&apos; Razor is mine.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="0023A7">
+      <Source>Silus Vesuius, the owner of a museum dedicated to the Mythic Dawn cult, wants to hire me for a job. He&apos;ll give me the details inside his house in Dawnstar.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="0023DE">
+      <Source>&lt;Alias=Brute&gt; was killed, through no fault of my own.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="0023DF">
+      <Source>I got carried away and killed &lt;Alias=Brute&gt;.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="0023E1">
+      <Source>&lt;Alias=Brute&gt; has been causing trouble for someone around &lt;Alias=BruteTown&gt;. I need to rough &lt;Alias.PronounObj=Brute&gt; up to remind &lt;Alias.PronounObj=Brute&gt; of &lt;Alias.PronounPosObj=Brute&gt; obligations.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="0023FE">
+      <Source>I found &lt;Alias=Victim&gt; in &lt;Alias=Lair&gt; but &lt;Alias.Pronoun=Victim&gt; died.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="0023FF">
+      <Source>I rescued &lt;Alias=Victim&gt; from &lt;Alias=Lair&gt; and escorted &lt;Alias.PronounObj=Victim&gt; back to &lt;Alias=VictimHome&gt;.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="00245E">
+      <Source>Potema has been summoned from beyond the grave and is gathering power. Falk has sent me to Styrr to get the key to Potema&apos;s Catacombs.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="0024E4">
+      <Source>I met Sinding, a werewolf who the Daedric Lord Hircine had punished by preventing his transformations. I defended him against the hunters that Hircine sent to end his life, and earned his friendship.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="0024ED">
+      <Source>I&apos;ve met Sinding, a werewolf who the Daedric Lord Hircine has punished by preventing his transformations. I&apos;m going to defend him against the hunters that Hircine has sent to end his life. </Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="0024F1">
+      <Source>I&apos;ve met Sinding, a werewolf who the Daedric Lord Hircine has punished by preventing his transformations. He&apos;s given me the ring he stole and asked me to entreat Hircine for forgiveness.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="0024F4">
+      <Source>There are stories in Falkreath of a strange vagrant who savagely killed a little girl. </Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="00262D">
+      <Source>&quot;Sam&quot; turned out to be the daedric prince of debauchery, Sanguine. He spurred me on during a drunken night of revelry that crossed all of Skyrim. I&apos;ve acquired the Sanguine Rose for my troubles.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="002630">
+      <Source>I have awoken from a night of debauchery with no idea what happened. Sam and the staff he promised me have disappeared. Ysolda in Whiterun has told me to look for Sam in Morvunskar.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="002637">
+      <Source>I have awoken from a night of debauchery with no idea what happened. Sam and the staff he promised me have disappeared. A note of debt I gave to Ennis in Rorikstead has directed me to Ysolda in Whiterun, she might be able to direct me to Sam.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="002638">
+      <Source>I have awoken from a night of debauchery with no idea what happened. Sam and the staff he promised me have disappeared. Ennis in Rorikstead will tell me more about what happened once I return the goat I stole from him.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="00263A">
+      <Source>I have awoken from a night of debauchery with no idea what happened. Sam and the staff he promised me have disappeared. The priestesses of Dibella have told me to ask about Sam in Rorikstead.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="00263C">
+      <Source>I have awoken in the Temple Of Dibella in Markarth. Sam and the staff he promised me have disappeared. I have no idea how I got here but a priestess has told me I trashed the Temple. The priestess might tell me what happened to Sam and the staff if I pick up the place.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="00263D">
+      <Source>I have awoken in the Temple Of Dibella in Markarth. Sam and the staff he promised me have disappeared.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="00269D">
+      <Source>The Greybeards summoned me to their monastery of High Hrothgar on the slopes of the Throat of the World. Their leader, Arngeir, recognized me as &quot;Dragonborn&quot;, and taught me more about my new Voice powers. After passing several tests, they sent me on one final trial, retrieving the legendary Horn of Jurgen Windcaller.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="002815">
+      <Source>It seems that things are worse than even Delphine thought. Dragons aren&apos;t just coming back to life, they&apos;re being resurrected by other dragons. Delphine suspects that the Thalmor might be bringing dragons back for some sinister purpose. I met with her contact, Malborn, who is going to smuggle some of my equipment into the Thalmor ambassador&apos;s manor. I&apos;m going to infiltrate the manor posing as a guest at the ambassador&apos;s party. Once inside, I need to meet up with Malborn and figure out a way to slip away from the party without being caught.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="002818">
+      <Source>It seems that things are worse than even Delphine thought. Dragons aren&apos;t just coming back to life, they&apos;re being resurrected by other dragons. Delphine suspects that the Thalmor might be bringing dragons back for some sinister purpose. She&apos;s going to help me infiltrate the Thalmor ambassador&apos;s manor and find out what they know about the dragons. I should meet with her contact, Malborn, in the Winking Skeever Inn in Solitude.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="00283B">
+      <Source>The Thalmor are just as puzzled as we are about why dragons are returning. I learned that they are looking for a Blade named Esbern, who Delphine says is an expert on ancient dragon lore. We need to find him before the Thalmor do.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="002B71">
+      <Source>I&apos;m imprisoned inside Cidhna Mine, framed for Eltrys&apos; murder. I have to find Madanach, the King in Rags, and clear my name.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="002C42">
+      <Source>After I defeated Alduin on the top of the Throat of the World, he fled from me. One of his dragon allies may be able to tell me where he&apos;s gone. With the help of the Jarl of Whiterun, I&apos;ve trapped the dragon Odahviing in Dragonsreach. Now to interrogate Odahviing and learn the location of Alduin&apos;s lair so I can finish him off, once and for all.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="002C44">
+      <Source>After I defeated Alduin on the top of the Throat of the World, he fled from me. One of his dragon allies may be able to tell me where he&apos;s gone. The Jarl of Whiterun has agreed to help me trap a dragon in Dragonsreach. I&apos;ve learned a Shout which is the name of one of Alduin&apos;s allies, which should serve to bring him to the Dragonsreach courtyard so I can trap him there. Then I can interrogate the dragon and learn the location of Alduin&apos;s lair so I can finish him off, once and for all. </Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="002C48">
+      <Source>After I defeated Alduin on the top of the Throat of the World, he fled from me. One of his dragon allies may be able to tell me where he&apos;s gone. The Jarl of Whiterun has agreed to help me trap a dragon in Dragonsreach. Then I can interrogate the dragon and learn the location of Alduin&apos;s lair so I can finish him off, once and for all.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="002C49">
+      <Source>After I defeated Alduin on the top of the Throat of the World, he fled from me. One of his dragon allies may be able to tell me where he&apos;s gone. The Jarl of Whiterun has agreed to help me trap a dragon in Dragonsreach. Now I need some way to lure a dragon into the trap. Esbern or Paarthurnax might be able to help.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="002C4E">
+      <Source>After I defeated Alduin on the top of the Throat of the World, he fled from me. One of his dragon allies may be able to tell me where he&apos;s gone. I&apos;ve learned that Dragonsreach, the Jarl&apos;s palace in Whiterun, was once used to imprison a dragon. If I can arrange a truce in the civil war, the Jarl of Whiterun has agreed to help me trap a dragon in Dragonsreach. Then I can interrogate the dragon and learn the location of Alduin&apos;s lair so I can finish him off, once and for all.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="002C52">
+      <Source>After I defeated Alduin on the top of the Throat of the World, he fled from me. One of his dragon allies may be able to tell me where he&apos;s gone. I&apos;ve learned that Dragonsreach, the Jarl&apos;s palace in Whiterun, was once used to imprison a dragon. I need to persuade the Jarl of Whiterun to help me trap a dragon in Dragonsreach.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="002C76">
+      <Source>The Jarl of Whiterun won&apos;t help me capture a dragon as long as the civil war is raging. If I can get the Greybeards to host a peace council, I can try to convince the Imperials and the Stormcloaks to agree to a truce in order to defeat Alduin, who is a threat to both sides in the civil war.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="002DB1">
+      <Source>I have joined the Companions, the legendary warrior band of Whiterun.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="002DB6">
+      <Source>The legendary warrior band of Whiterun, the Companions have agreed to let me join them, if I can handle some preliminary tasks for them.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="002DCA">
+      <Source>I&apos;ve discovered the bust of a man named the Gray Fox inside Mercer Frey&apos;s House. I should take it to Delvin Mallory at the Ragged Flagon to determine its true value.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="002DD0">
+      <Source>I&apos;ve discovered the intricately crafted model of a sailing ship inside Snow Veil Sanctum. I should take it to Delvin Mallory at the Ragged Flagon to determine its true value.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="002DD1">
+      <Source>Brynjolf has been convinced of Karliah&apos;s innocence and Mercer&apos;s betrayal after investigating the Guild&apos;s treasure vault and finding it empty. Of greater mystery is the fact that the vault can only be opened with two keys and is utterly impervious to lockpicking. How Mercer Frey could have breached it is a mystery to us all.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="002DD2">
+      <Source>I&apos;ve discovered an unusual statue of a queen bee within Goldenglow Estate. I should take it to Delvin Mallory at the Ragged Flagon to determine its true value.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="002DEF">
+      <Source>Boethiah revealed herself to me. I am to slay her previous champion, and having done so, don the Ebony Mail. So doing, she will make me her champion.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="002DF0">
+      <Source>Boethiah has appeared using &lt;Alias=DeadFriend&gt;&apos;s corpse as a vessel. She will give a special task to whichever of her cultists are left alive after we fight to the death.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="002DF4">
+      <Source>I am to lead someone to the Shrine of Boethiah, instruct them to touch the Pillar of Sacrifice, and once trapped by it&apos;s magic, slay them. If I do this Boethiah will appear.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="002DFA">
+      <Source>I found a book that mentioned a cult of Boethiah in the mountains near Windhelm.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="002E09">
+      <Source>I&apos;ve found a strange gem. An otherworldly voice is commanding me to bring it to Mount Kilkreath.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="002E7B">
+      <Source>Nurelion&apos;s assistant, Quintus, believes he&apos;s found a way to repair the White Phial, and has enlisted me to track down some materials for him. </Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="002E7C">
+      <Source>Nurelion&apos;s assistant, Quintus, believes he&apos;s found a way to repair the White Phial.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="002E9B">
+      <Source>I have defeated Potema and been rewarded by Falk Firebeard.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="0030C2">
+      <Source>The Companions leaders say they don&apos;t have any more work for me, but that I should speak to Skjor about &quot;the next steps.&quot;</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="0030C6">
+      <Source>&lt;Alias=Questgiver&gt; says that the Companions have been waiting for my return. I&apos;m supposed to follow &lt;Alias.PronounObj=Questgiver&gt;.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="0030D0">
+      <Source>Vilkas and I avenged Kodlak&apos;s death by bringing ruin to the Silver Hand. </Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="0030D1">
+      <Source>Vilkas has come with me to avenge the death of Kodlak by wiping out the Silver Hand.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="003339">
+      <Source>I have confronted and stopped a group of necromancers attempting to summon Potema, the Wolf Queen, in Wolfskull Cave. I should return to Falk Firebeard with the news.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="0033EA">
+      <Source>I&apos;ve brought the Crown of Barenziah back to Vex, who has restored it to its original condition where it now serves as a paragon for the Thieves Guild.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="0033F1">
+      <Source>I&apos;ve found an unusual gem which seems to exhibit magical properties. I should bring it to Vex at the Thieves Guild for an appraisal.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="0038B3">
+      <Source>The most naturally talented warriors in Tamriel, the Redguards of Hammerfell have a hardy constitution and a natural resistance to poison. They can call upon an Adrenaline Rush in combat.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="003BB3">
+      <Source>Thieves stolen Finn&apos;s Lute from the Bards College over a year ago. Inge Six-Fingers has asked me to recover the lute from their stronghold. </Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="003BC1">
+      <Source>Giraud Gemane of the Bards College has found a clue to the location of the legendary drum of Rjorn. He&apos;s asked me to go to Halldir&apos;s Cairn and retrieve it.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="003E03">
+      <Source>Maven Black-Briar has sent me to Whiterun where I am to meet with someone named Mallus Maccius. Together, our goal is to bring down one of Maven&apos;s competitors, Honningbrew Meadery and discover where he obtained the financing to take her on.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="004A9E">
+      <Source>Meridia has commanded me to enter Kilkreath Ruins, destroy Malkoran, and retrieve the artifact Dawnbreaker. I will need to guide a beam of light through the ruins which will open the way for me.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="004E37">
+      <Source>Karliah believes the only proof that could expose Mercer&apos;s treachery can be found within the pages of Gallus&apos;s journal which she recovered from Snow Veil Sanctum. Unfortunately, the journal is written in some sort of code that needs to be deciphered. Our only hope is Enthir, one of Karliah and Gallus&apos;s former acquaintances who is a wizard at the College of Winterhold.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="005038">
+      <Source>I&apos;ve discovered an curious Dwemer-constructed puzzle cube inside Calcelmo&apos;s Quarters in Markarth. I should take it to Delvin Mallory at the Ragged Flagon to determine its true value.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="0067B6">
+      <Source>This reptilian race, well-suited for the treacherous swamps of their Black Marsh homeland, has developed a natural resistance to diseases and the ability to breathe underwater. They can call upon the Histskin to regenerate health very quickly.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="006B85">
+      <Source>I&apos;ve discovered an unusual golden decanter inside Honningbrew Meadery. I should take it to Delvin Mallory at the Ragged Flagon to determine its true value.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="006E1E">
+      <Source>After I defeated Alduin on the top of the Throat of the World, he fled from me. One of his dragon allies may be able to tell me where he&apos;s gone. With the help of the Jarl of Whiterun, I&apos;ve trapped the dragon Odahviing in Dragonsreach. Odahviing revealed that Alduin&apos;s lair is located in the ancient temple of Skuldafn, which is only accessible by air. Odahviing has offered to take me there, in return for his freedom.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="007461">
+      <Source>The most naturally talented warriors in Tamriel, the Redguards of Hammerfell have a hardy constitution and a natural resistance to poison. They can call upon an Adrenaline Rush in combat.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="007D5A">
+      <Source>Brynjolf is convinced Mercer Frey intends to perform one final heist before departing Skyrim for good. According to the plans I discovered in Riftweald Manor, he&apos;s after the &quot;Eyes of the Falmer,&quot; two gems of enormous value. If we have any hopes of intercepting Mercer, we need to proceed to their location immediately.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="00923E">
+      <Source>The unusual gem has turned out to be one of twenty-four &quot;Stones of Barenziah.&quot; According to Vex, they have little value unless the set is complete.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="0093BB">
+      <Source>I have awoken from a night of debauchery with no idea what happened. Sam and the staff he promised me have disappeared. Ysolda in Whiterun will give me more information about Same once I return the ring I borrowed from her to give to a hagraven Witchmist Grove.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="0096D9">
+      <Source>Hailing from the province of Elsweyr, they are intelligent, quick, and agile.  They make excellent thieves due to their natural stealthiness. All Khajiit can see in the dark at will and have unarmed claw attacks.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="00978A">
+      <Source>Enthir has informed me that Gallus&apos;s Journal is written in Falmer. He&apos;s directed me to seek out Calcelmo, the Court Wizard in Markarth who is the foremost authority on them in hopes of obtaining a translation.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="009C3E">
+      <Source>Hailing from the province of Elsweyr, they are intelligent, quick, and agile.  They make excellent thieves due to their natural stealthiness. All Khajiit can see in the dark and have deadly claw attacks.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="00A086">
+      <Source>This reptilian race, well-suited for the treacherous swamps of their Black Marsh homeland, has developed a natural resistance to diseases and the ability to breathe underwater. They can call upon the Histskin to regenerate health very quickly.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="00A2F4">
+      <Source>It seems that things are worse than even Delphine thought. Dragons aren&apos;t just coming back to life, they&apos;re being resurrected by other dragons. Delphine suspects that the Thalmor might be bringing dragons back for some sinister purpose. She&apos;s going to talk to her contacts about how we can infiltrate the Thalmor Embassy.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="00A618">
+      <Source>I helped repair the White Phial in time for Nurelion to see it before he died. </Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="00A6C9">
+      <Source>Natives of Cyrodiil, they have proved to be shrewd diplomats and traders. They are skilled with combat and magic. Anywhere gold coins might be found, Imperials always seem to find a few more. They can call upon the Voice of the Emperor to calm an enemy.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="00A8FA">
+      <Source>Windhelm is plagued by a shadowy killer. I&apos;ve been asked to help investigate the latest murder.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="00A917">
+      <Source>I&apos;ve met Sinding, a werewolf who the Daedric Lord Hircine has punished by preventing his transformations. Hircine has asked me to finish the job and gain his favor by killing Sinding.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="00A9EF">
+      <Source>I have awoken from a night of debauchery with no idea what happened. Sam and the staff he promised me have disappeared. Ysolda in Whiterun will give me more information about Same once I return the ring I borrowed from her to give to someone in Witchmist Grove.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="00AE29">
+      <Source>Potema has been summoned from beyond the grave. I&apos;ve defeated her in the Catacombs and retrieved her bones. I must return them to Styrr for blessing and tell Falk Potema has been defeated.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="00B166">
+      <Source>Silus Vesuius is offering me gold to retrieve the three pieces of Mehrunes&apos; Razor from their current owners. Drascua has the pommel, Ghunzul has the blade shards, and Jorgen has the hilt.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="00C80A">
+      <Source>Brynjolf has promised me more work if I&apos;m able to locate him at a tavern called the Ragged Flagon. Judging from the dangerous nature of its location, it seems as though he&apos;s having me perform some type of initiation, but I can&apos;t be certain.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="00CB0B">
+      <Source>The Greybeards have summoned me to their monastery of High Hrothgar on the slopes of the Throat of the World. They seem to have learned of the mysterious power that I gained when I killed the dragon outside Whiterun.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="00D238">
+      <Source>I have awoken in the Temple Of Dibella in Markarth. Sam and the staff he promised me have disappeared. I have no idea how I got here but a priestess has told me I trashed the Temple. I have cleaned up the Temple, if I apologize to the priestess she might tell me what happened to Sam and the staff.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="00D2F0">
+      <Source>Natives of Cyrodiil, they have proved to be shrewd diplomats and traders. They are skilled with combat and magic. Anywhere gold coins might be found, Imperials always seem to find a few more. They can call upon the Voice of the Emperor to calm an enemy.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="00D9CB">
+      <Source>After I defeated Alduin on the top of the Throat of the World, he fled from me. I need to locate his lair so I can finish him off, once and for all.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="00DAD3">
+      <Source>I have awoken from a night of debauchery with no idea what happened. Sam and the staff he promised me have disappeared. Ennis in Rorikstead will tell me more about what happened once I return the goat I stole from him.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="00DFD9">
+      <Source>Arrows that hit the shield do no damage.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="00E4A8">
+      <Source>Citizens of Skyrim, they are a tall and fair-haired people.  Strong and hardy, Nords are famous for their resistance to cold and their talent as warriors. They can use a Battlecry to make opponents flee.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="00E930">
+      <Source>Pickpocketing bonus of 100%. Item weight and value reduce pickpocketing odds.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="00E9DA">
+      <Source>In addition to their quick and perceptive grasp of spellcraft, even the humblest of Bretons can boast a resistance to shock attacks. They are particularly skilled at conjuration magic.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="00FA10">
+      <Source>The tables have unexpectedly turned, and Mercer Frey has been revealed as Gallus&apos;s killer. I now find myself in Karliah&apos;s care after Mercer tried to murder me, claiming I&apos;d outlasted my usefulness by witnessing their conversation. I&apos;ve also discovered that Mercer, Gallus and Karliah were members of some sort of group calling themselves &quot;The Nightingales&quot; - guardians in service to the goddess Nocturnal. What they&apos;re protecting or what this has to do with the Guild is still a mystery to me.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="00FAC6">
+      <Source>I helped grant Kodlak Whitemane the glory of Sovngarde, and took his place as Harbinger of the Companions.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="00FE2C">
+      <Source>The people of the Wrothgarian and Dragontail Mountains, Orcish smiths are prized for their craftsmanship. Orc troops in Heavy Armor are among the finest in the Empire, and are fearsome when using their Berserker Rage.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="00FE9F">
+      <Source>I discovered that Wuunferth the Unliving was the Butcher of Windhelm, and helped bring him to justice. </Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="00FEBB">
+      <Source>The clanfolk of the Western Valenwood forests, also known as &quot;Bosmer.&quot; Wood elves make good scouts and thieves, and there are no finer archers in all of Tamriel. They have natural resistances to both poisons and diseases. They can Command Animals to fight for them.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="00FF4F">
+      <Source>Also known as &quot;Dunmer&quot; in their homeland of Morrowind, dark elves are noted for their stealth and magic skills. They are naturally resistant to fire and can call upon their Ancestor&apos;s Wrath to surround themselves in fire.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="00FFE4">
+      <Source>The Companions have given me one final challenge before inducting me. I&apos;m to retrieve a fragment of Wuuthrad, the Blade of Ysgramor, from &lt;Alias=Dungeon&gt; while &lt;Alias=Observer&gt; judges my valor.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="0100BE">
+      <Source>Also known as &quot;Dunmer&quot; in their homeland of Morrowind, dark elves are noted for their stealth and magic skills. They are naturally resistant to fire and can call upon their Ancestor&apos;s Wrath to surround themselves in fire.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="0100EA">
+      <Source>Also known as &quot;Altmer&quot; in their homeland of Summerset Isle, the high elves are the most strongly gifted in the arcane arts of all the races. They can call upon their Highborn power to regenerate Magicka quickly.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="010134">
+      <Source>A representative from Dragon Bridge has appealed to the court in Solitude for help investigating Wolfskull Cave. Falk Firebeard has asked me to clear out the cave.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="010138">
+      <Source>Vex has revealed to me that the Crown of Barenziah is actually a paragon for the Thieves Guild. If I can recover the crown from Tolvald&apos;s Cave, she should be able to restore our paragon to its full strength.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="01013E">
+      <Source>Aela and I retrieved a Totem of Hircine from &lt;Alias=Dungeon&gt;.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="01013F">
+      <Source>Aela has tracked one of the Totems of Hircine to &lt;Alias=Dungeon&gt;, and has come with me to retrieve it.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="010159">
+      <Source>Also known as &quot;Altmer&quot; in their homeland of Summerset Isle,  the high elves are the most strongly gifted in the arcane arts of all the races. They can call upon their Highborn power to regenerate magicka quickly.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="01023B">
+      <Source>A representative from Dragon Bridge has appealed to the court in Solitude for help investigating Wolfskull Cave. Falk Firebeard is looking for someone to look into the issue.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="01025A">
+      <Source>The clanfolk of the Western Valenwood forests, also known as &quot;Bosmer.&quot; Wood elves make good scouts and thieves, and there are no finer archers in all of Tamriel. They have natural resistances to both poisons and diseases. They can Command Animals to fight for them.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="0102BC">
+      <Source>I successfully retrieved a fragment of Wuuthrad, the Blade of Ysgramor, to earn my place in the Companions.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="01052E">
+      <Source>The Thalmor are just as puzzled as we are about why dragons are returning. I learned that they are looking for a Blade named Esbern, who is supposed to be an expert on ancient dragon lore. I found Esbern hiding in the Ratway in Riften, and convinced him to let me in to explain myself.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="010538">
+      <Source>I have helped Madanach escape Cidhna Mine, and he and his Forsworn have taken credit for all my past crime, clearing my name in the Reach.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="010570">
+      <Source>Onmund has asked me to help him get an amulet with sentimental value back from Enthir.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="0105B0">
+      <Source>Allows feeding from corpses.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="01060C">
+      <Source>It seems that things are worse than even Delphine thought. Dragons aren&apos;t just coming back to life, they&apos;re being resurrected by other dragons. Delphine suspects that the Thalmor might be bringing dragons back for some sinister purpose. Her contact, Malborn, smuggled some of my equipment into the Thalmor ambassador&apos;s manor. I infiltrated the manor posing as a guest at the ambassador&apos;s party. Now I need to search the ambassador&apos;s office to find out what the Thalmor know about the dragons.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="010667">
+      <Source>Enthir insists that Onmund sold him the amulet in question, and he will not go back on a trade. If, however, I can recover a particular staff for Enthir, he&apos;ll give me the amulet. I&apos;ll need to search &lt;Alias=StaffLocation&gt; for the staff.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="010671">
+      <Source>Eorlund needs the fragments of Wuuthrad to prepare them for remounting in Jorrvaskr. </Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="0106FF">
+      <Source>As a member of the Circle, I need to convene in the Underforge to determine the next steps for the Companions following the death of Kodak Whitman.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="010704">
+      <Source>I&apos;ve helped Saadia escape the clutches of the Alik&apos;r sent after her. With their leader defeated, she believes the rest of them will scatter, affording her some much-needed safety for now.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="01071D">
+      <Source>The information I obtained from Honningbrew Meadery points to the same anonymous buyer of Goldenglow Estate. If successful, this individual would have completely estranged Maven Black-Briar from the Guild and destroyed it economically. It&apos;s becoming painfully obvious that it&apos;s time to shed some light on our mysterious adversary before they have a chance to strike again.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="010724">
+      <Source>After Enthir successfully translated Gallus&apos;s journal, I&apos;ve discovered that Mercer&apos;s  motivations transcended simple greed or murder. As a member of the Nightingales, Mercer was tasked with guarding a place called The Twilight Sepulcher, the Temple of Nocturnal. According to Gallus, he defiled the temple and betrayed the Thieves Guild. Karliah insists we bring this information to Brynjolf immediately.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="010725">
+      <Source>Mehrunes Dagon has promised to reforge his Razor if I place my hands on his altar.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="01072A">
+      <Source>Mehrunes Dagon has asked me to kill Silus Vesuius. I will be given the reforged Razor if I succeed.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="01072C">
+      <Source>I killed an escaped criminal in &lt;Alias=LocationHold&gt;.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="01072E">
+      <Source>There is an escaped criminal wandering &lt;Alias=LocationHold&gt;. I&apos;m supposed to track &lt;Alias.PronounObj=Criminal&gt; down and kill &lt;Alias.PronounObj=Criminal&gt;.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="010738">
+      <Source>The Jarl of Whiterun wouldn&apos;t help me capture a dragon as long as the civil war was raging. Arngeir agreed to host a peace council at High Hrothgar. With Esbern&apos;s help, I persuaded General Tullius and Ulfric Stormcloak to agree to a truce in order to defeat Alduin, who is a threat to both sides in the civil war.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="010780">
+      <Source>The Greybeards summoned me to their monastery of High Hrothgar on the slopes of the Throat of the World. I spoke to Arngeir, one of the Greybeards, who believes that I am &quot;Dragonborn&quot;, which means I am especially gifted in the use of the Voice. They have offered to help me learn to use my new abilities.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="010793">
+      <Source>Arniel has finally revealed to me that his secret project deals with the disappearance of the dwarves, though he hasn&apos;t been clear about how his work relates to it. He&apos;s given me a warped soul gem, and asked me to find several Dwarven Convectors in the various ruins around Skyrim. I&apos;m supposed to place the gem inside a convector, and then heat it using a spell Arniel has taught me. When I&apos;ve done this several times, I should return the gem to Arniel.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="0107A1">
+      <Source>It seems that things are worse than even Delphine thought. Dragons aren&apos;t just coming back to life, they&apos;re being resurrected by other dragons. Delphine suspects that the Thalmor might be bringing dragons back for some sinister purpose. With the help of her contact, Malborn, I infiltrated the manor posing as a guest at the ambassador&apos;s party. I&apos;ve now learned that the Thalmor are just as in the dark as we are - in fact, they&apos;re searching Riften for a Blade named Esbern, who they believe knows what the return of the dragons means.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="0107B9">
+      <Source>I&apos;ve passed through Alduin&apos;s portal into Sovngarde, the realm of Aetherius where the souls of Nord heroes go to feast and battle until the final reckoning. Alduin has laid some kind of soul-snare across the valley of Sovngarde, a mist where he hides and feeds upon the trapped souls. My only hope is to reach the Hall of Heroes.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="01081E">
+      <Source>Onmund is grateful that I was able to deal with Enthir and return his amulet.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="010825">
+      <Source>Enthir agreed to return Onmund&apos;s amulet to him, and has given it to me. I need to make sure it gets back to Onmund.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="010828">
+      <Source>I have found the staff that Enthir wanted, and need to deliver it to him so that he&apos;ll exchange it for Onmund&apos;s amulet.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="0108F7">
+      <Source>After making arrangements with Kematu, I&apos;ve delivered Saadia to him. He assures me that she will be taken back to Hammerfell alive, though after that her fate is no longer in his hands.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="010A72">
+      <Source>I have killed Silus Vesuius for Mehrunes Dagon. I should speak to the Lord of Destruction through his altar.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="010A74">
+      <Source>Thonar Silver-Blood has granted me a pardon for killing Madanach. My name has now been cleared in the Reach.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="010ADF">
+      <Source>&lt;img src=&apos;img://Textures/Interface/Books/Daedric Artifact book/Daedric Artifac00.png&apos; height=&apos;471&apos; width=&apos;296&apos;&gt;
+[pagebreak]
+&lt;img src=&apos;img://Textures/Interface/Books/Daedric Artifact book/Daedric Artifact01.png&apos; height=&apos;471&apos; width=&apos;296&apos;&gt;</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="010B26">
+      <Source>The Jarl of Whiterun won&apos;t help me capture a dragon as long as the civil war is raging. Arngeir has agreed to host a peace council at High Hrothgar. I need to convince the Imperials and the Stormcloaks to agree to a truce in order to defeat Alduin, who is a threat to both sides in the civil war.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="010B32">
+      <Source>Health, Magicka, and Stamina do not recover while in Sunlight and are reduced by &lt;15&gt; points.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="010B4C">
+      <Source>Health, Magicka, and Stamina do not recover while in Sunlight and are reduced by &lt;60&gt; points.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="010B7C">
+      <Source>I&apos;ve once again helped Arniel with his secret, and very vague, project relating to the dwarves. He implied that he&apos;s waiting for something else, and then finally maybe I&apos;ll see what this is all about.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="010BB0">
+      <Source>Health, Magicka, and Stamina do not recover while in Sunlight and are reduced by &lt;45&gt; points.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="010BBD">
+      <Source>It seems that things are worse than even Delphine thought. Dragons aren&apos;t just coming back to life, they&apos;re being resurrected by other dragons. Delphine suspects that the Thalmor might be bringing dragons back for some sinister purpose. With the help of her contact, Malborn, I infiltrated the manor posing as a guest at the ambassador&apos;s party. I learned that the Thalmor are just as in the dark as we are - in fact, they&apos;re searching Riften for a Blade named Esbern, who they believe knows what the return of the dragons means.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="010BC3">
+      <Source>Health, Magicka, and Stamina do not recover while in Sunlight and are reduced by &lt;30&gt; points.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="010BDE">
+      <Source>I&apos;ve successfully altered Arniel&apos;s warped soul gem, and should return it to him. It is somehow critical to his project regarding the disappearance of the dwarves; perhaps he&apos;ll explain exactly what he&apos;s up to.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="010C05">
+      <Source>Silus Vesuius now has all three pieces of Mehrunes&apos; Razor and wants me to help him reforge it at the Shrine of Mehrunes Dagon.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="010C21">
+      <Source>I&apos;ve passed through Alduin&apos;s portal into Sovngarde, the realm of Aetherius where the souls of Nord heroes go to feast and battle until the final reckoning. Alduin has laid some kind of soul-snare across the valley of Sovngarde, a mist where he hides and feeds upon the trapped souls. I reached the Hall of Heroes and met Gormlaith Golden-Hilt, Hakon One-Eye, and Felldir the Old - the three heroes who I saw defeat Alduin in my vision of the past. They have been permitted by Shor, the god of the underworld, to join me in my battle against Alduin.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="010D58">
+      <Source>Press [Move] to walk or run, or [Jump] to jump. Press [Sprint] to sprint. Sprinting drains your stamina.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="010D85">
+      <Source>Press [Forward]/[Back]/[Strafe Left]/[Strafe Right] to walk or run, or [Jump] to jump. Press [Sprint] to sprint. Sprinting drains your stamina.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="010D92">
+      <Source>I have proven myself to Boethiah, and she has made me her new champion.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="010D94">
+      <Source>I have entered Kilkreath Ruins, destroyed Malkoran, and retrieved the artifact Dawnstar, which Meridia has bestowed upon me for my service.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="01137D">
+      <Source>The Thalmor are just as puzzled as we are about why dragons are returning. I learned that they are looking for a Blade named Esbern, who is supposed to be an expert on ancient dragon lore. I&apos;ve learned that he&apos;s hiding out in the Ratway Warrens in Riften.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="0113E3">
+      <Source>The Thalmor are just as puzzled as we are about why dragons are returning. I learned that they are looking for a Blade named Esbern, who is supposed to be an expert on ancient dragon lore. I found Esbern hiding in the Ratway in Riften, and convinced him to let me in to explain myself.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="0114F1">
+      <Source>50% resistance to all poisons.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="011633">
+      <Source>Additional 25% Armor bonus if wearing a matched set of Heavy Armor.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="0117F7">
+      <Source>I have discovered a shrine to Boethiah in the mountains near Windhelm.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="011A5A">
+      <Source>Absorb &lt;20&gt; magicka per second. If the target is out of magicka, absorb health instead.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="012426">
+      <Source>Windhelm is plagued by a shadowy killer. I&apos;ve been asked to help investigate the latest murder. Jorleif, the steward, may have advice from time to time.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="012613">
+      <Source>I discovered that Calixto Corrium was the Butcher of Windhelm, and helped bring him to justice.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="012616">
+      <Source>Absorbs the life essence of your foes. Strengthened by the blood of deceit.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="1" sID="01269D">
+      <Source>Press [Sprint] to sprint. Sprinting will drain your stamina.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="00016E">
+      <Source>I&apos;ve checked with my court and apparently you&apos;re fully eligible... there&apos;s nothing standing in the way of presenting you the title.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="00082B">
+      <Source>I&apos;ve made up my mind, even if my advisors are still squabbling. I&apos;m sending you to Windhelm.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="000F82">
+      <Source>I can provide you with help for her minions though.  This should help you deal with the Catacombs themselves. </Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="001028">
+      <Source>Oh don&apos;t pretend to be modest. I&apos;m talking about your new role as champion. Apparently, you&apos;ve taken my people under your wing.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="0010B1">
+      <Source>Well, well. Aren&apos;t we the overachiever. Three possibilities, three victims. Must have been one of them, right? So why take chances...</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="001150">
+      <Source>Ah, the feisty goodwife. Quite the mouth on her. Someone must have wanted her dead... right?</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="001155">
+      <Source>When has any good ever come from talking to the Empire?</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="0011E3">
+      <Source>Therefore, by my authority as Jarl, I pronounce you Thane of Riften and award you all of the benefits befitting your station. Congratulations.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="001774">
+      <Source>I do hope mummy and father come to get me soon. Ever since that Aventus boy left, this place has gone mad.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="001DBB">
+      <Source>I don&apos;t know how you convinced Ulfric to talk to the Empire. Worse than a waste of time if you ask me.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="002078">
+      <Source>Well, I&apos;m just surprised the Gourmet is a Redguard. I had you pegged for a Wood Elf, honestly. You know, because of your use of...</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="00216C">
+      <Source>Ah, you&apos;re back.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="002640">
+      <Source>Just get out of here.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="002CB2">
+      <Source>You&apos;re a Nord! I never would have guessed it! But where in the world did you learn to cook like that? Here in Skyrim? Or maybe somewhere less...</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="003551">
+      <Source>If you think you can steal my throne by winning the hearts of the people, that&apos;s where you&apos;re wrong. Keep that in mind.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="0038DE">
+      <Source>She was responsible for the Empire&apos;s near collapse almost five hundred years ago. I believe I have a book about her...</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="003AEB">
+      <Source>We can talk about that once this dragon is dealt with.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="003AED">
+      <Source>You damn well better.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="003CB9">
+      <Source>Aventus Aretino? He only lived here for awhile. I think his mother got sick and died or something. Anyway, he&apos;s gone now. He ran away.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="003ECA">
+      <Source>No doubt requesting to garrison his men in my castle. How many times must I deny him?</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="004187">
+      <Source>As to Potema herself, find what&apos;s left of her body, likely a skeleton. Remove it from the Catacombs and bring it back to be sanctified by Arkay.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="004412">
+      <Source>Hmm. The fearless wife and mother, and the underhanded Khajiit. Had to be one of them, right? Interesting choice.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="00457F">
+      <Source>But Samuel told me he&apos;s back home in Windhelm, and did some kind of dark ritual. He summoned killers to murder old Grelod. He&apos;s saved us all.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="004694">
+      <Source>Use it right, and you won&apos;t feel a thing.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="0046B8">
+      <Source>That&apos;s it! Wonderful! I knew I could count on you.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="004BAA">
+      <Source>No... no, that is all. Now... now please. I find myself very weary all of sudden.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="00505A">
+      <Source>Sure am! I thank my lucky stars every time I look to the night sky that Maven took me in and gave me this opportunity.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="0050C8">
+      <Source>We can talk about that once this dragon is dealt with.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="0054C7">
+      <Source>Then allow me to officially welcome you to Riften. You&apos;ll make a fine addition to our city.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="00573C">
+      <Source>Now, you are going to speak to this... Monk... and find out why he is here, and then he will be removed from College grounds.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="0058EB">
+      <Source>I suppose it&apos;s time I gave him an answer...</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="0058ED">
+      <Source>Ah yes.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="0058F3">
+      <Source>Did he now? The man is persistent, I&apos;ll give him that.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="005974">
+      <Source>Deliver this axe to Ulfric Stormcloak.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="005AB5">
+      <Source>I don&apos;t have any money to give you. but I can show you a few tricks I learned playing for the Winterhold wizards.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="005B17">
+      <Source>Word out on the street is that he went home to Windhelm, and people have heard strange chanting coming from his house. Looks like he really did it!</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="005BD6">
+      <Source>Well, I just never expected the Gourmet to be a Breton. It almost seems too obvious. Some of the greatest cooks have been Bretons, and...</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="005DDC">
+      <Source>The timid warrior and the sly Khajiit. Must have been one or the other, right?</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="005EF9">
+      <Source>Yes. I had Falk call you back because you were at the summoning, you have a connection to Potema now. You must deal with her.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="0060DD">
+      <Source>I expect that you&apos;ll distance yourself from the affairs of state. In other words, keep your nose out of my business and we&apos;ll do just fine.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="006166">
+      <Source>Oh ho. The whimpering Nord, eh? Yes, yes, I can see how you&apos;d come to that conclusion. Interesting choice.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="006473">
+      <Source>Hmph. Yes. Yes, I surely can. It&apos;s not something I do lightly, mind you, and it&apos;s not as specific as you might want. But yes. I will do this for you.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="0064AB">
+      <Source>Good. Being at the summoning created a connection to Potema, you are the one to do this. </Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="006884">
+      <Source>Why, just this last week I was commenting to my fellow meadery workers just how lucky we are to be working for such a charitable family.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="006A49">
+      <Source>When Aventus escaped, Grelod was so mad. I got double the beatings that day. But that won&apos;t happen ever again.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="006B09">
+      <Source>Grelod... murdered. Here. I... I need... air... You... you... Get out of here! Get out!</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="006D17">
+      <Source>Just remember that you&apos;re only a part of my court, this doesn&apos;t make you one of the family.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="006D23">
+      <Source>Begone from here! Get out of this orphanage! Help!Somebody help me!</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="006D26">
+      <Source>Just... leave here! Leave us alone!</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="006F9D">
+      <Source>Oh, well, it&apos;s just... I never imagined the Gourmet was a Khajiit. You know, because of all the fur, and the potential for getting hair in the...</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="006FF9">
+      <Source>All that remains now is to bestow the title upon you.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="00704E">
+      <Source>Ah Potema. Former queen of Solitude and one of the most dangerous necromancers in recorded history.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="0073E2">
+      <Source>It&apos;s going to take a lot more than that.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="007482">
+      <Source>You... you&apos;re an Argonian! Where did you learn to cook like that? Surely not in Black Marsh. Why even the...</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="007550">
+      <Source>Please, relax. Free your mind. Yes, that&apos;s it...</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="007755">
+      <Source>I&apos;ll come to your council. But I doubt any good will come of it.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="0077E3">
+      <Source>I used to hate it here, but it&apos;s not so bad anymore. Constance is real good to us.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="007BE9">
+      <Source>My son is dead! At his own wedding! Only those Imperial dogs would have dared do something like this! Damn them all to Oblivion!</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="007D49">
+      <Source>Talking peace with Ulfric? You must be an optimist.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="008226">
+      <Source>You&apos;ve been a beacon of hope in these dark times for my people and I will never forget it.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="008654">
+      <Source>Summoned in spirit form is not raised from the dead. She&apos;ll need help before she can return to the living.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="008675">
+      <Source>Why are you here? Killing Gaius Maro is but the first step of your contract - you must also plant the incriminating letter on his body...</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="0087B3">
+      <Source>I apologize in advance for my husband&apos;s crankiness; I promise you he means well.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="008AA0">
+      <Source>I&apos;ve been informed by my steward that you&apos;ve made quite an impression in the Rift; several of our citizens have expressed their admiration.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="008F9F">
+      <Source>You have some nerve coming back here after what you did to Keerava.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="00930B">
+      <Source>I guessed right! I... I always imagined the great Gourmet was a Wood Elf. You see, only someone with a knowledge of woodland herbs could combine...</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="00936C">
+      <Source>When Aventus escaped, Grelod got meaner than ever. I really thought she was going to kill one of us. Guess not!</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="009598">
+      <Source>Token, you say? Let me see.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="0096C1">
+      <Source>A few days ago, one of her servants busted through a wall into the Temple of Divines. We&apos;ll need you to go into the Catacombs themselves.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="0096C2">
+      <Source>For the moment, the Wolf Queen has retreated to a place filled with dead eager to serve her. She has gone to her old Catacombs.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="0096C5">
+      <Source>I can provide you with some help with her minions. </Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="0097F3">
+      <Source>Oh, goodness me. You&apos;re a friend of Gabriella&apos;s, then. Well, I guess we both know why you&apos;re here.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="009938">
+      <Source>However, since it wouldn&apos;t behoove me to make you disappear, I&apos;d rather have you on my side as Thane of Riften.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="009F6F">
+      <Source>Oh, Aventus Aretino. He was sent here when his mother died, but he ran away.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="009FBA">
+      <Source>Hmm? What&apos;s this about?</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="00A07A">
+      <Source>Aventus Aretino. He was sent to live here after his mother died. He escaped. And...</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="00A1B7">
+      <Source>So, I&apos;ve been hearing your name in court quite a bit lately.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="00A33C">
+      <Source>I heard he went back to his house in Windhelm, to try and get the Dark Brotherhood to come and murder Grelod. And... he actually pulled it off!</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="00A347">
+      <Source>Before he left, he said he was going to do the Black Sacrament. You know, to call the Dark Brotherhood. So they&apos;d come and kill old Grelod!</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="00A449">
+      <Source>Don&apos;t worry, I&apos;ll come to this peace council of yours.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="00A712">
+      <Source>I guess all that&apos;s left is to bestow the title. What were those words again?</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="00AC02">
+      <Source>Kill one person, and you can solve so many problems. I wonder at the possibilities.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="00B02E">
+      <Source>A little boy who lived here. Aventus Aretino. He was nice, but really quiet, and sad, because his mother just died.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="00B34D">
+      <Source>You&apos;ll never see the sun again. No one escapes Cidhna Mine. No one.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="00B5FE">
+      <Source>You&apos;ve already taken all the necessary steps in becoming eligible for the title.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="00B600">
+      <Source>Well? Out with it.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="00B840">
+      <Source>Oh, Asgeir! My husband! My dear, sweet husband! Why would someone do this to you? Why? This was supposed to be the happiest day of my life!</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="00BA65">
+      <Source>Much like Mjoll, you&apos;ve become champion of our hold; helping people with their difficulties and providing assistance for their needs.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="00BA66">
+      <Source>Doesn&apos;t matter... the title is yours. I henceforth name you Thane of Riften. Don&apos;t disappoint me.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="00BA71">
+      <Source>Therefore all that remains is to bestow it upon you.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="00BE2C">
+      <Source>Indeed. But I abide only those whose will is aligned to my own. Those who oppose my desires perish in the most dreadful of ways.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="00BFD6">
+      <Source>He ran away. Back home to Windhelm. Samuel told me he was trying to get some murderer people to come here and kill Grelod. Did he really do it?</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="00C375">
+      <Source>She&apos;s an absolute pleasure to work for! In fact, I almost feel guilty accepting pay from her.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="00C5C5">
+      <Source>Oh, yes. Of course... the whole thane thing. I&apos;d forgotten. If you&apos;re ready then, can we get this out of the way?</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="00CA9A">
+      <Source>Balimund pulled me out of Grelod&apos;s orphanage when I was just a child. I don&apos;t know what he saw in me, but I was glad to get out of there.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="00CACE">
+      <Source>It&apos;s just... Well... you&apos;re an Orc! Ha ha ha! If the people of the Empire only knew! I mean, now I understand your need for secrecy. Most would...</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="00CB65">
+      <Source>I should slay you for such insolence!</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="00CB66">
+      <Source>My good pleasure is not some trophy for mortal sport!</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="00CB67">
+      <Source>My favor?</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="00CD90">
+      <Source>You&apos;re a High Elf! I... I never would have guessed it. So many of your recipes are clearly aimed at the commonfolk. It just seems...</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="00CD93">
+      <Source>I... Well, I just can&apos;t believe the Gourmet is a Dark Elf. How difficult it must have been for you in Morrowind. The food there is...</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="00D25A">
+      <Source>I&apos;ve been informed by my steward that you&apos;ve made quite an impression in the Rift; the people won&apos;t stop blathering about you.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="00D638">
+      <Source>As the Jarl of Riften, I feel it&apos;s my duty to honor your selfless behavior by honoring you with the title Thane of Riften.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="00D7E3">
+      <Source>When Aventus took off, when he said those things, about killing Grelod... I never imagined he was serious...</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="00DAF4">
+      <Source>I remember you... You were at Helgen with us! Come to join the war? Speak with Galmar. He handles the new recruits.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="00DE5A">
+      <Source>Things are much better now that Grelod is dead, but still. I&apos;m sick of this place.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="00DEFE">
+      <Source>The blubbering barbarian and the tenacious mother. Must have been one of them, right?</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="00E097">
+      <Source>That is the truth, my friend! Maven is a saint and don&apos;t let anyone tell you otherwise.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="00E1EB">
+      <Source>Ah, at last. I&apos;ve been anxiously awaiting your return.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="00E3DC">
+      <Source>I remember you, you were at Helgen. Speak to Legate Rikke. I suspect we could use someone like you.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="00E599">
+      <Source>Thank the gods. I&apos;ll get to work on the Phial straight away.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="00E5B5">
+      <Source>Well, I don&apos;t mean to seem disappointed, but... I just never figured the Gourmet was an Imperial. I had dreamed of something more exotic, maybe...</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="00E615">
+      <Source>Constance don&apos;t care much for strangers in the orphanage. Afraid someone might hurt one of us kids. Which, I gotta admit, is kind of nice.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="00E68B">
+      <Source>I&apos;ve spent years watching his techniques and learning his tricks. Sadly, I don&apos;t think I&apos;ll ever be as talented as he was.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="00E6DF">
+      <Source>You can return this axe to our friend. The esteemed Jarl of Windhelm has my answer. Make sure he gets it.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="00F0EB">
+      <Source>By all the gods, the groom has been killed. At his own wedding! I can only think of my own husband...</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="00F18C">
+      <Source>I should be the one thanking you. You&apos;ve solved more problems in the short time you&apos;ve been here then anyone in my court has their entire careers.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="00F533">
+      <Source>I was apprenticed to Balimund before he died. He taught me everything I know about forging armor and weapons.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="00F70A">
+      <Source>The conniving Khajiit. Cat like that was sure to have enemies. It&apos;s no wonder you chose him.</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="00F75A">
+      <Source>I can&apos;t believe it! Grelod is dead! She&apos;s really dead!</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="00F92B">
+      <Source>Ah yes. I&apos;ve studied those documents... Very interesting...</Source>
+      <Dest></Dest>
+    </String>
+    <String List="2" sID="00FB00">
+      <Source>Ah, there you are. I was wondering when you&apos;d visit us again.</Source>
+      <Dest></Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

@@ -1,0 +1,3009 @@
+{
+  "metadata": {
+    "type": "Creatures",
+    "description": "Creature dan monster",
+    "source": "Elder Scrolls Wiki (Fandom)",
+    "crawled_at": "2026-02-03T12:27:05.075366",
+    "categories_crawled": [
+      "base_game"
+    ],
+    "total_unique_items": 271,
+    "items_per_category": {
+      "base_game": 271
+    }
+  },
+  "categories": {
+    "base_game": {
+      "name": "Skyrim Creatures",
+      "urls": [
+        "https://elderscrolls.fandom.com/wiki/Category:Skyrim:_Creatures"
+      ],
+      "count": 271,
+      "items": [
+        {
+          "name": "Abecean Longfin",
+          "url": "https://elderscrolls.fandom.com/wiki/Abecean_Longfin"
+        },
+        {
+          "name": "Abilities",
+          "url": "https://elderscrolls.fandom.com/wiki/Abilities_\\(Skyrim\\"
+        },
+        {
+          "name": "Add-ons",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Online#Expansion_packs"
+        },
+        {
+          "name": "Administrators",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Administrators"
+        },
+        {
+          "name": "Aicantar's Spider",
+          "url": "https://elderscrolls.fandom.com/wiki/Aicantar%27s_Spider"
+        },
+        {
+          "name": "Aldmeri Dominion",
+          "url": "https://elderscrolls.fandom.com/wiki/Aldmeri_Dominion_Quests"
+        },
+        {
+          "name": "Alduin (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Alduin_\\(Skyrim\\"
+        },
+        {
+          "name": "Alliances",
+          "url": "https://elderscrolls.fandom.com/wiki/Alliances"
+        },
+        {
+          "name": "Alpha Wolf (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Alpha_Wolf_\\(Skyrim\\"
+        },
+        {
+          "name": "Altmer",
+          "url": "https://elderscrolls.fandom.com/wiki/Altmer_\\(Online\\"
+        },
+        {
+          "name": "Ancient Dragon (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Ancient_Dragon_\\(Skyrim\\"
+        },
+        {
+          "name": "Anniversary Edition",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_V:_Skyrim_Anniversary_Edition"
+        },
+        {
+          "name": "Ants",
+          "url": "https://elderscrolls.fandom.com/wiki/Ants"
+        },
+        {
+          "name": "Arcanist",
+          "url": "https://elderscrolls.fandom.com/wiki/Arcanist_\\(Class\\"
+        },
+        {
+          "name": "Arena (1994)",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls:_Arena"
+        },
+        {
+          "name": "Argonian",
+          "url": "https://elderscrolls.fandom.com/wiki/Argonians_\\(Online\\"
+        },
+        {
+          "name": "Barbas (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Barbas_\\(Skyrim\\"
+        },
+        {
+          "name": "Bats",
+          "url": "https://elderscrolls.fandom.com/wiki/Bats"
+        },
+        {
+          "name": "Battlespire (1997)",
+          "url": "https://elderscrolls.fandom.com/wiki/An_Elder_Scrolls_Legend:_Battlespire"
+        },
+        {
+          "name": "Bear (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Bear_\\(Skyrim\\"
+        },
+        {
+          "name": "Bismuth Steam Baths",
+          "url": "https://elderscrolls.fandom.com/wiki/Bismuth_Steam_Baths"
+        },
+        {
+          "name": "Biter",
+          "url": "https://elderscrolls.fandom.com/wiki/Biter"
+        },
+        {
+          "name": "Blackwood (2021)",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Online:_Blackwood"
+        },
+        {
+          "name": "Blades (2019)",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls:_Blades"
+        },
+        {
+          "name": "Blocking policy",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Blocking_policy"
+        },
+        {
+          "name": "Blog policy",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Blog_policy"
+        },
+        {
+          "name": "Blood Dragon (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Blood_Dragon_\\(Skyrim\\"
+        },
+        {
+          "name": "Bloodmoon (2003)",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_III:_Bloodmoon"
+        },
+        {
+          "name": "Blue Butterfly",
+          "url": "https://elderscrolls.fandom.com/wiki/Blue_Butterfly"
+        },
+        {
+          "name": "Blue Dartwing",
+          "url": "https://elderscrolls.fandom.com/wiki/Blue_Dartwing"
+        },
+        {
+          "name": "Bosmer",
+          "url": "https://elderscrolls.fandom.com/wiki/Bosmer_\\(Online\\"
+        },
+        {
+          "name": "Bots",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Bots"
+        },
+        {
+          "name": "Breton",
+          "url": "https://elderscrolls.fandom.com/wiki/Bretons_\\(Online\\"
+        },
+        {
+          "name": "Butterfly (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Butterfly_\\(Skyrim\\"
+        },
+        {
+          "name": "Castles (2024)",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls:_Castles"
+        },
+        {
+          "name": "Cave Bear (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Cave_Bear_\\(Skyrim\\"
+        },
+        {
+          "name": "Chaurus (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Chaurus_\\(Skyrim\\"
+        },
+        {
+          "name": "Chaurus Reaper (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Chaurus_Reaper_\\(Skyrim\\"
+        },
+        {
+          "name": "Chicken (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Chicken_\\(Skyrim\\"
+        },
+        {
+          "name": "Clam (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Clam_\\(Skyrim\\"
+        },
+        {
+          "name": "Classes",
+          "url": "https://elderscrolls.fandom.com/wiki/Classes_\\(Online\\"
+        },
+        {
+          "name": "CompUSA Expansion (1996)",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_II:_Daggerfall_CompUSA_Expansion"
+        },
+        {
+          "name": "Comprehensive Articles",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Comprehensive_Articles"
+        },
+        {
+          "name": "Consensus policy",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Consensus"
+        },
+        {
+          "name": "Console Commands",
+          "url": "https://elderscrolls.fandom.com/wiki/Console_Commands_\\(Skyrim\\"
+        },
+        {
+          "name": "Controls",
+          "url": "https://elderscrolls.fandom.com/wiki/Controls_\\(Skyrim\\"
+        },
+        {
+          "name": "Corrupted Shade (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Corrupted_Shade_\\(Skyrim\\"
+        },
+        {
+          "name": "Cotton (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Cotton_\\(Skyrim\\"
+        },
+        {
+          "name": "Cow (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Cow_\\(Skyrim\\"
+        },
+        {
+          "name": "Crafting",
+          "url": "https://elderscrolls.fandom.com/wiki/Crafting_\\(Online\\"
+        },
+        {
+          "name": "Creation Club",
+          "url": "https://elderscrolls.fandom.com/wiki/Creation_Club"
+        },
+        {
+          "name": "Creatures (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Creatures_\\(Skyrim\\"
+        },
+        {
+          "name": "Crown Store",
+          "url": "https://elderscrolls.fandom.com/wiki/Crown_Store"
+        },
+        {
+          "name": "Cyrodilic Spadetail",
+          "url": "https://elderscrolls.fandom.com/wiki/Cyrodilic_Spadetail"
+        },
+        {
+          "name": "Daedric Artifacts",
+          "url": "https://elderscrolls.fandom.com/wiki/Daedric_Artifacts_\\(Skyrim\\"
+        },
+        {
+          "name": "Daedric Quests",
+          "url": "https://elderscrolls.fandom.com/wiki/Daedric_Quests_\\(Skyrim\\"
+        },
+        {
+          "name": "Daedric Shrines",
+          "url": "https://elderscrolls.fandom.com/wiki/Daedric_Shrines_\\(Skyrim\\"
+        },
+        {
+          "name": "Daggerfall (1996)",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_II:_Daggerfall"
+        },
+        {
+          "name": "Daggerfall Covenant",
+          "url": "https://elderscrolls.fandom.com/wiki/Daggerfall_Covenant_Quests"
+        },
+        {
+          "name": "Dark Brotherhood",
+          "url": "https://elderscrolls.fandom.com/wiki/Dark_Brotherhood_\\(Skyrim\\"
+        },
+        {
+          "name": "Dawnguard (2012)",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_V:_Dawnguard"
+        },
+        {
+          "name": "Dawnstar (2004)",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Travels:_Dawnstar"
+        },
+        {
+          "name": "Deer (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Deer_\\(Skyrim\\"
+        },
+        {
+          "name": "Discord Moderators",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Discord_Moderators"
+        },
+        {
+          "name": "Discord policy",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Discord"
+        },
+        {
+          "name": "Dog (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Dog_\\(Skyrim\\"
+        },
+        {
+          "name": "Doomchar Plateau",
+          "url": "https://elderscrolls.fandom.com/wiki/Doomchar_Plateau"
+        },
+        {
+          "name": "Dragon (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Dragon_\\(Skyrim\\"
+        },
+        {
+          "name": "Dragon Priests (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Dragon_Priests_\\(Skyrim\\"
+        },
+        {
+          "name": "Dragon Shouts",
+          "url": "https://elderscrolls.fandom.com/wiki/Dragon_Shouts"
+        },
+        {
+          "name": "Dragonborn (2012)",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_V:_Dragonborn"
+        },
+        {
+          "name": "Dragonflies (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Dragonflies_\\(Skyrim\\"
+        },
+        {
+          "name": "Dragonknight",
+          "url": "https://elderscrolls.fandom.com/wiki/Dragonknight"
+        },
+        {
+          "name": "Dragons",
+          "url": "https://elderscrolls.fandom.com/wiki/Dragons_\\(Skyrim\\"
+        },
+        {
+          "name": "Dragons (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Dragons_\\(Skyrim\\"
+        },
+        {
+          "name": "Draugr Deathlord (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Draugr_Deathlord_\\(Skyrim\\"
+        },
+        {
+          "name": "Draugr Overlord (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Draugr_Overlord_\\(Skyrim\\"
+        },
+        {
+          "name": "Draugr Wight Lord",
+          "url": "https://elderscrolls.fandom.com/wiki/Draugr_Wight_Lord"
+        },
+        {
+          "name": "Dunmer",
+          "url": "https://elderscrolls.fandom.com/wiki/Dunmer_\\(Online\\"
+        },
+        {
+          "name": "Dwarven Sphere (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Dwarven_Sphere_\\(Skyrim\\"
+        },
+        {
+          "name": "ESO Plus",
+          "url": "https://elderscrolls.fandom.com/wiki/ESO_Plus"
+        },
+        {
+          "name": "Easter Eggs",
+          "url": "https://elderscrolls.fandom.com/wiki/Easter_Eggs_\\(Skyrim\\"
+        },
+        {
+          "name": "Ebonheart Pact",
+          "url": "https://elderscrolls.fandom.com/wiki/Ebonheart_Pact_Quests"
+        },
+        {
+          "name": "Elder Dragon (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Elder_Dragon_\\(Skyrim\\"
+        },
+        {
+          "name": "Elk (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Elk_\\(Skyrim\\"
+        },
+        {
+          "name": "Elsweyr (2019)",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Online:_Elsweyr"
+        },
+        {
+          "name": "Enchanting",
+          "url": "https://elderscrolls.fandom.com/wiki/Enchanting_\\(Skyrim\\"
+        },
+        {
+          "name": "Enemies (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Enemies_\\(Skyrim\\"
+        },
+        {
+          "name": "Factions",
+          "url": "https://elderscrolls.fandom.com/wiki/Factions_\\(Skyrim\\"
+        },
+        {
+          "name": "Falmer (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Falmer_\\(Skyrim\\"
+        },
+        {
+          "name": "Falmer Gloomlurker (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Falmer_Gloomlurker_\\(Skyrim\\"
+        },
+        {
+          "name": "Falmer Nightprowler (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Falmer_Nightprowler_\\(Skyrim\\"
+        },
+        {
+          "name": "Falmer Shadowmaster",
+          "url": "https://elderscrolls.fandom.com/wiki/Falmer_Shadowmaster"
+        },
+        {
+          "name": "Falmer Shaman",
+          "url": "https://elderscrolls.fandom.com/wiki/Falmer_Shaman"
+        },
+        {
+          "name": "Falmer Spellsword",
+          "url": "https://elderscrolls.fandom.com/wiki/Falmer_Spellsword"
+        },
+        {
+          "name": "Featured Articles",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Featured_Articles"
+        },
+        {
+          "name": "Finesse",
+          "url": "https://elderscrolls.fandom.com/wiki/Finesse"
+        },
+        {
+          "name": "Fish (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Fish_\\(Skyrim\\"
+        },
+        {
+          "name": "Flame Atronach (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Flame_Atronach_\\(Skyrim\\"
+        },
+        {
+          "name": "Followers",
+          "url": "https://elderscrolls.fandom.com/wiki/Followers_\\(Skyrim\\"
+        },
+        {
+          "name": "Forum Moderators",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Moderators"
+        },
+        {
+          "name": "Forum/Discussions policy",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Discussions"
+        },
+        {
+          "name": "Fox (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Fox_\\(Skyrim\\"
+        },
+        {
+          "name": "Frost (Horse)",
+          "url": "https://elderscrolls.fandom.com/wiki/Frost_\\(Horse\\"
+        },
+        {
+          "name": "Frost Atronach (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Frost_Atronach_\\(Skyrim\\"
+        },
+        {
+          "name": "Frost Dragon",
+          "url": "https://elderscrolls.fandom.com/wiki/Frost_Dragon"
+        },
+        {
+          "name": "Frost Troll (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Frost_Troll_\\(Skyrim\\"
+        },
+        {
+          "name": "Frostbite Spider (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Frostbite_Spider_\\(Skyrim\\"
+        },
+        {
+          "name": "Games",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls"
+        },
+        {
+          "name": "Ghost (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Ghost_\\(Skyrim\\"
+        },
+        {
+          "name": "Giant (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Giant_\\(Skyrim\\"
+        },
+        {
+          "name": "Gleda the Goat",
+          "url": "https://elderscrolls.fandom.com/wiki/Gleda_the_Goat"
+        },
+        {
+          "name": "Goat (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Goat_\\(Skyrim\\"
+        },
+        {
+          "name": "Gold Road (2024)",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Online:_Gold_Road"
+        },
+        {
+          "name": "Good Articles",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Good_Articles"
+        },
+        {
+          "name": "Greymoor (2020)",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Online:_Greymoor"
+        },
+        {
+          "name": "Grok",
+          "url": "https://elderscrolls.fandom.com/wiki/Grok"
+        },
+        {
+          "name": "Hagraven (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Hagraven_\\(Skyrim\\"
+        },
+        {
+          "name": "Hawk",
+          "url": "https://elderscrolls.fandom.com/wiki/Hawk"
+        },
+        {
+          "name": "Hearthfire (2012)",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_V:_Hearthfire"
+        },
+        {
+          "name": "High Isle (2022)",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Online:_High_Isle"
+        },
+        {
+          "name": "Holds",
+          "url": "https://elderscrolls.fandom.com/wiki/Holds"
+        },
+        {
+          "name": "Horker (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Horker_\\(Skyrim\\"
+        },
+        {
+          "name": "Horse (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Horse_\\(Skyrim\\"
+        },
+        {
+          "name": "Ice Wolf (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Ice_Wolf_\\(Skyrim\\"
+        },
+        {
+          "name": "Ice Wraith (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Ice_Wraith_\\(Skyrim\\"
+        },
+        {
+          "name": "Imperial",
+          "url": "https://elderscrolls.fandom.com/wiki/Imperials_\\(Online\\"
+        },
+        {
+          "name": "Insects",
+          "url": "https://elderscrolls.fandom.com/wiki/Insects"
+        },
+        {
+          "name": "Item Enchantment Types",
+          "url": "https://elderscrolls.fandom.com/wiki/Enchantment_Modifiers"
+        },
+        {
+          "name": "Jyrik Gauldurson",
+          "url": "https://elderscrolls.fandom.com/wiki/Jyrik_Gauldurson"
+        },
+        {
+          "name": "Karinda",
+          "url": "https://elderscrolls.fandom.com/wiki/Karinda"
+        },
+        {
+          "name": "Khajiit",
+          "url": "https://elderscrolls.fandom.com/wiki/Khajiit_\\(Online\\"
+        },
+        {
+          "name": "Kit",
+          "url": "https://elderscrolls.fandom.com/wiki/Kit"
+        },
+        {
+          "name": "Knights of the Nine (2006)",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_IV:_Knights_of_the_Nine"
+        },
+        {
+          "name": "Kodlak's Wolf Spirit",
+          "url": "https://elderscrolls.fandom.com/wiki/Kodlak%27s_Wolf_Spirit"
+        },
+        {
+          "name": "Legends (2016)",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls:_Legends"
+        },
+        {
+          "name": "Leveled Creatures (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Leveled_Creatures_\\(Skyrim\\"
+        },
+        {
+          "name": "Lis",
+          "url": "https://elderscrolls.fandom.com/wiki/Lis"
+        },
+        {
+          "name": "Local Sitemap",
+          "url": "https://elderscrolls.fandom.com/wiki/Local_Sitemap"
+        },
+        {
+          "name": "Lucky (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Lucky_\\(Skyrim\\"
+        },
+        {
+          "name": "Lycanthropy",
+          "url": "https://elderscrolls.fandom.com/wiki/Lycanthropy_\\(Skyrim\\"
+        },
+        {
+          "name": "Lycanthropy (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Lycanthropy_\\(Skyrim\\"
+        },
+        {
+          "name": "Magic Anomaly",
+          "url": "https://elderscrolls.fandom.com/wiki/Magic_Anomaly"
+        },
+        {
+          "name": "Main Quest",
+          "url": "https://elderscrolls.fandom.com/wiki/Main_Quest_\\(Online\\"
+        },
+        {
+          "name": "Malkoran's Shade",
+          "url": "https://elderscrolls.fandom.com/wiki/Malkoran%27s_Shade"
+        },
+        {
+          "name": "Mammoth (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Mammoth_\\(Skyrim\\"
+        },
+        {
+          "name": "Map",
+          "url": "https://elderscrolls.fandom.com/wiki/Map_\\(Skyrim\\"
+        },
+        {
+          "name": "Marriage",
+          "url": "https://elderscrolls.fandom.com/wiki/Marriage"
+        },
+        {
+          "name": "Media policy",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Media"
+        },
+        {
+          "name": "Meeko",
+          "url": "https://elderscrolls.fandom.com/wiki/Meeko"
+        },
+        {
+          "name": "Melka",
+          "url": "https://elderscrolls.fandom.com/wiki/Melka"
+        },
+        {
+          "name": "Member of the Month",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Member_of_the_Month"
+        },
+        {
+          "name": "Mikrul Gauldurson",
+          "url": "https://elderscrolls.fandom.com/wiki/Mikrul_Gauldurson"
+        },
+        {
+          "name": "Mirmulnir",
+          "url": "https://elderscrolls.fandom.com/wiki/Mirmulnir"
+        },
+        {
+          "name": "Moira",
+          "url": "https://elderscrolls.fandom.com/wiki/Moira"
+        },
+        {
+          "name": "Monarch Butterfly",
+          "url": "https://elderscrolls.fandom.com/wiki/Monarch_Butterfly"
+        },
+        {
+          "name": "Moot",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Moot"
+        },
+        {
+          "name": "More Quests",
+          "url": "https://elderscrolls.fandom.com/wiki/Quests_\\(Skyrim\\"
+        },
+        {
+          "name": "Morrowind (2002)",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_III:_Morrowind"
+        },
+        {
+          "name": "Mudcrab (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Mudcrab_\\(Skyrim\\"
+        },
+        {
+          "name": "Nahagliiv (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Nahagliiv_\\(Skyrim\\"
+        },
+        {
+          "name": "Necrom (2023)",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Online:_Necrom"
+        },
+        {
+          "name": "Necromancer",
+          "url": "https://elderscrolls.fandom.com/wiki/Necromancer_\\(Online\\"
+        },
+        {
+          "name": "Neutral point of view",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Neutral_point_of_view"
+        },
+        {
+          "name": "News Team",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:News_Team"
+        },
+        {
+          "name": "Nightblade",
+          "url": "https://elderscrolls.fandom.com/wiki/Nightblade_\\(Online\\"
+        },
+        {
+          "name": "Nimhe",
+          "url": "https://elderscrolls.fandom.com/wiki/Nimhe"
+        },
+        {
+          "name": "Nord",
+          "url": "https://elderscrolls.fandom.com/wiki/Nords_\\(Online\\"
+        },
+        {
+          "name": "Numinex",
+          "url": "https://elderscrolls.fandom.com/wiki/Numinex"
+        },
+        {
+          "name": "Oblivion (2006)",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_IV:_Oblivion"
+        },
+        {
+          "name": "Oblivion Remastered (2025)",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_IV:_Oblivion_Remastered"
+        },
+        {
+          "name": "Odahviing (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Odahviing_\\(Skyrim\\"
+        },
+        {
+          "name": "Olaf One-Eye",
+          "url": "https://elderscrolls.fandom.com/wiki/Olaf_One-Eye"
+        },
+        {
+          "name": "Orange Dartwing",
+          "url": "https://elderscrolls.fandom.com/wiki/Orange_Dartwing"
+        },
+        {
+          "name": "Orsimer",
+          "url": "https://elderscrolls.fandom.com/wiki/Orsimer_\\(Online\\"
+        },
+        {
+          "name": "Paarthurnax (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Paarthurnax_\\(Skyrim\\"
+        },
+        {
+          "name": "Patrollers",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Patrollers"
+        },
+        {
+          "name": "Pelagius' Flame Thrall",
+          "url": "https://elderscrolls.fandom.com/wiki/Pelagius%27_Flame_Thrall"
+        },
+        {
+          "name": "Pelagius' Frost Thrall",
+          "url": "https://elderscrolls.fandom.com/wiki/Pelagius%27_Frost_Thrall"
+        },
+        {
+          "name": "Pelagius's Storm Thrall",
+          "url": "https://elderscrolls.fandom.com/wiki/Pelagius%27s_Storm_Thrall"
+        },
+        {
+          "name": "Perks",
+          "url": "https://elderscrolls.fandom.com/wiki/Perks"
+        },
+        {
+          "name": "Petra",
+          "url": "https://elderscrolls.fandom.com/wiki/Petra"
+        },
+        {
+          "name": "Pets (Hearthfire)",
+          "url": "https://elderscrolls.fandom.com/wiki/Pets_\\(Hearthfire\\"
+        },
+        {
+          "name": "Pincer",
+          "url": "https://elderscrolls.fandom.com/wiki/Pincer"
+        },
+        {
+          "name": "Pit Wolf",
+          "url": "https://elderscrolls.fandom.com/wiki/Pit_Wolf"
+        },
+        {
+          "name": "Policies and Guidelines",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Policies_and_Guidelines"
+        },
+        {
+          "name": "Powers",
+          "url": "https://elderscrolls.fandom.com/wiki/Powers"
+        },
+        {
+          "name": "Pumpkin (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Pumpkin_\\(Skyrim\\"
+        },
+        {
+          "name": "Quest Items",
+          "url": "https://elderscrolls.fandom.com/wiki/Quest_Items_\\(Skyrim\\"
+        },
+        {
+          "name": "Rabbit (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Rabbit_\\(Skyrim\\"
+        },
+        {
+          "name": "Races",
+          "url": "https://elderscrolls.fandom.com/wiki/Races_\\(Online\\"
+        },
+        {
+          "name": "Random Encounters",
+          "url": "https://elderscrolls.fandom.com/wiki/Random_Encounters_\\(Skyrim\\"
+        },
+        {
+          "name": "Recent News",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:News"
+        },
+        {
+          "name": "Red Eagle",
+          "url": "https://elderscrolls.fandom.com/wiki/Red_Eagle"
+        },
+        {
+          "name": "Redguard",
+          "url": "https://elderscrolls.fandom.com/wiki/Redguards_\\(Online\\"
+        },
+        {
+          "name": "Redguard (1998)",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Adventures:_Redguard"
+        },
+        {
+          "name": "Regions",
+          "url": "https://elderscrolls.fandom.com/wiki/Regions_\\(Online\\"
+        },
+        {
+          "name": "Report Vandalism",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Vandalism_in_progress"
+        },
+        {
+          "name": "River Betty",
+          "url": "https://elderscrolls.fandom.com/wiki/River_Betty"
+        },
+        {
+          "name": "Sabre Cat (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Sabre_Cat_\\(Skyrim\\"
+        },
+        {
+          "name": "Sahloknir",
+          "url": "https://elderscrolls.fandom.com/wiki/Sahloknir"
+        },
+        {
+          "name": "Salmon",
+          "url": "https://elderscrolls.fandom.com/wiki/Salmon"
+        },
+        {
+          "name": "Sandbox",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Sandbox"
+        },
+        {
+          "name": "Seasons of the Worm Cult (2025)",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Online:_Seasons_of_the_Worm_Cult"
+        },
+        {
+          "name": "Shade (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Shade_\\(Skyrim\\"
+        },
+        {
+          "name": "Shadowkey (2004)",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Travels:_Shadowkey"
+        },
+        {
+          "name": "Shadowmere (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Shadowmere_\\(Skyrim\\"
+        },
+        {
+          "name": "Shivering Isles (2007)",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_IV:_Shivering_Isles"
+        },
+        {
+          "name": "Silverside Perch",
+          "url": "https://elderscrolls.fandom.com/wiki/Silverside_Perch"
+        },
+        {
+          "name": "Skeever (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Skeever_\\(Skyrim\\"
+        },
+        {
+          "name": "Skeletal Dragon (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Skeletal_Dragon_\\(Skyrim\\"
+        },
+        {
+          "name": "Skills",
+          "url": "https://elderscrolls.fandom.com/wiki/Skills_\\(Online\\"
+        },
+        {
+          "name": "Skyrim (2011)",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_V:_Skyrim"
+        },
+        {
+          "name": "Slaughterfish (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Slaughterfish_\\(Skyrim\\"
+        },
+        {
+          "name": "Smithing",
+          "url": "https://elderscrolls.fandom.com/wiki/Smithing_\\(Skyrim\\"
+        },
+        {
+          "name": "Snow Bear (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Snow_Bear_\\(Skyrim\\"
+        },
+        {
+          "name": "Snow Fox (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Snow_Fox_\\(Skyrim\\"
+        },
+        {
+          "name": "Snowy Sabre Cat (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Snowy_Sabre_Cat_\\(Skyrim\\"
+        },
+        {
+          "name": "Sorcerer",
+          "url": "https://elderscrolls.fandom.com/wiki/Sorcerer_\\(Online\\"
+        },
+        {
+          "name": "Special Edition",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_V:_Skyrim_Special_Edition"
+        },
+        {
+          "name": "Spectral Dragon Priest",
+          "url": "https://elderscrolls.fandom.com/wiki/Spectral_Dragon_Priest"
+        },
+        {
+          "name": "Spectral Warhound",
+          "url": "https://elderscrolls.fandom.com/wiki/Spectral_Warhound"
+        },
+        {
+          "name": "Spriggan (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Spriggan_\\(Skyrim\\"
+        },
+        {
+          "name": "Spriggan Matron (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Spriggan_Matron_\\(Skyrim\\"
+        },
+        {
+          "name": "Staff",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Staff"
+        },
+        {
+          "name": "Stormhold (2003)",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Travels:_Stormhold"
+        },
+        {
+          "name": "Stray Dog",
+          "url": "https://elderscrolls.fandom.com/wiki/Stray_Dog"
+        },
+        {
+          "name": "Stump",
+          "url": "https://elderscrolls.fandom.com/wiki/Stump"
+        },
+        {
+          "name": "Style and Formatting guide",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Style_and_Formatting"
+        },
+        {
+          "name": "Synergy",
+          "url": "https://elderscrolls.fandom.com/wiki/Synergy"
+        },
+        {
+          "name": "Templar",
+          "url": "https://elderscrolls.fandom.com/wiki/Templar"
+        },
+        {
+          "name": "The College of Winterhold",
+          "url": "https://elderscrolls.fandom.com/wiki/College_of_Winterhold#Quests"
+        },
+        {
+          "name": "The Companions",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Companions#Quests"
+        },
+        {
+          "name": "The Pale Lady (Creature)",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Pale_Lady_\\(Creature\\"
+        },
+        {
+          "name": "Thieves Guild",
+          "url": "https://elderscrolls.fandom.com/wiki/Thieves_Guild_\\(Skyrim\\"
+        },
+        {
+          "name": "Tiber",
+          "url": "https://elderscrolls.fandom.com/wiki/Tiber"
+        },
+        {
+          "name": "Torchbugs (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Torchbugs_\\(Skyrim\\"
+        },
+        {
+          "name": "Torom",
+          "url": "https://elderscrolls.fandom.com/wiki/Torom"
+        },
+        {
+          "name": "Tower of Unutterable Truths",
+          "url": "https://elderscrolls.fandom.com/wiki/Tower_of_Unutterable_Truths"
+        },
+        {
+          "name": "Trainers",
+          "url": "https://elderscrolls.fandom.com/wiki/Trainers_\\(Skyrim\\"
+        },
+        {
+          "name": "Travels: Oblivion (2006)",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Travels:_Oblivion_\\(Mobile\\"
+        },
+        {
+          "name": "Tribunal (2002)",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_III:_Tribunal"
+        },
+        {
+          "name": "Troll (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Troll_\\(Skyrim\\"
+        },
+        {
+          "name": "Udefrykte (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Udefrykte_\\(Skyrim\\"
+        },
+        {
+          "name": "Ultimate Skills",
+          "url": "https://elderscrolls.fandom.com/wiki/Ultimate_Skills"
+        },
+        {
+          "name": "Unbound Dremora",
+          "url": "https://elderscrolls.fandom.com/wiki/Unbound_Dremora"
+        },
+        {
+          "name": "VI",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_VI"
+        },
+        {
+          "name": "Vampirism",
+          "url": "https://elderscrolls.fandom.com/wiki/Vampirism_\\(Skyrim\\"
+        },
+        {
+          "name": "Venomfang Skeever",
+          "url": "https://elderscrolls.fandom.com/wiki/Venomfang_Skeever"
+        },
+        {
+          "name": "Vigilance",
+          "url": "https://elderscrolls.fandom.com/wiki/Vigilance"
+        },
+        {
+          "name": "Viinturuth",
+          "url": "https://elderscrolls.fandom.com/wiki/Viinturuth"
+        },
+        {
+          "name": "Vix",
+          "url": "https://elderscrolls.fandom.com/wiki/Vix"
+        },
+        {
+          "name": "Vuljotnaak",
+          "url": "https://elderscrolls.fandom.com/wiki/Vuljotnaak"
+        },
+        {
+          "name": "Vulthuryol",
+          "url": "https://elderscrolls.fandom.com/wiki/Vulthuryol"
+        },
+        {
+          "name": "Warden",
+          "url": "https://elderscrolls.fandom.com/wiki/Warden"
+        },
+        {
+          "name": "Warlord Gathrik",
+          "url": "https://elderscrolls.fandom.com/wiki/Warlord_Gathrik"
+        },
+        {
+          "name": "Wayshrines",
+          "url": "https://elderscrolls.fandom.com/wiki/Wayshrines_\\(Online\\"
+        },
+        {
+          "name": "Weekly News",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Weekly_Updates"
+        },
+        {
+          "name": "Werewolf (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Werewolf_\\(Skyrim\\"
+        },
+        {
+          "name": "Werewolf Beastmaster",
+          "url": "https://elderscrolls.fandom.com/wiki/Werewolf_Beastmaster"
+        },
+        {
+          "name": "Werewolf Brute",
+          "url": "https://elderscrolls.fandom.com/wiki/Werewolf_Brute"
+        },
+        {
+          "name": "Werewolf Savage",
+          "url": "https://elderscrolls.fandom.com/wiki/Werewolf_Savage"
+        },
+        {
+          "name": "Werewolf Skinwalker",
+          "url": "https://elderscrolls.fandom.com/wiki/Werewolf_Skinwalker"
+        },
+        {
+          "name": "Werewolf Vargr",
+          "url": "https://elderscrolls.fandom.com/wiki/Werewolf_Vargr"
+        },
+        {
+          "name": "White Stag",
+          "url": "https://elderscrolls.fandom.com/wiki/White_Stag"
+        },
+        {
+          "name": "Wisp (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Wisp_\\(Skyrim\\"
+        },
+        {
+          "name": "Wispmother (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Wispmother_\\(Skyrim\\"
+        },
+        {
+          "name": "Wolf (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Wolf_\\(Skyrim\\"
+        },
+        {
+          "name": "Yngol's Shade",
+          "url": "https://elderscrolls.fandom.com/wiki/Yngol%27s_Shade"
+        },
+        {
+          "name": "Ysgramor (Dog)",
+          "url": "https://elderscrolls.fandom.com/wiki/Ysgramor_\\(Dog\\"
+        },
+        {
+          "name": "server guidelines",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Discord"
+        }
+      ]
+    }
+  },
+  "all_items": [
+    {
+      "name": "Abecean Longfin",
+      "url": "https://elderscrolls.fandom.com/wiki/Abecean_Longfin",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Abilities",
+      "url": "https://elderscrolls.fandom.com/wiki/Abilities_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Add-ons",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Online#Expansion_packs",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Administrators",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Administrators",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Aicantar's Spider",
+      "url": "https://elderscrolls.fandom.com/wiki/Aicantar%27s_Spider",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Aldmeri Dominion",
+      "url": "https://elderscrolls.fandom.com/wiki/Aldmeri_Dominion_Quests",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Alduin (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Alduin_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Alliances",
+      "url": "https://elderscrolls.fandom.com/wiki/Alliances",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Alpha Wolf (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Alpha_Wolf_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Altmer",
+      "url": "https://elderscrolls.fandom.com/wiki/Altmer_\\(Online\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Ancient Dragon (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Ancient_Dragon_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Anniversary Edition",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_V:_Skyrim_Anniversary_Edition",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Ants",
+      "url": "https://elderscrolls.fandom.com/wiki/Ants",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Arcanist",
+      "url": "https://elderscrolls.fandom.com/wiki/Arcanist_\\(Class\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Arena (1994)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls:_Arena",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Argonian",
+      "url": "https://elderscrolls.fandom.com/wiki/Argonians_\\(Online\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Barbas (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Barbas_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Bats",
+      "url": "https://elderscrolls.fandom.com/wiki/Bats",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Battlespire (1997)",
+      "url": "https://elderscrolls.fandom.com/wiki/An_Elder_Scrolls_Legend:_Battlespire",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Bear (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Bear_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Bismuth Steam Baths",
+      "url": "https://elderscrolls.fandom.com/wiki/Bismuth_Steam_Baths",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Biter",
+      "url": "https://elderscrolls.fandom.com/wiki/Biter",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Blackwood (2021)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Online:_Blackwood",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Blades (2019)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls:_Blades",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Blocking policy",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Blocking_policy",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Blog policy",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Blog_policy",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Blood Dragon (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Blood_Dragon_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Bloodmoon (2003)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_III:_Bloodmoon",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Blue Butterfly",
+      "url": "https://elderscrolls.fandom.com/wiki/Blue_Butterfly",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Blue Dartwing",
+      "url": "https://elderscrolls.fandom.com/wiki/Blue_Dartwing",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Bosmer",
+      "url": "https://elderscrolls.fandom.com/wiki/Bosmer_\\(Online\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Bots",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Bots",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Breton",
+      "url": "https://elderscrolls.fandom.com/wiki/Bretons_\\(Online\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Butterfly (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Butterfly_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Castles (2024)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls:_Castles",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Cave Bear (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Cave_Bear_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Chaurus (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Chaurus_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Chaurus Reaper (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Chaurus_Reaper_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Chicken (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Chicken_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Clam (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Clam_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Classes",
+      "url": "https://elderscrolls.fandom.com/wiki/Classes_\\(Online\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "CompUSA Expansion (1996)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_II:_Daggerfall_CompUSA_Expansion",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Comprehensive Articles",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Comprehensive_Articles",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Consensus policy",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Consensus",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Console Commands",
+      "url": "https://elderscrolls.fandom.com/wiki/Console_Commands_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Controls",
+      "url": "https://elderscrolls.fandom.com/wiki/Controls_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Corrupted Shade (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Corrupted_Shade_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Cotton (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Cotton_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Cow (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Cow_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Crafting",
+      "url": "https://elderscrolls.fandom.com/wiki/Crafting_\\(Online\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Creation Club",
+      "url": "https://elderscrolls.fandom.com/wiki/Creation_Club",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Creatures (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Creatures_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Crown Store",
+      "url": "https://elderscrolls.fandom.com/wiki/Crown_Store",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Cyrodilic Spadetail",
+      "url": "https://elderscrolls.fandom.com/wiki/Cyrodilic_Spadetail",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Daedric Artifacts",
+      "url": "https://elderscrolls.fandom.com/wiki/Daedric_Artifacts_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Daedric Quests",
+      "url": "https://elderscrolls.fandom.com/wiki/Daedric_Quests_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Daedric Shrines",
+      "url": "https://elderscrolls.fandom.com/wiki/Daedric_Shrines_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Daggerfall (1996)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_II:_Daggerfall",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Daggerfall Covenant",
+      "url": "https://elderscrolls.fandom.com/wiki/Daggerfall_Covenant_Quests",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Dark Brotherhood",
+      "url": "https://elderscrolls.fandom.com/wiki/Dark_Brotherhood_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Dawnguard (2012)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_V:_Dawnguard",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Dawnstar (2004)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Travels:_Dawnstar",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Deer (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Deer_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Discord Moderators",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Discord_Moderators",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Discord policy",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Discord",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Dog (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Dog_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Doomchar Plateau",
+      "url": "https://elderscrolls.fandom.com/wiki/Doomchar_Plateau",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Dragon (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Dragon_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Dragon Priests (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Dragon_Priests_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Dragon Shouts",
+      "url": "https://elderscrolls.fandom.com/wiki/Dragon_Shouts",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Dragonborn (2012)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_V:_Dragonborn",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Dragonflies (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Dragonflies_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Dragonknight",
+      "url": "https://elderscrolls.fandom.com/wiki/Dragonknight",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Dragons",
+      "url": "https://elderscrolls.fandom.com/wiki/Dragons_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Dragons (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Dragons_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Draugr Deathlord (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Draugr_Deathlord_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Draugr Overlord (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Draugr_Overlord_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Draugr Wight Lord",
+      "url": "https://elderscrolls.fandom.com/wiki/Draugr_Wight_Lord",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Dunmer",
+      "url": "https://elderscrolls.fandom.com/wiki/Dunmer_\\(Online\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Dwarven Sphere (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Dwarven_Sphere_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "ESO Plus",
+      "url": "https://elderscrolls.fandom.com/wiki/ESO_Plus",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Easter Eggs",
+      "url": "https://elderscrolls.fandom.com/wiki/Easter_Eggs_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Ebonheart Pact",
+      "url": "https://elderscrolls.fandom.com/wiki/Ebonheart_Pact_Quests",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Elder Dragon (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Elder_Dragon_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Elk (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Elk_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Elsweyr (2019)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Online:_Elsweyr",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Enchanting",
+      "url": "https://elderscrolls.fandom.com/wiki/Enchanting_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Enemies (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Enemies_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Factions",
+      "url": "https://elderscrolls.fandom.com/wiki/Factions_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Falmer (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Falmer_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Falmer Gloomlurker (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Falmer_Gloomlurker_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Falmer Nightprowler (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Falmer_Nightprowler_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Falmer Shadowmaster",
+      "url": "https://elderscrolls.fandom.com/wiki/Falmer_Shadowmaster",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Falmer Shaman",
+      "url": "https://elderscrolls.fandom.com/wiki/Falmer_Shaman",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Falmer Spellsword",
+      "url": "https://elderscrolls.fandom.com/wiki/Falmer_Spellsword",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Featured Articles",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Featured_Articles",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Finesse",
+      "url": "https://elderscrolls.fandom.com/wiki/Finesse",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Fish (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Fish_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Flame Atronach (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Flame_Atronach_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Followers",
+      "url": "https://elderscrolls.fandom.com/wiki/Followers_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Forum Moderators",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Moderators",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Forum/Discussions policy",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Discussions",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Fox (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Fox_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Frost (Horse)",
+      "url": "https://elderscrolls.fandom.com/wiki/Frost_\\(Horse\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Frost Atronach (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Frost_Atronach_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Frost Dragon",
+      "url": "https://elderscrolls.fandom.com/wiki/Frost_Dragon",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Frost Troll (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Frost_Troll_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Frostbite Spider (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Frostbite_Spider_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Games",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Ghost (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Ghost_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Giant (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Giant_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Gleda the Goat",
+      "url": "https://elderscrolls.fandom.com/wiki/Gleda_the_Goat",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Goat (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Goat_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Gold Road (2024)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Online:_Gold_Road",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Good Articles",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Good_Articles",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Greymoor (2020)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Online:_Greymoor",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Grok",
+      "url": "https://elderscrolls.fandom.com/wiki/Grok",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Hagraven (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Hagraven_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Hawk",
+      "url": "https://elderscrolls.fandom.com/wiki/Hawk",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Hearthfire (2012)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_V:_Hearthfire",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "High Isle (2022)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Online:_High_Isle",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Holds",
+      "url": "https://elderscrolls.fandom.com/wiki/Holds",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Horker (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Horker_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Horse (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Horse_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Ice Wolf (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Ice_Wolf_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Ice Wraith (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Ice_Wraith_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Imperial",
+      "url": "https://elderscrolls.fandom.com/wiki/Imperials_\\(Online\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Insects",
+      "url": "https://elderscrolls.fandom.com/wiki/Insects",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Item Enchantment Types",
+      "url": "https://elderscrolls.fandom.com/wiki/Enchantment_Modifiers",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Jyrik Gauldurson",
+      "url": "https://elderscrolls.fandom.com/wiki/Jyrik_Gauldurson",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Karinda",
+      "url": "https://elderscrolls.fandom.com/wiki/Karinda",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Khajiit",
+      "url": "https://elderscrolls.fandom.com/wiki/Khajiit_\\(Online\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Kit",
+      "url": "https://elderscrolls.fandom.com/wiki/Kit",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Knights of the Nine (2006)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_IV:_Knights_of_the_Nine",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Kodlak's Wolf Spirit",
+      "url": "https://elderscrolls.fandom.com/wiki/Kodlak%27s_Wolf_Spirit",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Legends (2016)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls:_Legends",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Leveled Creatures (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Leveled_Creatures_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Lis",
+      "url": "https://elderscrolls.fandom.com/wiki/Lis",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Local Sitemap",
+      "url": "https://elderscrolls.fandom.com/wiki/Local_Sitemap",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Lucky (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Lucky_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Lycanthropy",
+      "url": "https://elderscrolls.fandom.com/wiki/Lycanthropy_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Lycanthropy (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Lycanthropy_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Magic Anomaly",
+      "url": "https://elderscrolls.fandom.com/wiki/Magic_Anomaly",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Main Quest",
+      "url": "https://elderscrolls.fandom.com/wiki/Main_Quest_\\(Online\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Malkoran's Shade",
+      "url": "https://elderscrolls.fandom.com/wiki/Malkoran%27s_Shade",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Mammoth (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Mammoth_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Map",
+      "url": "https://elderscrolls.fandom.com/wiki/Map_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Marriage",
+      "url": "https://elderscrolls.fandom.com/wiki/Marriage",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Media policy",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Media",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Meeko",
+      "url": "https://elderscrolls.fandom.com/wiki/Meeko",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Melka",
+      "url": "https://elderscrolls.fandom.com/wiki/Melka",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Member of the Month",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Member_of_the_Month",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Mikrul Gauldurson",
+      "url": "https://elderscrolls.fandom.com/wiki/Mikrul_Gauldurson",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Mirmulnir",
+      "url": "https://elderscrolls.fandom.com/wiki/Mirmulnir",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Moira",
+      "url": "https://elderscrolls.fandom.com/wiki/Moira",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Monarch Butterfly",
+      "url": "https://elderscrolls.fandom.com/wiki/Monarch_Butterfly",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Moot",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Moot",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "More Quests",
+      "url": "https://elderscrolls.fandom.com/wiki/Quests_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Morrowind (2002)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_III:_Morrowind",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Mudcrab (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Mudcrab_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Nahagliiv (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Nahagliiv_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Necrom (2023)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Online:_Necrom",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Necromancer",
+      "url": "https://elderscrolls.fandom.com/wiki/Necromancer_\\(Online\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Neutral point of view",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Neutral_point_of_view",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "News Team",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:News_Team",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Nightblade",
+      "url": "https://elderscrolls.fandom.com/wiki/Nightblade_\\(Online\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Nimhe",
+      "url": "https://elderscrolls.fandom.com/wiki/Nimhe",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Nord",
+      "url": "https://elderscrolls.fandom.com/wiki/Nords_\\(Online\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Numinex",
+      "url": "https://elderscrolls.fandom.com/wiki/Numinex",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Oblivion (2006)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_IV:_Oblivion",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Oblivion Remastered (2025)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_IV:_Oblivion_Remastered",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Odahviing (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Odahviing_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Olaf One-Eye",
+      "url": "https://elderscrolls.fandom.com/wiki/Olaf_One-Eye",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Orange Dartwing",
+      "url": "https://elderscrolls.fandom.com/wiki/Orange_Dartwing",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Orsimer",
+      "url": "https://elderscrolls.fandom.com/wiki/Orsimer_\\(Online\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Paarthurnax (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Paarthurnax_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Patrollers",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Patrollers",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Pelagius' Flame Thrall",
+      "url": "https://elderscrolls.fandom.com/wiki/Pelagius%27_Flame_Thrall",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Pelagius' Frost Thrall",
+      "url": "https://elderscrolls.fandom.com/wiki/Pelagius%27_Frost_Thrall",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Pelagius's Storm Thrall",
+      "url": "https://elderscrolls.fandom.com/wiki/Pelagius%27s_Storm_Thrall",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Perks",
+      "url": "https://elderscrolls.fandom.com/wiki/Perks",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Petra",
+      "url": "https://elderscrolls.fandom.com/wiki/Petra",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Pets (Hearthfire)",
+      "url": "https://elderscrolls.fandom.com/wiki/Pets_\\(Hearthfire\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Pincer",
+      "url": "https://elderscrolls.fandom.com/wiki/Pincer",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Pit Wolf",
+      "url": "https://elderscrolls.fandom.com/wiki/Pit_Wolf",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Policies and Guidelines",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Policies_and_Guidelines",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Powers",
+      "url": "https://elderscrolls.fandom.com/wiki/Powers",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Pumpkin (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Pumpkin_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Quest Items",
+      "url": "https://elderscrolls.fandom.com/wiki/Quest_Items_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Rabbit (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Rabbit_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Races",
+      "url": "https://elderscrolls.fandom.com/wiki/Races_\\(Online\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Random Encounters",
+      "url": "https://elderscrolls.fandom.com/wiki/Random_Encounters_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Recent News",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:News",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Red Eagle",
+      "url": "https://elderscrolls.fandom.com/wiki/Red_Eagle",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Redguard",
+      "url": "https://elderscrolls.fandom.com/wiki/Redguards_\\(Online\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Redguard (1998)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Adventures:_Redguard",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Regions",
+      "url": "https://elderscrolls.fandom.com/wiki/Regions_\\(Online\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Report Vandalism",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Vandalism_in_progress",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "River Betty",
+      "url": "https://elderscrolls.fandom.com/wiki/River_Betty",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Sabre Cat (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Sabre_Cat_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Sahloknir",
+      "url": "https://elderscrolls.fandom.com/wiki/Sahloknir",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Salmon",
+      "url": "https://elderscrolls.fandom.com/wiki/Salmon",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Sandbox",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Sandbox",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Seasons of the Worm Cult (2025)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Online:_Seasons_of_the_Worm_Cult",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Shade (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Shade_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Shadowkey (2004)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Travels:_Shadowkey",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Shadowmere (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Shadowmere_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Shivering Isles (2007)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_IV:_Shivering_Isles",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Silverside Perch",
+      "url": "https://elderscrolls.fandom.com/wiki/Silverside_Perch",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Skeever (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Skeever_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Skeletal Dragon (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Skeletal_Dragon_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Skills",
+      "url": "https://elderscrolls.fandom.com/wiki/Skills_\\(Online\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Skyrim (2011)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_V:_Skyrim",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Slaughterfish (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Slaughterfish_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Smithing",
+      "url": "https://elderscrolls.fandom.com/wiki/Smithing_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Snow Bear (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Snow_Bear_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Snow Fox (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Snow_Fox_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Snowy Sabre Cat (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Snowy_Sabre_Cat_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Sorcerer",
+      "url": "https://elderscrolls.fandom.com/wiki/Sorcerer_\\(Online\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Special Edition",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_V:_Skyrim_Special_Edition",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Spectral Dragon Priest",
+      "url": "https://elderscrolls.fandom.com/wiki/Spectral_Dragon_Priest",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Spectral Warhound",
+      "url": "https://elderscrolls.fandom.com/wiki/Spectral_Warhound",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Spriggan (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Spriggan_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Spriggan Matron (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Spriggan_Matron_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Staff",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Staff",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Stormhold (2003)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Travels:_Stormhold",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Stray Dog",
+      "url": "https://elderscrolls.fandom.com/wiki/Stray_Dog",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Stump",
+      "url": "https://elderscrolls.fandom.com/wiki/Stump",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Style and Formatting guide",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Style_and_Formatting",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Synergy",
+      "url": "https://elderscrolls.fandom.com/wiki/Synergy",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Templar",
+      "url": "https://elderscrolls.fandom.com/wiki/Templar",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "The College of Winterhold",
+      "url": "https://elderscrolls.fandom.com/wiki/College_of_Winterhold#Quests",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "The Companions",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Companions#Quests",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "The Pale Lady (Creature)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Pale_Lady_\\(Creature\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Thieves Guild",
+      "url": "https://elderscrolls.fandom.com/wiki/Thieves_Guild_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Tiber",
+      "url": "https://elderscrolls.fandom.com/wiki/Tiber",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Torchbugs (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Torchbugs_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Torom",
+      "url": "https://elderscrolls.fandom.com/wiki/Torom",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Tower of Unutterable Truths",
+      "url": "https://elderscrolls.fandom.com/wiki/Tower_of_Unutterable_Truths",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Trainers",
+      "url": "https://elderscrolls.fandom.com/wiki/Trainers_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Travels: Oblivion (2006)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Travels:_Oblivion_\\(Mobile\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Tribunal (2002)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_III:_Tribunal",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Troll (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Troll_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Udefrykte (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Udefrykte_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Ultimate Skills",
+      "url": "https://elderscrolls.fandom.com/wiki/Ultimate_Skills",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Unbound Dremora",
+      "url": "https://elderscrolls.fandom.com/wiki/Unbound_Dremora",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "VI",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_VI",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Vampirism",
+      "url": "https://elderscrolls.fandom.com/wiki/Vampirism_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Venomfang Skeever",
+      "url": "https://elderscrolls.fandom.com/wiki/Venomfang_Skeever",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Vigilance",
+      "url": "https://elderscrolls.fandom.com/wiki/Vigilance",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Viinturuth",
+      "url": "https://elderscrolls.fandom.com/wiki/Viinturuth",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Vix",
+      "url": "https://elderscrolls.fandom.com/wiki/Vix",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Vuljotnaak",
+      "url": "https://elderscrolls.fandom.com/wiki/Vuljotnaak",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Vulthuryol",
+      "url": "https://elderscrolls.fandom.com/wiki/Vulthuryol",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Warden",
+      "url": "https://elderscrolls.fandom.com/wiki/Warden",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Warlord Gathrik",
+      "url": "https://elderscrolls.fandom.com/wiki/Warlord_Gathrik",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Wayshrines",
+      "url": "https://elderscrolls.fandom.com/wiki/Wayshrines_\\(Online\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Weekly News",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Weekly_Updates",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Werewolf (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Werewolf_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Werewolf Beastmaster",
+      "url": "https://elderscrolls.fandom.com/wiki/Werewolf_Beastmaster",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Werewolf Brute",
+      "url": "https://elderscrolls.fandom.com/wiki/Werewolf_Brute",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Werewolf Savage",
+      "url": "https://elderscrolls.fandom.com/wiki/Werewolf_Savage",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Werewolf Skinwalker",
+      "url": "https://elderscrolls.fandom.com/wiki/Werewolf_Skinwalker",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Werewolf Vargr",
+      "url": "https://elderscrolls.fandom.com/wiki/Werewolf_Vargr",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "White Stag",
+      "url": "https://elderscrolls.fandom.com/wiki/White_Stag",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Wisp (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Wisp_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Wispmother (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Wispmother_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Wolf (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Wolf_\\(Skyrim\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Yngol's Shade",
+      "url": "https://elderscrolls.fandom.com/wiki/Yngol%27s_Shade",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "Ysgramor (Dog)",
+      "url": "https://elderscrolls.fandom.com/wiki/Ysgramor_\\(Dog\\",
+      "categories": [
+        "base_game"
+      ]
+    },
+    {
+      "name": "server guidelines",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Discord",
+      "categories": [
+        "base_game"
+      ]
+    }
+  ]
+}
