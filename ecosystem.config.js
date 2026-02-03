@@ -1,8 +1,8 @@
 module.exports = {
   apps: [{
     name: 'project-skyrim',
-    script: 'index.ts',
-    interpreter: 'tsx',
+    script: 'npx tsx index.ts',
+    interpreter: 'none',
     instances: 1,
     autorestart: true,
     watch: false,
