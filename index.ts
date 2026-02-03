@@ -51,14 +51,14 @@ async function sendDiscordNotification(
             const minutes = Math.floor((elapsed % 3600) / 60);
             const seconds = elapsed % 60;
 
-            const progress = ((stats.successCount + stats.errorCount) / stats.totalUniqueTexts * 100).toFixed(2);
             const recordsUpdated = stats.successCount + stats.copiedCount;
+            const progress = (recordsUpdated / stats.totalRecords * 100).toFixed(2);
 
             embed.addFields(
                 { name: '📊 Progress', value: `${progress}%`, inline: true },
-                { name: '✅ Translated', value: `${stats.successCount}/${stats.totalUniqueTexts}`, inline: true },
+                { name: '✅ Records Translated', value: `${recordsUpdated}/${stats.totalRecords}`, inline: true },
                 { name: '❌ Errors', value: `${stats.errorCount}`, inline: true },
-                { name: '📝 Records Updated', value: `${recordsUpdated}/${stats.totalRecords}`, inline: true },
+                { name: '📝 Unique Texts', value: `${stats.successCount}/${stats.totalUniqueTexts}`, inline: true },
                 { name: '📋 Copied', value: `${stats.copiedCount}`, inline: true },
                 { name: '⏱️ Elapsed', value: `${hours}h ${minutes}m ${seconds}s`, inline: true }
             );
