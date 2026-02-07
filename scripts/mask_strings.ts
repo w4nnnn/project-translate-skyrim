@@ -4,7 +4,7 @@ import * as fs from 'fs';
 import * as path from 'path';
 import { eq, like, isNull, sql } from 'drizzle-orm';
 
-const OUTPUT_DIR = path.join(__dirname, '../output');
+const OUTPUT_DIR = path.join(__dirname, '../glossary');
 
 async function main() {
     console.log("Starting optimized masking process...");

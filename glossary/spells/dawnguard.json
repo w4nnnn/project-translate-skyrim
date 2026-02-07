@@ -1,0 +1,581 @@
+{
+  "metadata": {
+    "type": "Spells",
+    "category": "Dawnguard DLC Spells",
+    "urls": [
+      "https://elderscrolls.fandom.com/wiki/Category:Dawnguard:_Spells"
+    ],
+    "crawled_at": "2026-02-03T12:27:53.122988",
+    "total_items": 142
+  },
+  "items": [
+    {
+      "name": "Abilities",
+      "url": "https://elderscrolls.fandom.com/wiki/Abilities_\\(Skyrim\\"
+    },
+    {
+      "name": "Add-ons",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Online#Expansion_packs"
+    },
+    {
+      "name": "Administrators",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Administrators"
+    },
+    {
+      "name": "Aldmeri Dominion",
+      "url": "https://elderscrolls.fandom.com/wiki/Aldmeri_Dominion_Quests"
+    },
+    {
+      "name": "Alliances",
+      "url": "https://elderscrolls.fandom.com/wiki/Alliances"
+    },
+    {
+      "name": "Altmer",
+      "url": "https://elderscrolls.fandom.com/wiki/Altmer_\\(Online\\"
+    },
+    {
+      "name": "Anniversary Edition",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_V:_Skyrim_Anniversary_Edition"
+    },
+    {
+      "name": "Arcanist",
+      "url": "https://elderscrolls.fandom.com/wiki/Arcanist_\\(Class\\"
+    },
+    {
+      "name": "Arena (1994)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls:_Arena"
+    },
+    {
+      "name": "Argonian",
+      "url": "https://elderscrolls.fandom.com/wiki/Argonians_\\(Online\\"
+    },
+    {
+      "name": "Battlespire (1997)",
+      "url": "https://elderscrolls.fandom.com/wiki/An_Elder_Scrolls_Legend:_Battlespire"
+    },
+    {
+      "name": "Bismuth Steam Baths",
+      "url": "https://elderscrolls.fandom.com/wiki/Bismuth_Steam_Baths"
+    },
+    {
+      "name": "Blackwood (2021)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Online:_Blackwood"
+    },
+    {
+      "name": "Blades (2019)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls:_Blades"
+    },
+    {
+      "name": "Blocking policy",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Blocking_policy"
+    },
+    {
+      "name": "Blog policy",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Blog_policy"
+    },
+    {
+      "name": "Bloodmoon (2003)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_III:_Bloodmoon"
+    },
+    {
+      "name": "Bosmer",
+      "url": "https://elderscrolls.fandom.com/wiki/Bosmer_\\(Online\\"
+    },
+    {
+      "name": "Bots",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Bots"
+    },
+    {
+      "name": "Breton",
+      "url": "https://elderscrolls.fandom.com/wiki/Bretons_\\(Online\\"
+    },
+    {
+      "name": "Castles (2024)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls:_Castles"
+    },
+    {
+      "name": "Classes",
+      "url": "https://elderscrolls.fandom.com/wiki/Classes_\\(Online\\"
+    },
+    {
+      "name": "CompUSA Expansion (1996)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_II:_Daggerfall_CompUSA_Expansion"
+    },
+    {
+      "name": "Comprehensive Articles",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Comprehensive_Articles"
+    },
+    {
+      "name": "Conjure Boneman",
+      "url": "https://elderscrolls.fandom.com/wiki/Conjure_Boneman"
+    },
+    {
+      "name": "Conjure Dwarven Sphere",
+      "url": "https://elderscrolls.fandom.com/wiki/Conjure_Dwarven_Sphere"
+    },
+    {
+      "name": "Conjure Mistman",
+      "url": "https://elderscrolls.fandom.com/wiki/Conjure_Mistman"
+    },
+    {
+      "name": "Conjure Wrathman",
+      "url": "https://elderscrolls.fandom.com/wiki/Conjure_Wrathman"
+    },
+    {
+      "name": "Consensus policy",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Consensus"
+    },
+    {
+      "name": "Console Commands",
+      "url": "https://elderscrolls.fandom.com/wiki/Console_Commands_\\(Skyrim\\"
+    },
+    {
+      "name": "Controls",
+      "url": "https://elderscrolls.fandom.com/wiki/Controls_\\(Skyrim\\"
+    },
+    {
+      "name": "Crafting",
+      "url": "https://elderscrolls.fandom.com/wiki/Crafting_\\(Online\\"
+    },
+    {
+      "name": "Creation Club",
+      "url": "https://elderscrolls.fandom.com/wiki/Creation_Club"
+    },
+    {
+      "name": "Crown Store",
+      "url": "https://elderscrolls.fandom.com/wiki/Crown_Store"
+    },
+    {
+      "name": "Daedric Artifacts",
+      "url": "https://elderscrolls.fandom.com/wiki/Daedric_Artifacts_\\(Skyrim\\"
+    },
+    {
+      "name": "Daedric Quests",
+      "url": "https://elderscrolls.fandom.com/wiki/Daedric_Quests_\\(Skyrim\\"
+    },
+    {
+      "name": "Daedric Shrines",
+      "url": "https://elderscrolls.fandom.com/wiki/Daedric_Shrines_\\(Skyrim\\"
+    },
+    {
+      "name": "Daggerfall (1996)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_II:_Daggerfall"
+    },
+    {
+      "name": "Daggerfall Covenant",
+      "url": "https://elderscrolls.fandom.com/wiki/Daggerfall_Covenant_Quests"
+    },
+    {
+      "name": "Dark Brotherhood",
+      "url": "https://elderscrolls.fandom.com/wiki/Dark_Brotherhood_\\(Skyrim\\"
+    },
+    {
+      "name": "Dawnguard (2012)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_V:_Dawnguard"
+    },
+    {
+      "name": "Dawnstar (2004)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Travels:_Dawnstar"
+    },
+    {
+      "name": "Discord Moderators",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Discord_Moderators"
+    },
+    {
+      "name": "Discord policy",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Discord"
+    },
+    {
+      "name": "Doomchar Plateau",
+      "url": "https://elderscrolls.fandom.com/wiki/Doomchar_Plateau"
+    },
+    {
+      "name": "Dragon Shouts",
+      "url": "https://elderscrolls.fandom.com/wiki/Dragon_Shouts"
+    },
+    {
+      "name": "Dragonborn (2012)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_V:_Dragonborn"
+    },
+    {
+      "name": "Dragonknight",
+      "url": "https://elderscrolls.fandom.com/wiki/Dragonknight"
+    },
+    {
+      "name": "Dragons",
+      "url": "https://elderscrolls.fandom.com/wiki/Dragons_\\(Skyrim\\"
+    },
+    {
+      "name": "Dunmer",
+      "url": "https://elderscrolls.fandom.com/wiki/Dunmer_\\(Online\\"
+    },
+    {
+      "name": "ESO Plus",
+      "url": "https://elderscrolls.fandom.com/wiki/ESO_Plus"
+    },
+    {
+      "name": "Easter Eggs",
+      "url": "https://elderscrolls.fandom.com/wiki/Easter_Eggs_\\(Skyrim\\"
+    },
+    {
+      "name": "Ebonheart Pact",
+      "url": "https://elderscrolls.fandom.com/wiki/Ebonheart_Pact_Quests"
+    },
+    {
+      "name": "Elsweyr (2019)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Online:_Elsweyr"
+    },
+    {
+      "name": "Enchanting",
+      "url": "https://elderscrolls.fandom.com/wiki/Enchanting_\\(Skyrim\\"
+    },
+    {
+      "name": "Factions",
+      "url": "https://elderscrolls.fandom.com/wiki/Factions_\\(Skyrim\\"
+    },
+    {
+      "name": "Featured Articles",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Featured_Articles"
+    },
+    {
+      "name": "Finesse",
+      "url": "https://elderscrolls.fandom.com/wiki/Finesse"
+    },
+    {
+      "name": "Followers",
+      "url": "https://elderscrolls.fandom.com/wiki/Followers_\\(Skyrim\\"
+    },
+    {
+      "name": "Forum Moderators",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Moderators"
+    },
+    {
+      "name": "Forum/Discussions policy",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Discussions"
+    },
+    {
+      "name": "Games",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls"
+    },
+    {
+      "name": "Gold Road (2024)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Online:_Gold_Road"
+    },
+    {
+      "name": "Good Articles",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Good_Articles"
+    },
+    {
+      "name": "Greymoor (2020)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Online:_Greymoor"
+    },
+    {
+      "name": "Heal Undead",
+      "url": "https://elderscrolls.fandom.com/wiki/Heal_Undead"
+    },
+    {
+      "name": "Hearthfire (2012)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_V:_Hearthfire"
+    },
+    {
+      "name": "High Isle (2022)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Online:_High_Isle"
+    },
+    {
+      "name": "Holds",
+      "url": "https://elderscrolls.fandom.com/wiki/Holds"
+    },
+    {
+      "name": "Imperial",
+      "url": "https://elderscrolls.fandom.com/wiki/Imperials_\\(Online\\"
+    },
+    {
+      "name": "Item Enchantment Types",
+      "url": "https://elderscrolls.fandom.com/wiki/Enchantment_Modifiers"
+    },
+    {
+      "name": "Khajiit",
+      "url": "https://elderscrolls.fandom.com/wiki/Khajiit_\\(Online\\"
+    },
+    {
+      "name": "Knights of the Nine (2006)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_IV:_Knights_of_the_Nine"
+    },
+    {
+      "name": "Legends (2016)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls:_Legends"
+    },
+    {
+      "name": "Local Sitemap",
+      "url": "https://elderscrolls.fandom.com/wiki/Local_Sitemap"
+    },
+    {
+      "name": "Lycanthropy",
+      "url": "https://elderscrolls.fandom.com/wiki/Lycanthropy_\\(Skyrim\\"
+    },
+    {
+      "name": "Magic (Dawnguard)",
+      "url": "https://elderscrolls.fandom.com/wiki/Magic_\\(Dawnguard\\"
+    },
+    {
+      "name": "Main Quest",
+      "url": "https://elderscrolls.fandom.com/wiki/Main_Quest_\\(Online\\"
+    },
+    {
+      "name": "Map",
+      "url": "https://elderscrolls.fandom.com/wiki/Map_\\(Skyrim\\"
+    },
+    {
+      "name": "Marriage",
+      "url": "https://elderscrolls.fandom.com/wiki/Marriage"
+    },
+    {
+      "name": "Media policy",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Media"
+    },
+    {
+      "name": "Member of the Month",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Member_of_the_Month"
+    },
+    {
+      "name": "Moot",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Moot"
+    },
+    {
+      "name": "More Quests",
+      "url": "https://elderscrolls.fandom.com/wiki/Quests_\\(Skyrim\\"
+    },
+    {
+      "name": "Morrowind (2002)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_III:_Morrowind"
+    },
+    {
+      "name": "Necrom (2023)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Online:_Necrom"
+    },
+    {
+      "name": "Necromancer",
+      "url": "https://elderscrolls.fandom.com/wiki/Necromancer_\\(Online\\"
+    },
+    {
+      "name": "Necromantic Healing",
+      "url": "https://elderscrolls.fandom.com/wiki/Necromantic_Healing"
+    },
+    {
+      "name": "Neutral point of view",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Neutral_point_of_view"
+    },
+    {
+      "name": "News Team",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:News_Team"
+    },
+    {
+      "name": "Nightblade",
+      "url": "https://elderscrolls.fandom.com/wiki/Nightblade_\\(Online\\"
+    },
+    {
+      "name": "Nord",
+      "url": "https://elderscrolls.fandom.com/wiki/Nords_\\(Online\\"
+    },
+    {
+      "name": "Oblivion (2006)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_IV:_Oblivion"
+    },
+    {
+      "name": "Oblivion Remastered (2025)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_IV:_Oblivion_Remastered"
+    },
+    {
+      "name": "Orsimer",
+      "url": "https://elderscrolls.fandom.com/wiki/Orsimer_\\(Online\\"
+    },
+    {
+      "name": "Patrollers",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Patrollers"
+    },
+    {
+      "name": "Perks",
+      "url": "https://elderscrolls.fandom.com/wiki/Perks"
+    },
+    {
+      "name": "Policies and Guidelines",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Policies_and_Guidelines"
+    },
+    {
+      "name": "Powers",
+      "url": "https://elderscrolls.fandom.com/wiki/Powers"
+    },
+    {
+      "name": "Quest Items",
+      "url": "https://elderscrolls.fandom.com/wiki/Quest_Items_\\(Skyrim\\"
+    },
+    {
+      "name": "Races",
+      "url": "https://elderscrolls.fandom.com/wiki/Races_\\(Online\\"
+    },
+    {
+      "name": "Random Encounters",
+      "url": "https://elderscrolls.fandom.com/wiki/Random_Encounters_\\(Skyrim\\"
+    },
+    {
+      "name": "Recent News",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:News"
+    },
+    {
+      "name": "Redguard",
+      "url": "https://elderscrolls.fandom.com/wiki/Redguards_\\(Online\\"
+    },
+    {
+      "name": "Redguard (1998)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Adventures:_Redguard"
+    },
+    {
+      "name": "Regions",
+      "url": "https://elderscrolls.fandom.com/wiki/Regions_\\(Online\\"
+    },
+    {
+      "name": "Report Vandalism",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Vandalism_in_progress"
+    },
+    {
+      "name": "Sandbox",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Sandbox"
+    },
+    {
+      "name": "Seasons of the Worm Cult (2025)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Online:_Seasons_of_the_Worm_Cult"
+    },
+    {
+      "name": "Shadowkey (2004)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Travels:_Shadowkey"
+    },
+    {
+      "name": "Shivering Isles (2007)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_IV:_Shivering_Isles"
+    },
+    {
+      "name": "Skills",
+      "url": "https://elderscrolls.fandom.com/wiki/Skills_\\(Online\\"
+    },
+    {
+      "name": "Skyrim (2011)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_V:_Skyrim"
+    },
+    {
+      "name": "Smithing",
+      "url": "https://elderscrolls.fandom.com/wiki/Smithing_\\(Skyrim\\"
+    },
+    {
+      "name": "Sorcerer",
+      "url": "https://elderscrolls.fandom.com/wiki/Sorcerer_\\(Online\\"
+    },
+    {
+      "name": "Special Edition",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_V:_Skyrim_Special_Edition"
+    },
+    {
+      "name": "Spells (Dawnguard)",
+      "url": "https://elderscrolls.fandom.com/wiki/Spells_\\(Dawnguard\\"
+    },
+    {
+      "name": "Staff",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Staff"
+    },
+    {
+      "name": "Stendarr's Aura",
+      "url": "https://elderscrolls.fandom.com/wiki/Stendarr%27s_Aura"
+    },
+    {
+      "name": "Stormhold (2003)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Travels:_Stormhold"
+    },
+    {
+      "name": "Style and Formatting guide",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Style_and_Formatting"
+    },
+    {
+      "name": "Summon Arvak",
+      "url": "https://elderscrolls.fandom.com/wiki/Summon_Arvak"
+    },
+    {
+      "name": "Sun Fire (Dawnguard)",
+      "url": "https://elderscrolls.fandom.com/wiki/Sun_Fire_\\(Dawnguard\\"
+    },
+    {
+      "name": "Synergy",
+      "url": "https://elderscrolls.fandom.com/wiki/Synergy"
+    },
+    {
+      "name": "Templar",
+      "url": "https://elderscrolls.fandom.com/wiki/Templar"
+    },
+    {
+      "name": "The College of Winterhold",
+      "url": "https://elderscrolls.fandom.com/wiki/College_of_Winterhold#Quests"
+    },
+    {
+      "name": "The Companions",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Companions#Quests"
+    },
+    {
+      "name": "Thieves Guild",
+      "url": "https://elderscrolls.fandom.com/wiki/Thieves_Guild_\\(Skyrim\\"
+    },
+    {
+      "name": "Tower of Unutterable Truths",
+      "url": "https://elderscrolls.fandom.com/wiki/Tower_of_Unutterable_Truths"
+    },
+    {
+      "name": "Trainers",
+      "url": "https://elderscrolls.fandom.com/wiki/Trainers_\\(Skyrim\\"
+    },
+    {
+      "name": "Travels: Oblivion (2006)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Travels:_Oblivion_\\(Mobile\\"
+    },
+    {
+      "name": "Tribunal (2002)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_III:_Tribunal"
+    },
+    {
+      "name": "Ultimate Skills",
+      "url": "https://elderscrolls.fandom.com/wiki/Ultimate_Skills"
+    },
+    {
+      "name": "VI",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_VI"
+    },
+    {
+      "name": "Vampire Touch (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Vampire_Touch_\\(Skyrim\\"
+    },
+    {
+      "name": "Vampire's Bane (Dawnguard)",
+      "url": "https://elderscrolls.fandom.com/wiki/Vampire%27s_Bane_\\(Dawnguard\\"
+    },
+    {
+      "name": "Vampirism",
+      "url": "https://elderscrolls.fandom.com/wiki/Vampirism_\\(Skyrim\\"
+    },
+    {
+      "name": "Warden",
+      "url": "https://elderscrolls.fandom.com/wiki/Warden"
+    },
+    {
+      "name": "Wayshrines",
+      "url": "https://elderscrolls.fandom.com/wiki/Wayshrines_\\(Online\\"
+    },
+    {
+      "name": "Weekly News",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Weekly_Updates"
+    },
+    {
+      "name": "server guidelines",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Discord"
+    },
+    {
+      "name": "spells",
+      "url": "https://elderscrolls.fandom.com/wiki/Spells_\\(Dawnguard\\"
+    }
+  ]
+}

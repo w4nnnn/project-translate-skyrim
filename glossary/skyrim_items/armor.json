@@ -1,0 +1,2107 @@
+{
+  "metadata": {
+    "type": "Skyrim Items",
+    "category": "Armor",
+    "urls": [
+      "https://elderscrolls.fandom.com/wiki/Category:Skyrim:_Armor",
+      "https://elderscrolls.fandom.com/wiki/Category:Dawnguard:_Armor",
+      "https://elderscrolls.fandom.com/wiki/Category:Dragonborn:_Armor"
+    ],
+    "crawled_at": "2026-02-03T12:26:14.835924",
+    "total_items": 523
+  },
+  "items": [
+    {
+      "name": "Abilities",
+      "url": "https://elderscrolls.fandom.com/wiki/Abilities_\\(Skyrim\\"
+    },
+    {
+      "name": "Add-ons",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Online#Expansion_packs"
+    },
+    {
+      "name": "Administrators",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Administrators"
+    },
+    {
+      "name": "Aela's Shield",
+      "url": "https://elderscrolls.fandom.com/wiki/Aela%27s_Shield"
+    },
+    {
+      "name": "Aetherial Shield",
+      "url": "https://elderscrolls.fandom.com/wiki/Aetherial_Shield"
+    },
+    {
+      "name": "Ahzidal (Mask)",
+      "url": "https://elderscrolls.fandom.com/wiki/Ahzidal_\\(Mask\\"
+    },
+    {
+      "name": "Ahzidal's Armor",
+      "url": "https://elderscrolls.fandom.com/wiki/Ahzidal%27s_Armor"
+    },
+    {
+      "name": "Ahzidal's Armor of Retribution",
+      "url": "https://elderscrolls.fandom.com/wiki/Ahzidal%27s_Armor_of_Retribution"
+    },
+    {
+      "name": "Ahzidal's Boots of Waterwalking",
+      "url": "https://elderscrolls.fandom.com/wiki/Ahzidal%27s_Boots_of_Waterwalking"
+    },
+    {
+      "name": "Ahzidal's Gauntlets of Warding",
+      "url": "https://elderscrolls.fandom.com/wiki/Ahzidal%27s_Gauntlets_of_Warding"
+    },
+    {
+      "name": "Ahzidal's Helm of Vision",
+      "url": "https://elderscrolls.fandom.com/wiki/Ahzidal%27s_Helm_of_Vision"
+    },
+    {
+      "name": "Aldmeri Dominion",
+      "url": "https://elderscrolls.fandom.com/wiki/Aldmeri_Dominion_Quests"
+    },
+    {
+      "name": "Alliances",
+      "url": "https://elderscrolls.fandom.com/wiki/Alliances"
+    },
+    {
+      "name": "Altmer",
+      "url": "https://elderscrolls.fandom.com/wiki/Altmer_\\(Online\\"
+    },
+    {
+      "name": "Amulet of Articulation",
+      "url": "https://elderscrolls.fandom.com/wiki/Amulet_of_Articulation"
+    },
+    {
+      "name": "Ancient Falmer Armor",
+      "url": "https://elderscrolls.fandom.com/wiki/Ancient_Falmer_Armor"
+    },
+    {
+      "name": "Ancient Falmer Boots",
+      "url": "https://elderscrolls.fandom.com/wiki/Ancient_Falmer_Boots"
+    },
+    {
+      "name": "Ancient Falmer Cuirass",
+      "url": "https://elderscrolls.fandom.com/wiki/Ancient_Falmer_Cuirass"
+    },
+    {
+      "name": "Ancient Falmer Gauntlets",
+      "url": "https://elderscrolls.fandom.com/wiki/Ancient_Falmer_Gauntlets"
+    },
+    {
+      "name": "Ancient Helmet of the Unburned",
+      "url": "https://elderscrolls.fandom.com/wiki/Ancient_Helmet_of_the_Unburned"
+    },
+    {
+      "name": "Ancient Nord Armor",
+      "url": "https://elderscrolls.fandom.com/wiki/Ancient_Nord_Armor"
+    },
+    {
+      "name": "Ancient Nord Armor (Armor Piece)",
+      "url": "https://elderscrolls.fandom.com/wiki/Ancient_Nord_Armor_\\(Armor_Piece\\"
+    },
+    {
+      "name": "Ancient Nord Boots",
+      "url": "https://elderscrolls.fandom.com/wiki/Ancient_Nord_Boots"
+    },
+    {
+      "name": "Ancient Nord Gauntlets",
+      "url": "https://elderscrolls.fandom.com/wiki/Ancient_Nord_Gauntlets"
+    },
+    {
+      "name": "Ancient Nord Helmet",
+      "url": "https://elderscrolls.fandom.com/wiki/Ancient_Nord_Helmet"
+    },
+    {
+      "name": "Ancient Shrouded Armor",
+      "url": "https://elderscrolls.fandom.com/wiki/Ancient_Shrouded_Armor"
+    },
+    {
+      "name": "Ancient Shrouded Armor (Armor Piece)",
+      "url": "https://elderscrolls.fandom.com/wiki/Ancient_Shrouded_Armor_\\(Armor_Piece\\"
+    },
+    {
+      "name": "Ancient Shrouded Boots",
+      "url": "https://elderscrolls.fandom.com/wiki/Ancient_Shrouded_Boots"
+    },
+    {
+      "name": "Ancient Shrouded Cowl",
+      "url": "https://elderscrolls.fandom.com/wiki/Ancient_Shrouded_Cowl"
+    },
+    {
+      "name": "Ancient Shrouded Gloves",
+      "url": "https://elderscrolls.fandom.com/wiki/Ancient_Shrouded_Gloves"
+    },
+    {
+      "name": "Anniversary Edition",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_V:_Skyrim_Anniversary_Edition"
+    },
+    {
+      "name": "Apparel (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Apparel_\\(Skyrim\\"
+    },
+    {
+      "name": "Arcanist",
+      "url": "https://elderscrolls.fandom.com/wiki/Arcanist_\\(Class\\"
+    },
+    {
+      "name": "Arena (1994)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls:_Arena"
+    },
+    {
+      "name": "Argonian",
+      "url": "https://elderscrolls.fandom.com/wiki/Argonians_\\(Online\\"
+    },
+    {
+      "name": "Armor (Dawnguard)",
+      "url": "https://elderscrolls.fandom.com/wiki/Armor_\\(Dawnguard\\"
+    },
+    {
+      "name": "Armor (Dragonborn)",
+      "url": "https://elderscrolls.fandom.com/wiki/Armor_\\(Dragonborn\\"
+    },
+    {
+      "name": "Armor (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Armor_\\(Skyrim\\"
+    },
+    {
+      "name": "Armor Sets (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Armor_Sets_\\(Skyrim\\"
+    },
+    {
+      "name": "Armor of the Old Gods",
+      "url": "https://elderscrolls.fandom.com/wiki/Armor_of_the_Old_Gods"
+    },
+    {
+      "name": "Armor of the Old Gods (Armor Piece)",
+      "url": "https://elderscrolls.fandom.com/wiki/Armor_of_the_Old_Gods_\\(Armor_Piece\\"
+    },
+    {
+      "name": "Auriel's Shield (Dawnguard)",
+      "url": "https://elderscrolls.fandom.com/wiki/Auriel%27s_Shield_\\(Dawnguard\\"
+    },
+    {
+      "name": "Banded Iron Armor",
+      "url": "https://elderscrolls.fandom.com/wiki/Banded_Iron_Armor"
+    },
+    {
+      "name": "Banded Iron Shield",
+      "url": "https://elderscrolls.fandom.com/wiki/Banded_Iron_Shield"
+    },
+    {
+      "name": "Battlespire (1997)",
+      "url": "https://elderscrolls.fandom.com/wiki/An_Elder_Scrolls_Legend:_Battlespire"
+    },
+    {
+      "name": "Bismuth Steam Baths",
+      "url": "https://elderscrolls.fandom.com/wiki/Bismuth_Steam_Baths"
+    },
+    {
+      "name": "Blackguard's Armor",
+      "url": "https://elderscrolls.fandom.com/wiki/Blackguard%27s_Armor"
+    },
+    {
+      "name": "Blackguard's Armor (Armor Piece)",
+      "url": "https://elderscrolls.fandom.com/wiki/Blackguard%27s_Armor_\\(Armor_Piece\\"
+    },
+    {
+      "name": "Blackguard's Boots",
+      "url": "https://elderscrolls.fandom.com/wiki/Blackguard%27s_Boots"
+    },
+    {
+      "name": "Blackguard's Gloves",
+      "url": "https://elderscrolls.fandom.com/wiki/Blackguard%27s_Gloves"
+    },
+    {
+      "name": "Blackguard's Hood",
+      "url": "https://elderscrolls.fandom.com/wiki/Blackguard%27s_Hood"
+    },
+    {
+      "name": "Blackwood (2021)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Online:_Blackwood"
+    },
+    {
+      "name": "Blades (2019)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls:_Blades"
+    },
+    {
+      "name": "Blades Armor (Armor Piece)",
+      "url": "https://elderscrolls.fandom.com/wiki/Blades_Armor_\\(Armor_Piece\\"
+    },
+    {
+      "name": "Blades Armor (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Blades_Armor_\\(Skyrim\\"
+    },
+    {
+      "name": "Blades Boots (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Blades_Boots_\\(Skyrim\\"
+    },
+    {
+      "name": "Blades Gauntlets (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Blades_Gauntlets_\\(Skyrim\\"
+    },
+    {
+      "name": "Blades Helmet (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Blades_Helmet_\\(Skyrim\\"
+    },
+    {
+      "name": "Blades Shield (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Blades_Shield_\\(Skyrim\\"
+    },
+    {
+      "name": "Blocking policy",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Blocking_policy"
+    },
+    {
+      "name": "Blog policy",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Blog_policy"
+    },
+    {
+      "name": "Bloodmoon (2003)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_III:_Bloodmoon"
+    },
+    {
+      "name": "Bonemold Armor (Armor Piece)",
+      "url": "https://elderscrolls.fandom.com/wiki/Bonemold_Armor_\\(Armor_Piece\\"
+    },
+    {
+      "name": "Bonemold Armor (Dragonborn)",
+      "url": "https://elderscrolls.fandom.com/wiki/Bonemold_Armor_\\(Dragonborn\\"
+    },
+    {
+      "name": "Bonemold Boots (Dragonborn)",
+      "url": "https://elderscrolls.fandom.com/wiki/Bonemold_Boots_\\(Dragonborn\\"
+    },
+    {
+      "name": "Bonemold Gauntlets",
+      "url": "https://elderscrolls.fandom.com/wiki/Bonemold_Gauntlets"
+    },
+    {
+      "name": "Bonemold Guard Armor",
+      "url": "https://elderscrolls.fandom.com/wiki/Bonemold_Guard_Armor"
+    },
+    {
+      "name": "Bonemold Helmet",
+      "url": "https://elderscrolls.fandom.com/wiki/Bonemold_Helmet"
+    },
+    {
+      "name": "Bonemold Pauldron Armor",
+      "url": "https://elderscrolls.fandom.com/wiki/Bonemold_Pauldron_Armor"
+    },
+    {
+      "name": "Bonemold Shield (Dragonborn)",
+      "url": "https://elderscrolls.fandom.com/wiki/Bonemold_Shield_\\(Dragonborn\\"
+    },
+    {
+      "name": "Boots of the Old Gods",
+      "url": "https://elderscrolls.fandom.com/wiki/Boots_of_the_Old_Gods"
+    },
+    {
+      "name": "Bosmer",
+      "url": "https://elderscrolls.fandom.com/wiki/Bosmer_\\(Online\\"
+    },
+    {
+      "name": "Bots",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Bots"
+    },
+    {
+      "name": "Brawler's Daedric Gauntlets",
+      "url": "https://elderscrolls.fandom.com/wiki/Brawler%27s_Daedric_Gauntlets"
+    },
+    {
+      "name": "Breton",
+      "url": "https://elderscrolls.fandom.com/wiki/Bretons_\\(Online\\"
+    },
+    {
+      "name": "Castles (2024)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls:_Castles"
+    },
+    {
+      "name": "Champion's Tunic",
+      "url": "https://elderscrolls.fandom.com/wiki/Champion%27s_Tunic"
+    },
+    {
+      "name": "Chitin Armor (Armor Piece)",
+      "url": "https://elderscrolls.fandom.com/wiki/Chitin_Armor_\\(Armor_Piece\\"
+    },
+    {
+      "name": "Chitin Armor (Dragonborn)",
+      "url": "https://elderscrolls.fandom.com/wiki/Chitin_Armor_\\(Dragonborn\\"
+    },
+    {
+      "name": "Chitin Boots (Dragonborn)",
+      "url": "https://elderscrolls.fandom.com/wiki/Chitin_Boots_\\(Dragonborn\\"
+    },
+    {
+      "name": "Chitin Bracers",
+      "url": "https://elderscrolls.fandom.com/wiki/Chitin_Bracers"
+    },
+    {
+      "name": "Chitin Heavy Armor",
+      "url": "https://elderscrolls.fandom.com/wiki/Chitin_Heavy_Armor"
+    },
+    {
+      "name": "Chitin Heavy Armor (Armor Piece)",
+      "url": "https://elderscrolls.fandom.com/wiki/Chitin_Heavy_Armor_\\(Armor_Piece\\"
+    },
+    {
+      "name": "Chitin Heavy Boots",
+      "url": "https://elderscrolls.fandom.com/wiki/Chitin_Heavy_Boots"
+    },
+    {
+      "name": "Chitin Heavy Gauntlets",
+      "url": "https://elderscrolls.fandom.com/wiki/Chitin_Heavy_Gauntlets"
+    },
+    {
+      "name": "Chitin Heavy Helmet",
+      "url": "https://elderscrolls.fandom.com/wiki/Chitin_Heavy_Helmet"
+    },
+    {
+      "name": "Chitin Helmet (Dragonborn)",
+      "url": "https://elderscrolls.fandom.com/wiki/Chitin_Helmet_\\(Dragonborn\\"
+    },
+    {
+      "name": "Chitin Shield (Dragonborn)",
+      "url": "https://elderscrolls.fandom.com/wiki/Chitin_Shield_\\(Dragonborn\\"
+    },
+    {
+      "name": "Classes",
+      "url": "https://elderscrolls.fandom.com/wiki/Classes_\\(Online\\"
+    },
+    {
+      "name": "CompUSA Expansion (1996)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_II:_Daggerfall_CompUSA_Expansion"
+    },
+    {
+      "name": "Comprehensive Articles",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Comprehensive_Articles"
+    },
+    {
+      "name": "Consensus policy",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Consensus"
+    },
+    {
+      "name": "Console Commands",
+      "url": "https://elderscrolls.fandom.com/wiki/Console_Commands_\\(Skyrim\\"
+    },
+    {
+      "name": "Controls",
+      "url": "https://elderscrolls.fandom.com/wiki/Controls_\\(Skyrim\\"
+    },
+    {
+      "name": "Crafting",
+      "url": "https://elderscrolls.fandom.com/wiki/Crafting_\\(Online\\"
+    },
+    {
+      "name": "Creation Club",
+      "url": "https://elderscrolls.fandom.com/wiki/Creation_Club"
+    },
+    {
+      "name": "Crown Store",
+      "url": "https://elderscrolls.fandom.com/wiki/Crown_Store"
+    },
+    {
+      "name": "Cultist Gloves",
+      "url": "https://elderscrolls.fandom.com/wiki/Cultist_Gloves"
+    },
+    {
+      "name": "Cultist Mask",
+      "url": "https://elderscrolls.fandom.com/wiki/Cultist_Mask"
+    },
+    {
+      "name": "Daedric Armor (Armor Piece)",
+      "url": "https://elderscrolls.fandom.com/wiki/Daedric_Armor_\\(Armor_Piece\\"
+    },
+    {
+      "name": "Daedric Armor (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Daedric_Armor_\\(Skyrim\\"
+    },
+    {
+      "name": "Daedric Artifacts",
+      "url": "https://elderscrolls.fandom.com/wiki/Daedric_Artifacts_\\(Skyrim\\"
+    },
+    {
+      "name": "Daedric Boots (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Daedric_Boots_\\(Skyrim\\"
+    },
+    {
+      "name": "Daedric Gauntlets (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Daedric_Gauntlets_\\(Skyrim\\"
+    },
+    {
+      "name": "Daedric Helmet (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Daedric_Helmet_\\(Skyrim\\"
+    },
+    {
+      "name": "Daedric Quests",
+      "url": "https://elderscrolls.fandom.com/wiki/Daedric_Quests_\\(Skyrim\\"
+    },
+    {
+      "name": "Daedric Shield (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Daedric_Shield_\\(Skyrim\\"
+    },
+    {
+      "name": "Daedric Shrines",
+      "url": "https://elderscrolls.fandom.com/wiki/Daedric_Shrines_\\(Skyrim\\"
+    },
+    {
+      "name": "Daggerfall (1996)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_II:_Daggerfall"
+    },
+    {
+      "name": "Daggerfall Covenant",
+      "url": "https://elderscrolls.fandom.com/wiki/Daggerfall_Covenant_Quests"
+    },
+    {
+      "name": "Dark Brotherhood",
+      "url": "https://elderscrolls.fandom.com/wiki/Dark_Brotherhood_\\(Skyrim\\"
+    },
+    {
+      "name": "Dawnguard (2012)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_V:_Dawnguard"
+    },
+    {
+      "name": "Dawnguard Armor",
+      "url": "https://elderscrolls.fandom.com/wiki/Dawnguard_Armor"
+    },
+    {
+      "name": "Dawnguard Armor (Armor Piece)",
+      "url": "https://elderscrolls.fandom.com/wiki/Dawnguard_Armor_\\(Armor_Piece\\"
+    },
+    {
+      "name": "Dawnguard Boots",
+      "url": "https://elderscrolls.fandom.com/wiki/Dawnguard_Boots"
+    },
+    {
+      "name": "Dawnguard Full Helmet",
+      "url": "https://elderscrolls.fandom.com/wiki/Dawnguard_Full_Helmet"
+    },
+    {
+      "name": "Dawnguard Gauntlets",
+      "url": "https://elderscrolls.fandom.com/wiki/Dawnguard_Gauntlets"
+    },
+    {
+      "name": "Dawnguard Heavy Armor",
+      "url": "https://elderscrolls.fandom.com/wiki/Dawnguard_Heavy_Armor"
+    },
+    {
+      "name": "Dawnguard Heavy Armor (Armor Piece)",
+      "url": "https://elderscrolls.fandom.com/wiki/Dawnguard_Heavy_Armor_\\(Armor_Piece\\"
+    },
+    {
+      "name": "Dawnguard Heavy Boots",
+      "url": "https://elderscrolls.fandom.com/wiki/Dawnguard_Heavy_Boots"
+    },
+    {
+      "name": "Dawnguard Heavy Gauntlets",
+      "url": "https://elderscrolls.fandom.com/wiki/Dawnguard_Heavy_Gauntlets"
+    },
+    {
+      "name": "Dawnguard Helmet",
+      "url": "https://elderscrolls.fandom.com/wiki/Dawnguard_Helmet"
+    },
+    {
+      "name": "Dawnguard Rune Shield",
+      "url": "https://elderscrolls.fandom.com/wiki/Dawnguard_Rune_Shield"
+    },
+    {
+      "name": "Dawnguard Shield",
+      "url": "https://elderscrolls.fandom.com/wiki/Dawnguard_Shield"
+    },
+    {
+      "name": "Dawnstar (2004)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Travels:_Dawnstar"
+    },
+    {
+      "name": "Deathbrand Armor",
+      "url": "https://elderscrolls.fandom.com/wiki/Deathbrand_Armor"
+    },
+    {
+      "name": "Deathbrand Armor (Armor Piece)",
+      "url": "https://elderscrolls.fandom.com/wiki/Deathbrand_Armor_\\(Armor_Piece\\"
+    },
+    {
+      "name": "Deathbrand Boots",
+      "url": "https://elderscrolls.fandom.com/wiki/Deathbrand_Boots"
+    },
+    {
+      "name": "Deathbrand Gauntlets",
+      "url": "https://elderscrolls.fandom.com/wiki/Deathbrand_Gauntlets"
+    },
+    {
+      "name": "Deathbrand Helm",
+      "url": "https://elderscrolls.fandom.com/wiki/Deathbrand_Helm"
+    },
+    {
+      "name": "Dented Iron Shield",
+      "url": "https://elderscrolls.fandom.com/wiki/Dented_Iron_Shield"
+    },
+    {
+      "name": "Diadem of the Savant",
+      "url": "https://elderscrolls.fandom.com/wiki/Diadem_of_the_Savant"
+    },
+    {
+      "name": "Discord Moderators",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Discord_Moderators"
+    },
+    {
+      "name": "Discord policy",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Discord"
+    },
+    {
+      "name": "Doomchar Plateau",
+      "url": "https://elderscrolls.fandom.com/wiki/Doomchar_Plateau"
+    },
+    {
+      "name": "Dovahcore Helmet",
+      "url": "https://elderscrolls.fandom.com/wiki/Dovahcore_Helmet"
+    },
+    {
+      "name": "Dragon Priest Masks (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Dragon_Priest_Masks_\\(Skyrim\\"
+    },
+    {
+      "name": "Dragon Shouts",
+      "url": "https://elderscrolls.fandom.com/wiki/Dragon_Shouts"
+    },
+    {
+      "name": "Dragonborn (2012)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_V:_Dragonborn"
+    },
+    {
+      "name": "Dragonknight",
+      "url": "https://elderscrolls.fandom.com/wiki/Dragonknight"
+    },
+    {
+      "name": "Dragonplate Armor (Armor Piece)",
+      "url": "https://elderscrolls.fandom.com/wiki/Dragonplate_Armor_\\(Armor_Piece\\"
+    },
+    {
+      "name": "Dragonplate Armor (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Dragonplate_Armor_\\(Skyrim\\"
+    },
+    {
+      "name": "Dragonplate Boots (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Dragonplate_Boots_\\(Skyrim\\"
+    },
+    {
+      "name": "Dragonplate Gauntlets (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Dragonplate_Gauntlets_\\(Skyrim\\"
+    },
+    {
+      "name": "Dragonplate Helmet (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Dragonplate_Helmet_\\(Skyrim\\"
+    },
+    {
+      "name": "Dragonplate Shield (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Dragonplate_Shield_\\(Skyrim\\"
+    },
+    {
+      "name": "Dragons",
+      "url": "https://elderscrolls.fandom.com/wiki/Dragons_\\(Skyrim\\"
+    },
+    {
+      "name": "Dragonscale Armor (Skyrim Armor Piece)",
+      "url": "https://elderscrolls.fandom.com/wiki/Dragonscale_Armor_\\(Skyrim_Armor_Piece\\"
+    },
+    {
+      "name": "Dragonscale Armor (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Dragonscale_Armor_\\(Skyrim\\"
+    },
+    {
+      "name": "Dragonscale Boots (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Dragonscale_Boots_\\(Skyrim\\"
+    },
+    {
+      "name": "Dragonscale Gauntlets (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Dragonscale_Gauntlets_\\(Skyrim\\"
+    },
+    {
+      "name": "Dragonscale Helmet (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Dragonscale_Helmet_\\(Skyrim\\"
+    },
+    {
+      "name": "Dragonscale Shield (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Dragonscale_Shield_\\(Skyrim\\"
+    },
+    {
+      "name": "Dukaan (Mask)",
+      "url": "https://elderscrolls.fandom.com/wiki/Dukaan_\\(Mask\\"
+    },
+    {
+      "name": "Dunmer",
+      "url": "https://elderscrolls.fandom.com/wiki/Dunmer_\\(Online\\"
+    },
+    {
+      "name": "Dwarven Armor (Armor Piece)",
+      "url": "https://elderscrolls.fandom.com/wiki/Dwarven_Armor_\\(Armor_Piece\\"
+    },
+    {
+      "name": "Dwarven Armor (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Dwarven_Armor_\\(Skyrim\\"
+    },
+    {
+      "name": "Dwarven Boots (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Dwarven_Boots_\\(Skyrim\\"
+    },
+    {
+      "name": "Dwarven Gauntlets (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Dwarven_Gauntlets_\\(Skyrim\\"
+    },
+    {
+      "name": "Dwarven Helmet (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Dwarven_Helmet_\\(Skyrim\\"
+    },
+    {
+      "name": "Dwarven Shield (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Dwarven_Shield_\\(Skyrim\\"
+    },
+    {
+      "name": "ESO Plus",
+      "url": "https://elderscrolls.fandom.com/wiki/ESO_Plus"
+    },
+    {
+      "name": "Easter Eggs",
+      "url": "https://elderscrolls.fandom.com/wiki/Easter_Eggs_\\(Skyrim\\"
+    },
+    {
+      "name": "Ebonheart Pact",
+      "url": "https://elderscrolls.fandom.com/wiki/Ebonheart_Pact_Quests"
+    },
+    {
+      "name": "Ebony Armor (Armor Piece)",
+      "url": "https://elderscrolls.fandom.com/wiki/Ebony_Armor_\\(Armor_Piece\\"
+    },
+    {
+      "name": "Ebony Armor (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Ebony_Armor_\\(Skyrim\\"
+    },
+    {
+      "name": "Ebony Boots (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Ebony_Boots_\\(Skyrim\\"
+    },
+    {
+      "name": "Ebony Gauntlets (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Ebony_Gauntlets_\\(Skyrim\\"
+    },
+    {
+      "name": "Ebony Helmet (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Ebony_Helmet_\\(Skyrim\\"
+    },
+    {
+      "name": "Ebony Mail (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Ebony_Mail_\\(Skyrim\\"
+    },
+    {
+      "name": "Ebony Shield (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Ebony_Shield_\\(Skyrim\\"
+    },
+    {
+      "name": "Elsweyr (2019)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Online:_Elsweyr"
+    },
+    {
+      "name": "Elven Armor (Armor Piece)",
+      "url": "https://elderscrolls.fandom.com/wiki/Elven_Armor_\\(Armor_Piece\\"
+    },
+    {
+      "name": "Elven Armor (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Elven_Armor_\\(Skyrim\\"
+    },
+    {
+      "name": "Elven Boots (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Elven_Boots_\\(Skyrim\\"
+    },
+    {
+      "name": "Elven Gauntlets (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Elven_Gauntlets_\\(Skyrim\\"
+    },
+    {
+      "name": "Elven Gilded Armor",
+      "url": "https://elderscrolls.fandom.com/wiki/Elven_Gilded_Armor"
+    },
+    {
+      "name": "Elven Helmet (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Elven_Helmet_\\(Skyrim\\"
+    },
+    {
+      "name": "Elven Light Armor",
+      "url": "https://elderscrolls.fandom.com/wiki/Elven_Light_Armor"
+    },
+    {
+      "name": "Elven Light Boots",
+      "url": "https://elderscrolls.fandom.com/wiki/Elven_Light_Boots"
+    },
+    {
+      "name": "Elven Light Gauntlets",
+      "url": "https://elderscrolls.fandom.com/wiki/Elven_Light_Gauntlets"
+    },
+    {
+      "name": "Elven Light Helmet",
+      "url": "https://elderscrolls.fandom.com/wiki/Elven_Light_Helmet"
+    },
+    {
+      "name": "Elven Shield (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Elven_Shield_\\(Skyrim\\"
+    },
+    {
+      "name": "Enchanted Armor (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Enchanted_Armor_\\(Skyrim\\"
+    },
+    {
+      "name": "Enchanting",
+      "url": "https://elderscrolls.fandom.com/wiki/Enchanting_\\(Skyrim\\"
+    },
+    {
+      "name": "Factions",
+      "url": "https://elderscrolls.fandom.com/wiki/Factions_\\(Skyrim\\"
+    },
+    {
+      "name": "Falkreath Guard's Armor",
+      "url": "https://elderscrolls.fandom.com/wiki/Falkreath_Guard%27s_Armor"
+    },
+    {
+      "name": "Falkreath Guard's Helmet",
+      "url": "https://elderscrolls.fandom.com/wiki/Falkreath_Guard%27s_Helmet"
+    },
+    {
+      "name": "Falkreath Guard's Shield",
+      "url": "https://elderscrolls.fandom.com/wiki/Falkreath_Guard%27s_Shield"
+    },
+    {
+      "name": "Falmer Armor",
+      "url": "https://elderscrolls.fandom.com/wiki/Falmer_Armor"
+    },
+    {
+      "name": "Falmer Armor (Armor Piece)",
+      "url": "https://elderscrolls.fandom.com/wiki/Falmer_Armor_\\(Armor_Piece\\"
+    },
+    {
+      "name": "Falmer Boots",
+      "url": "https://elderscrolls.fandom.com/wiki/Falmer_Boots"
+    },
+    {
+      "name": "Falmer Gauntlets",
+      "url": "https://elderscrolls.fandom.com/wiki/Falmer_Gauntlets"
+    },
+    {
+      "name": "Falmer Hardened Armor",
+      "url": "https://elderscrolls.fandom.com/wiki/Falmer_Hardened_Armor"
+    },
+    {
+      "name": "Falmer Hardened Armor (Armor Piece)",
+      "url": "https://elderscrolls.fandom.com/wiki/Falmer_Hardened_Armor_\\(Armor_Piece\\"
+    },
+    {
+      "name": "Falmer Hardened Boots",
+      "url": "https://elderscrolls.fandom.com/wiki/Falmer_Hardened_Boots"
+    },
+    {
+      "name": "Falmer Hardened Gauntlets",
+      "url": "https://elderscrolls.fandom.com/wiki/Falmer_Hardened_Gauntlets"
+    },
+    {
+      "name": "Falmer Hardened Helm",
+      "url": "https://elderscrolls.fandom.com/wiki/Falmer_Hardened_Helm"
+    },
+    {
+      "name": "Falmer Heavy Armor",
+      "url": "https://elderscrolls.fandom.com/wiki/Falmer_Heavy_Armor"
+    },
+    {
+      "name": "Falmer Heavy Armor (Armor Piece)",
+      "url": "https://elderscrolls.fandom.com/wiki/Falmer_Heavy_Armor_\\(Armor_Piece\\"
+    },
+    {
+      "name": "Falmer Heavy Boots",
+      "url": "https://elderscrolls.fandom.com/wiki/Falmer_Heavy_Boots"
+    },
+    {
+      "name": "Falmer Heavy Gauntlets",
+      "url": "https://elderscrolls.fandom.com/wiki/Falmer_Heavy_Gauntlets"
+    },
+    {
+      "name": "Falmer Heavy Helm",
+      "url": "https://elderscrolls.fandom.com/wiki/Falmer_Heavy_Helm"
+    },
+    {
+      "name": "Falmer Helmet",
+      "url": "https://elderscrolls.fandom.com/wiki/Falmer_Helmet"
+    },
+    {
+      "name": "Falmer Shield",
+      "url": "https://elderscrolls.fandom.com/wiki/Falmer_Shield"
+    },
+    {
+      "name": "Falx Boots",
+      "url": "https://elderscrolls.fandom.com/wiki/Falx_Boots"
+    },
+    {
+      "name": "Falx Gauntlets",
+      "url": "https://elderscrolls.fandom.com/wiki/Falx_Gauntlets"
+    },
+    {
+      "name": "Falx Helmet",
+      "url": "https://elderscrolls.fandom.com/wiki/Falx_Helmet"
+    },
+    {
+      "name": "Featured Articles",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Featured_Articles"
+    },
+    {
+      "name": "Fine Armguards",
+      "url": "https://elderscrolls.fandom.com/wiki/Fine_Armguards"
+    },
+    {
+      "name": "Finesse",
+      "url": "https://elderscrolls.fandom.com/wiki/Finesse"
+    },
+    {
+      "name": "Followers",
+      "url": "https://elderscrolls.fandom.com/wiki/Followers_\\(Skyrim\\"
+    },
+    {
+      "name": "Forsworn Armor",
+      "url": "https://elderscrolls.fandom.com/wiki/Forsworn_Armor"
+    },
+    {
+      "name": "Forsworn Armor (Armor Piece)",
+      "url": "https://elderscrolls.fandom.com/wiki/Forsworn_Armor_\\(Armor_Piece\\"
+    },
+    {
+      "name": "Forsworn Boots",
+      "url": "https://elderscrolls.fandom.com/wiki/Forsworn_Boots"
+    },
+    {
+      "name": "Forsworn Gauntlets",
+      "url": "https://elderscrolls.fandom.com/wiki/Forsworn_Gauntlets"
+    },
+    {
+      "name": "Forsworn Headdress",
+      "url": "https://elderscrolls.fandom.com/wiki/Forsworn_Headdress"
+    },
+    {
+      "name": "Forum Moderators",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Moderators"
+    },
+    {
+      "name": "Forum/Discussions policy",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Discussions"
+    },
+    {
+      "name": "Fur Armor (Armor Piece)",
+      "url": "https://elderscrolls.fandom.com/wiki/Fur_Armor_\\(Armor_Piece\\"
+    },
+    {
+      "name": "Fur Armor (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Fur_Armor_\\(Skyrim\\"
+    },
+    {
+      "name": "Fur Boots (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Fur_Boots_\\(Skyrim\\"
+    },
+    {
+      "name": "Fur Bracers",
+      "url": "https://elderscrolls.fandom.com/wiki/Fur_Bracers"
+    },
+    {
+      "name": "Fur Gauntlets (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Fur_Gauntlets_\\(Skyrim\\"
+    },
+    {
+      "name": "Fur Helmet (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Fur_Helmet_\\(Skyrim\\"
+    },
+    {
+      "name": "Fur Shoes",
+      "url": "https://elderscrolls.fandom.com/wiki/Fur_Shoes"
+    },
+    {
+      "name": "Games",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls"
+    },
+    {
+      "name": "Gauntlets of the Old Gods",
+      "url": "https://elderscrolls.fandom.com/wiki/Gauntlets_of_the_Old_Gods"
+    },
+    {
+      "name": "General Carius' Armor",
+      "url": "https://elderscrolls.fandom.com/wiki/General_Carius%27_Armor"
+    },
+    {
+      "name": "General Tullius' Armor",
+      "url": "https://elderscrolls.fandom.com/wiki/General_Tullius%27_Armor"
+    },
+    {
+      "name": "Gilded Wristguards",
+      "url": "https://elderscrolls.fandom.com/wiki/Gilded_Wristguards"
+    },
+    {
+      "name": "Glass Armor (Armor Piece)",
+      "url": "https://elderscrolls.fandom.com/wiki/Glass_Armor_\\(Armor_Piece\\"
+    },
+    {
+      "name": "Glass Armor (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Glass_Armor_\\(Skyrim\\"
+    },
+    {
+      "name": "Glass Boots (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Glass_Boots_\\(Skyrim\\"
+    },
+    {
+      "name": "Glass Gauntlets (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Glass_Gauntlets_\\(Skyrim\\"
+    },
+    {
+      "name": "Glass Helmet (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Glass_Helmet_\\(Skyrim\\"
+    },
+    {
+      "name": "Glass Shield (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Glass_Shield_\\(Skyrim\\"
+    },
+    {
+      "name": "Gloves of the Pugilist (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Gloves_of_the_Pugilist_\\(Skyrim\\"
+    },
+    {
+      "name": "Gold Road (2024)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Online:_Gold_Road"
+    },
+    {
+      "name": "Good Articles",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Good_Articles"
+    },
+    {
+      "name": "Greymoor (2020)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Online:_Greymoor"
+    },
+    {
+      "name": "Guild Master's Armor",
+      "url": "https://elderscrolls.fandom.com/wiki/Guild_Master%27s_Armor"
+    },
+    {
+      "name": "Guild Master's Armor Set",
+      "url": "https://elderscrolls.fandom.com/wiki/Guild_Master%27s_Armor_Set"
+    },
+    {
+      "name": "Guild Master's Boots",
+      "url": "https://elderscrolls.fandom.com/wiki/Guild_Master%27s_Boots"
+    },
+    {
+      "name": "Guild Master's Gloves",
+      "url": "https://elderscrolls.fandom.com/wiki/Guild_Master%27s_Gloves"
+    },
+    {
+      "name": "Guild Master's Hood",
+      "url": "https://elderscrolls.fandom.com/wiki/Guild_Master%27s_Hood"
+    },
+    {
+      "name": "Hearthfire (2012)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_V:_Hearthfire"
+    },
+    {
+      "name": "Helm of Winterhold",
+      "url": "https://elderscrolls.fandom.com/wiki/Helm_of_Winterhold"
+    },
+    {
+      "name": "Helm of Yngol",
+      "url": "https://elderscrolls.fandom.com/wiki/Helm_of_Yngol"
+    },
+    {
+      "name": "Helmet of the Old Gods",
+      "url": "https://elderscrolls.fandom.com/wiki/Helmet_of_the_Old_Gods"
+    },
+    {
+      "name": "Herebane's Fortress",
+      "url": "https://elderscrolls.fandom.com/wiki/Herebane%27s_Fortress"
+    },
+    {
+      "name": "Hevnoraak (Mask)",
+      "url": "https://elderscrolls.fandom.com/wiki/Hevnoraak_\\(Mask\\"
+    },
+    {
+      "name": "Hide Armor (Armor Piece)",
+      "url": "https://elderscrolls.fandom.com/wiki/Hide_Armor_\\(Armor_Piece\\"
+    },
+    {
+      "name": "Hide Armor (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Hide_Armor_\\(Skyrim\\"
+    },
+    {
+      "name": "Hide Boots",
+      "url": "https://elderscrolls.fandom.com/wiki/Hide_Boots"
+    },
+    {
+      "name": "Hide Bracers",
+      "url": "https://elderscrolls.fandom.com/wiki/Hide_Bracers"
+    },
+    {
+      "name": "Hide Helmet",
+      "url": "https://elderscrolls.fandom.com/wiki/Hide_Helmet"
+    },
+    {
+      "name": "Hide Shield",
+      "url": "https://elderscrolls.fandom.com/wiki/Hide_Shield"
+    },
+    {
+      "name": "High Isle (2022)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Online:_High_Isle"
+    },
+    {
+      "name": "Hjaalmarch Guard's Armor",
+      "url": "https://elderscrolls.fandom.com/wiki/Hjaalmarch_Guard%27s_Armor"
+    },
+    {
+      "name": "Hjaalmarch Guard's Helmet",
+      "url": "https://elderscrolls.fandom.com/wiki/Hjaalmarch_Guard%27s_Helmet"
+    },
+    {
+      "name": "Hjaalmarch Guard's Shield",
+      "url": "https://elderscrolls.fandom.com/wiki/Hjaalmarch_Guard%27s_Shield"
+    },
+    {
+      "name": "Hold Guard Armor",
+      "url": "https://elderscrolls.fandom.com/wiki/Hold_Guard_Armor"
+    },
+    {
+      "name": "Hold Guard Helmets",
+      "url": "https://elderscrolls.fandom.com/wiki/Hold_Guard_Helmets"
+    },
+    {
+      "name": "Hold Guard Shields",
+      "url": "https://elderscrolls.fandom.com/wiki/Hold_Guard_Shields"
+    },
+    {
+      "name": "Holds",
+      "url": "https://elderscrolls.fandom.com/wiki/Holds"
+    },
+    {
+      "name": "Hrolfdir's Shield",
+      "url": "https://elderscrolls.fandom.com/wiki/Hrolfdir%27s_Shield"
+    },
+    {
+      "name": "Hylian Shield",
+      "url": "https://elderscrolls.fandom.com/wiki/Hylian_Shield"
+    },
+    {
+      "name": "Imperial",
+      "url": "https://elderscrolls.fandom.com/wiki/Imperials_\\(Online\\"
+    },
+    {
+      "name": "Imperial Armor (Armor Piece)",
+      "url": "https://elderscrolls.fandom.com/wiki/Imperial_Armor_\\(Armor_Piece\\"
+    },
+    {
+      "name": "Imperial Armor (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Imperial_Armor_\\(Skyrim\\"
+    },
+    {
+      "name": "Imperial Boots",
+      "url": "https://elderscrolls.fandom.com/wiki/Imperial_Boots"
+    },
+    {
+      "name": "Imperial Bracers",
+      "url": "https://elderscrolls.fandom.com/wiki/Imperial_Bracers"
+    },
+    {
+      "name": "Imperial Helmet",
+      "url": "https://elderscrolls.fandom.com/wiki/Imperial_Helmet"
+    },
+    {
+      "name": "Imperial Helmet (Closed)",
+      "url": "https://elderscrolls.fandom.com/wiki/Imperial_Helmet_\\(Closed\\"
+    },
+    {
+      "name": "Imperial Light Armor",
+      "url": "https://elderscrolls.fandom.com/wiki/Imperial_Light_Armor"
+    },
+    {
+      "name": "Imperial Light Armor (Armor Piece)",
+      "url": "https://elderscrolls.fandom.com/wiki/Imperial_Light_Armor_\\(Armor_Piece\\"
+    },
+    {
+      "name": "Imperial Light Boots",
+      "url": "https://elderscrolls.fandom.com/wiki/Imperial_Light_Boots"
+    },
+    {
+      "name": "Imperial Light Bracers",
+      "url": "https://elderscrolls.fandom.com/wiki/Imperial_Light_Bracers"
+    },
+    {
+      "name": "Imperial Light Helmet",
+      "url": "https://elderscrolls.fandom.com/wiki/Imperial_Light_Helmet"
+    },
+    {
+      "name": "Imperial Light Shield",
+      "url": "https://elderscrolls.fandom.com/wiki/Imperial_Light_Shield"
+    },
+    {
+      "name": "Imperial Officer's Helmet",
+      "url": "https://elderscrolls.fandom.com/wiki/Imperial_Officer%27s_Helmet"
+    },
+    {
+      "name": "Imperial Shield (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Imperial_Shield_\\(Skyrim\\"
+    },
+    {
+      "name": "Improved Bonemold Armor",
+      "url": "https://elderscrolls.fandom.com/wiki/Improved_Bonemold_Armor"
+    },
+    {
+      "name": "Improved Bonemold Armor (Armor Piece)",
+      "url": "https://elderscrolls.fandom.com/wiki/Improved_Bonemold_Armor_\\(Armor_Piece\\"
+    },
+    {
+      "name": "Improved Bonemold Armor (Armor Set)",
+      "url": "https://elderscrolls.fandom.com/wiki/Improved_Bonemold_Armor_\\(Armor_Set\\"
+    },
+    {
+      "name": "Improved Bonemold Boots",
+      "url": "https://elderscrolls.fandom.com/wiki/Improved_Bonemold_Boots"
+    },
+    {
+      "name": "Improved Bonemold Gauntlets",
+      "url": "https://elderscrolls.fandom.com/wiki/Improved_Bonemold_Gauntlets"
+    },
+    {
+      "name": "Improved Bonemold Helmet",
+      "url": "https://elderscrolls.fandom.com/wiki/Improved_Bonemold_Helmet"
+    },
+    {
+      "name": "Improved Bonemold Shield",
+      "url": "https://elderscrolls.fandom.com/wiki/Improved_Bonemold_Shield"
+    },
+    {
+      "name": "Iron Armor (Armor Piece)",
+      "url": "https://elderscrolls.fandom.com/wiki/Iron_Armor_\\(Armor_Piece\\"
+    },
+    {
+      "name": "Iron Armor (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Iron_Armor_\\(Skyrim\\"
+    },
+    {
+      "name": "Iron Boots (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Iron_Boots_\\(Skyrim\\"
+    },
+    {
+      "name": "Iron Gauntlets (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Iron_Gauntlets_\\(Skyrim\\"
+    },
+    {
+      "name": "Iron Helmet (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Iron_Helmet_\\(Skyrim\\"
+    },
+    {
+      "name": "Iron Shield (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Iron_Shield_\\(Skyrim\\"
+    },
+    {
+      "name": "Ironhand Gauntlets",
+      "url": "https://elderscrolls.fandom.com/wiki/Ironhand_Gauntlets"
+    },
+    {
+      "name": "Item Enchantment Types",
+      "url": "https://elderscrolls.fandom.com/wiki/Enchantment_Modifiers"
+    },
+    {
+      "name": "Khajiit",
+      "url": "https://elderscrolls.fandom.com/wiki/Khajiit_\\(Online\\"
+    },
+    {
+      "name": "Knights of the Nine (2006)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_IV:_Knights_of_the_Nine"
+    },
+    {
+      "name": "Konahrik (Mask)",
+      "url": "https://elderscrolls.fandom.com/wiki/Konahrik_\\(Mask\\"
+    },
+    {
+      "name": "Krosis (Mask)",
+      "url": "https://elderscrolls.fandom.com/wiki/Krosis_\\(Mask\\"
+    },
+    {
+      "name": "Leather Armor (Armor Piece)",
+      "url": "https://elderscrolls.fandom.com/wiki/Leather_Armor_\\(Armor_Piece\\"
+    },
+    {
+      "name": "Leather Armor (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Leather_Armor_\\(Skyrim\\"
+    },
+    {
+      "name": "Leather Boots (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Leather_Boots_\\(Skyrim\\"
+    },
+    {
+      "name": "Leather Bracers (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Leather_Bracers_\\(Skyrim\\"
+    },
+    {
+      "name": "Leather Helmet (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Leather_Helmet_\\(Skyrim\\"
+    },
+    {
+      "name": "Legends (2016)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls:_Legends"
+    },
+    {
+      "name": "Linwe's Armor",
+      "url": "https://elderscrolls.fandom.com/wiki/Linwe%27s_Armor"
+    },
+    {
+      "name": "Linwe's Armor Set",
+      "url": "https://elderscrolls.fandom.com/wiki/Linwe%27s_Armor_Set"
+    },
+    {
+      "name": "Linwe's Boots",
+      "url": "https://elderscrolls.fandom.com/wiki/Linwe%27s_Boots"
+    },
+    {
+      "name": "Linwe's Gloves",
+      "url": "https://elderscrolls.fandom.com/wiki/Linwe%27s_Gloves"
+    },
+    {
+      "name": "Linwe's Hood",
+      "url": "https://elderscrolls.fandom.com/wiki/Linwe%27s_Hood"
+    },
+    {
+      "name": "Local Sitemap",
+      "url": "https://elderscrolls.fandom.com/wiki/Local_Sitemap"
+    },
+    {
+      "name": "Locket of Saint Jiub",
+      "url": "https://elderscrolls.fandom.com/wiki/Locket_of_Saint_Jiub"
+    },
+    {
+      "name": "Lycanthropy",
+      "url": "https://elderscrolls.fandom.com/wiki/Lycanthropy_\\(Skyrim\\"
+    },
+    {
+      "name": "Main Quest",
+      "url": "https://elderscrolls.fandom.com/wiki/Main_Quest_\\(Online\\"
+    },
+    {
+      "name": "Map",
+      "url": "https://elderscrolls.fandom.com/wiki/Map_\\(Skyrim\\"
+    },
+    {
+      "name": "Markarth Guard's Armor",
+      "url": "https://elderscrolls.fandom.com/wiki/Markarth_Guard%27s_Armor"
+    },
+    {
+      "name": "Markarth Guard's Helmet",
+      "url": "https://elderscrolls.fandom.com/wiki/Markarth_Guard%27s_Helmet"
+    },
+    {
+      "name": "Markarth Guard's Shield",
+      "url": "https://elderscrolls.fandom.com/wiki/Markarth_Guard%27s_Shield"
+    },
+    {
+      "name": "Marriage",
+      "url": "https://elderscrolls.fandom.com/wiki/Marriage"
+    },
+    {
+      "name": "Masque of Clavicus Vile (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Masque_of_Clavicus_Vile_\\(Skyrim\\"
+    },
+    {
+      "name": "Media policy",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Media"
+    },
+    {
+      "name": "Member of the Month",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Member_of_the_Month"
+    },
+    {
+      "name": "Miraak (Mask)",
+      "url": "https://elderscrolls.fandom.com/wiki/Miraak_\\(Mask\\"
+    },
+    {
+      "name": "Miraak's Boots",
+      "url": "https://elderscrolls.fandom.com/wiki/Miraak%27s_Boots"
+    },
+    {
+      "name": "Miraak's Gloves",
+      "url": "https://elderscrolls.fandom.com/wiki/Miraak%27s_Gloves"
+    },
+    {
+      "name": "Moot",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Moot"
+    },
+    {
+      "name": "Morag Tong Armor (Armor Piece)",
+      "url": "https://elderscrolls.fandom.com/wiki/Morag_Tong_Armor_\\(Armor_Piece\\"
+    },
+    {
+      "name": "Morag Tong Armor (Dragonborn)",
+      "url": "https://elderscrolls.fandom.com/wiki/Morag_Tong_Armor_\\(Dragonborn\\"
+    },
+    {
+      "name": "Morag Tong Boots",
+      "url": "https://elderscrolls.fandom.com/wiki/Morag_Tong_Boots"
+    },
+    {
+      "name": "Morag Tong Bracers",
+      "url": "https://elderscrolls.fandom.com/wiki/Morag_Tong_Bracers"
+    },
+    {
+      "name": "Morag Tong Hood",
+      "url": "https://elderscrolls.fandom.com/wiki/Morag_Tong_Hood"
+    },
+    {
+      "name": "More Quests",
+      "url": "https://elderscrolls.fandom.com/wiki/Quests_\\(Skyrim\\"
+    },
+    {
+      "name": "Morokei (Mask)",
+      "url": "https://elderscrolls.fandom.com/wiki/Morokei_\\(Mask\\"
+    },
+    {
+      "name": "Morrowind (2002)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_III:_Morrowind"
+    },
+    {
+      "name": "Movarth's Boots",
+      "url": "https://elderscrolls.fandom.com/wiki/Movarth%27s_Boots"
+    },
+    {
+      "name": "Nahkriin (Mask)",
+      "url": "https://elderscrolls.fandom.com/wiki/Nahkriin_\\(Mask\\"
+    },
+    {
+      "name": "Necrom (2023)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Online:_Necrom"
+    },
+    {
+      "name": "Necromancer",
+      "url": "https://elderscrolls.fandom.com/wiki/Necromancer_\\(Online\\"
+    },
+    {
+      "name": "Neutral point of view",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Neutral_point_of_view"
+    },
+    {
+      "name": "News Team",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:News_Team"
+    },
+    {
+      "name": "Nightblade",
+      "url": "https://elderscrolls.fandom.com/wiki/Nightblade_\\(Online\\"
+    },
+    {
+      "name": "Nightingale Armor",
+      "url": "https://elderscrolls.fandom.com/wiki/Nightingale_Armor"
+    },
+    {
+      "name": "Nightingale Armor (Armor Piece)",
+      "url": "https://elderscrolls.fandom.com/wiki/Nightingale_Armor_\\(Armor_Piece\\"
+    },
+    {
+      "name": "Nightingale Boots",
+      "url": "https://elderscrolls.fandom.com/wiki/Nightingale_Boots"
+    },
+    {
+      "name": "Nightingale Gloves",
+      "url": "https://elderscrolls.fandom.com/wiki/Nightingale_Gloves"
+    },
+    {
+      "name": "Nightingale Hood",
+      "url": "https://elderscrolls.fandom.com/wiki/Nightingale_Hood"
+    },
+    {
+      "name": "Nord",
+      "url": "https://elderscrolls.fandom.com/wiki/Nords_\\(Online\\"
+    },
+    {
+      "name": "Nordic Carved Armor",
+      "url": "https://elderscrolls.fandom.com/wiki/Nordic_Carved_Armor"
+    },
+    {
+      "name": "Nordic Carved Armor (Armor Piece)",
+      "url": "https://elderscrolls.fandom.com/wiki/Nordic_Carved_Armor_\\(Armor_Piece\\"
+    },
+    {
+      "name": "Nordic Carved Boots",
+      "url": "https://elderscrolls.fandom.com/wiki/Nordic_Carved_Boots"
+    },
+    {
+      "name": "Nordic Carved Gauntlets",
+      "url": "https://elderscrolls.fandom.com/wiki/Nordic_Carved_Gauntlets"
+    },
+    {
+      "name": "Nordic Carved Helmet",
+      "url": "https://elderscrolls.fandom.com/wiki/Nordic_Carved_Helmet"
+    },
+    {
+      "name": "Nordic Shield",
+      "url": "https://elderscrolls.fandom.com/wiki/Nordic_Shield"
+    },
+    {
+      "name": "Noster's Helmet",
+      "url": "https://elderscrolls.fandom.com/wiki/Noster%27s_Helmet"
+    },
+    {
+      "name": "Oblivion (2006)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_IV:_Oblivion"
+    },
+    {
+      "name": "Oblivion Remastered (2025)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_IV:_Oblivion_Remastered"
+    },
+    {
+      "name": "Orcish Armor (Armor Piece)",
+      "url": "https://elderscrolls.fandom.com/wiki/Orcish_Armor_\\(Armor_Piece\\"
+    },
+    {
+      "name": "Orcish Armor (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Orcish_Armor_\\(Skyrim\\"
+    },
+    {
+      "name": "Orcish Boots (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Orcish_Boots_\\(Skyrim\\"
+    },
+    {
+      "name": "Orcish Gauntlets (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Orcish_Gauntlets_\\(Skyrim\\"
+    },
+    {
+      "name": "Orcish Helmet (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Orcish_Helmet_\\(Skyrim\\"
+    },
+    {
+      "name": "Orcish Shield (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Orcish_Shield_\\(Skyrim\\"
+    },
+    {
+      "name": "Orsimer",
+      "url": "https://elderscrolls.fandom.com/wiki/Orsimer_\\(Online\\"
+    },
+    {
+      "name": "Otar (Mask)",
+      "url": "https://elderscrolls.fandom.com/wiki/Otar_\\(Mask\\"
+    },
+    {
+      "name": "Pale Guard's Armor",
+      "url": "https://elderscrolls.fandom.com/wiki/Pale_Guard%27s_Armor"
+    },
+    {
+      "name": "Pale Guard's Helmet",
+      "url": "https://elderscrolls.fandom.com/wiki/Pale_Guard%27s_Helmet"
+    },
+    {
+      "name": "Pale Guard's Shield",
+      "url": "https://elderscrolls.fandom.com/wiki/Pale_Guard%27s_Shield"
+    },
+    {
+      "name": "Patrollers",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Patrollers"
+    },
+    {
+      "name": "Penitus Oculatus Armor",
+      "url": "https://elderscrolls.fandom.com/wiki/Penitus_Oculatus_Armor"
+    },
+    {
+      "name": "Penitus Oculatus Armor (Armor Piece)",
+      "url": "https://elderscrolls.fandom.com/wiki/Penitus_Oculatus_Armor_\\(Armor_Piece\\"
+    },
+    {
+      "name": "Penitus Oculatus Boots",
+      "url": "https://elderscrolls.fandom.com/wiki/Penitus_Oculatus_Boots"
+    },
+    {
+      "name": "Penitus Oculatus Bracers",
+      "url": "https://elderscrolls.fandom.com/wiki/Penitus_Oculatus_Bracers"
+    },
+    {
+      "name": "Penitus Oculatus Helmet",
+      "url": "https://elderscrolls.fandom.com/wiki/Penitus_Oculatus_Helmet"
+    },
+    {
+      "name": "Perks",
+      "url": "https://elderscrolls.fandom.com/wiki/Perks"
+    },
+    {
+      "name": "Policies and Guidelines",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Policies_and_Guidelines"
+    },
+    {
+      "name": "Powers",
+      "url": "https://elderscrolls.fandom.com/wiki/Powers"
+    },
+    {
+      "name": "Predator's Grace",
+      "url": "https://elderscrolls.fandom.com/wiki/Predator%27s_Grace"
+    },
+    {
+      "name": "Quest Items",
+      "url": "https://elderscrolls.fandom.com/wiki/Quest_Items_\\(Skyrim\\"
+    },
+    {
+      "name": "Races",
+      "url": "https://elderscrolls.fandom.com/wiki/Races_\\(Online\\"
+    },
+    {
+      "name": "Rahgot (Mask)",
+      "url": "https://elderscrolls.fandom.com/wiki/Rahgot_\\(Mask\\"
+    },
+    {
+      "name": "Random Encounters",
+      "url": "https://elderscrolls.fandom.com/wiki/Random_Encounters_\\(Skyrim\\"
+    },
+    {
+      "name": "Recent News",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:News"
+    },
+    {
+      "name": "Redguard",
+      "url": "https://elderscrolls.fandom.com/wiki/Redguards_\\(Online\\"
+    },
+    {
+      "name": "Redguard (1998)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Adventures:_Redguard"
+    },
+    {
+      "name": "Reflecting Shield",
+      "url": "https://elderscrolls.fandom.com/wiki/Reflecting_Shield"
+    },
+    {
+      "name": "Regions",
+      "url": "https://elderscrolls.fandom.com/wiki/Regions_\\(Online\\"
+    },
+    {
+      "name": "Report Vandalism",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Vandalism_in_progress"
+    },
+    {
+      "name": "Riften Guard's Armor",
+      "url": "https://elderscrolls.fandom.com/wiki/Riften_Guard%27s_Armor"
+    },
+    {
+      "name": "Riften Guard's Helmet",
+      "url": "https://elderscrolls.fandom.com/wiki/Riften_Guard%27s_Helmet"
+    },
+    {
+      "name": "Riften Guard's Shield",
+      "url": "https://elderscrolls.fandom.com/wiki/Riften_Guard%27s_Shield"
+    },
+    {
+      "name": "Roggi's Ancestral Shield",
+      "url": "https://elderscrolls.fandom.com/wiki/Roggi%27s_Ancestral_Shield"
+    },
+    {
+      "name": "Sandbox",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Sandbox"
+    },
+    {
+      "name": "Savior's Hide (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Savior%27s_Hide_\\(Skyrim\\"
+    },
+    {
+      "name": "Scaled Armor (Armor Piece)",
+      "url": "https://elderscrolls.fandom.com/wiki/Scaled_Armor_\\(Armor_Piece\\"
+    },
+    {
+      "name": "Scaled Armor (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Scaled_Armor_\\(Skyrim\\"
+    },
+    {
+      "name": "Scaled Boots",
+      "url": "https://elderscrolls.fandom.com/wiki/Scaled_Boots"
+    },
+    {
+      "name": "Scaled Bracers",
+      "url": "https://elderscrolls.fandom.com/wiki/Scaled_Bracers"
+    },
+    {
+      "name": "Scaled Helmet",
+      "url": "https://elderscrolls.fandom.com/wiki/Scaled_Helmet"
+    },
+    {
+      "name": "Scaled Horn Armor",
+      "url": "https://elderscrolls.fandom.com/wiki/Scaled_Horn_Armor"
+    },
+    {
+      "name": "Seasons of the Worm Cult (2025)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Online:_Seasons_of_the_Worm_Cult"
+    },
+    {
+      "name": "Shadowkey (2004)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Travels:_Shadowkey"
+    },
+    {
+      "name": "Shellbug Helmet",
+      "url": "https://elderscrolls.fandom.com/wiki/Shellbug_Helmet"
+    },
+    {
+      "name": "Shield of Solitude",
+      "url": "https://elderscrolls.fandom.com/wiki/Shield_of_Solitude"
+    },
+    {
+      "name": "Shield of Ysgramor",
+      "url": "https://elderscrolls.fandom.com/wiki/Shield_of_Ysgramor"
+    },
+    {
+      "name": "Shields (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Shields_\\(Skyrim\\"
+    },
+    {
+      "name": "Shivering Isles (2007)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_IV:_Shivering_Isles"
+    },
+    {
+      "name": "Shrouded Armor (Armor Piece)",
+      "url": "https://elderscrolls.fandom.com/wiki/Shrouded_Armor_\\(Armor_Piece\\"
+    },
+    {
+      "name": "Shrouded Armor (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Shrouded_Armor_\\(Skyrim\\"
+    },
+    {
+      "name": "Shrouded Boots",
+      "url": "https://elderscrolls.fandom.com/wiki/Shrouded_Boots"
+    },
+    {
+      "name": "Shrouded Cowl",
+      "url": "https://elderscrolls.fandom.com/wiki/Shrouded_Cowl"
+    },
+    {
+      "name": "Shrouded Cowl Maskless",
+      "url": "https://elderscrolls.fandom.com/wiki/Shrouded_Cowl_Maskless"
+    },
+    {
+      "name": "Shrouded Gloves",
+      "url": "https://elderscrolls.fandom.com/wiki/Shrouded_Gloves"
+    },
+    {
+      "name": "Skaal Armor",
+      "url": "https://elderscrolls.fandom.com/wiki/Skaal_Armor"
+    },
+    {
+      "name": "Skaal Boots",
+      "url": "https://elderscrolls.fandom.com/wiki/Skaal_Boots"
+    },
+    {
+      "name": "Skaal Coat",
+      "url": "https://elderscrolls.fandom.com/wiki/Skaal_Coat"
+    },
+    {
+      "name": "Skaal Gloves",
+      "url": "https://elderscrolls.fandom.com/wiki/Skaal_Gloves"
+    },
+    {
+      "name": "Skaal Hat",
+      "url": "https://elderscrolls.fandom.com/wiki/Skaal_Hat"
+    },
+    {
+      "name": "Skills",
+      "url": "https://elderscrolls.fandom.com/wiki/Skills_\\(Online\\"
+    },
+    {
+      "name": "Skyrim (2011)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_V:_Skyrim"
+    },
+    {
+      "name": "Smithing",
+      "url": "https://elderscrolls.fandom.com/wiki/Smithing_\\(Skyrim\\"
+    },
+    {
+      "name": "Solitude Guard's Armor",
+      "url": "https://elderscrolls.fandom.com/wiki/Solitude_Guard%27s_Armor"
+    },
+    {
+      "name": "Solitude Guard's Helmet",
+      "url": "https://elderscrolls.fandom.com/wiki/Solitude_Guard%27s_Helmet"
+    },
+    {
+      "name": "Solitude Guard's Shield",
+      "url": "https://elderscrolls.fandom.com/wiki/Solitude_Guard%27s_Shield"
+    },
+    {
+      "name": "Sorcerer",
+      "url": "https://elderscrolls.fandom.com/wiki/Sorcerer_\\(Online\\"
+    },
+    {
+      "name": "Special Edition",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_V:_Skyrim_Special_Edition"
+    },
+    {
+      "name": "Spellbreaker (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Spellbreaker_\\(Skyrim\\"
+    },
+    {
+      "name": "Spriggan Shield",
+      "url": "https://elderscrolls.fandom.com/wiki/Spriggan_Shield"
+    },
+    {
+      "name": "Staff",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Staff"
+    },
+    {
+      "name": "Stalhrim Armor (Skyrim Armor Piece)",
+      "url": "https://elderscrolls.fandom.com/wiki/Stalhrim_Armor_\\(Skyrim_Armor_Piece\\"
+    },
+    {
+      "name": "Stalhrim Armor (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Stalhrim_Armor_\\(Skyrim\\"
+    },
+    {
+      "name": "Stalhrim Boots (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Stalhrim_Boots_\\(Skyrim\\"
+    },
+    {
+      "name": "Stalhrim Gauntlets (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Stalhrim_Gauntlets_\\(Skyrim\\"
+    },
+    {
+      "name": "Stalhrim Helm",
+      "url": "https://elderscrolls.fandom.com/wiki/Stalhrim_Helm"
+    },
+    {
+      "name": "Stalhrim Light Armor",
+      "url": "https://elderscrolls.fandom.com/wiki/Stalhrim_Light_Armor"
+    },
+    {
+      "name": "Stalhrim Light Boots",
+      "url": "https://elderscrolls.fandom.com/wiki/Stalhrim_Light_Boots"
+    },
+    {
+      "name": "Stalhrim Light Bracers",
+      "url": "https://elderscrolls.fandom.com/wiki/Stalhrim_Light_Bracers"
+    },
+    {
+      "name": "Stalhrim Light Helmet",
+      "url": "https://elderscrolls.fandom.com/wiki/Stalhrim_Light_Helmet"
+    },
+    {
+      "name": "Stalhrim Shield (Dragonborn)",
+      "url": "https://elderscrolls.fandom.com/wiki/Stalhrim_Shield_\\(Dragonborn\\"
+    },
+    {
+      "name": "Steel Armor (Armor Piece)",
+      "url": "https://elderscrolls.fandom.com/wiki/Steel_Armor_\\(Armor_Piece\\"
+    },
+    {
+      "name": "Steel Armor (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Steel_Armor_\\(Skyrim\\"
+    },
+    {
+      "name": "Steel Cuffed Boots",
+      "url": "https://elderscrolls.fandom.com/wiki/Steel_Cuffed_Boots"
+    },
+    {
+      "name": "Steel Helmet (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Steel_Helmet_\\(Skyrim\\"
+    },
+    {
+      "name": "Steel Horned Helmet",
+      "url": "https://elderscrolls.fandom.com/wiki/Steel_Horned_Helmet"
+    },
+    {
+      "name": "Steel Imperial Gauntlets",
+      "url": "https://elderscrolls.fandom.com/wiki/Steel_Imperial_Gauntlets"
+    },
+    {
+      "name": "Steel Nordic Gauntlets",
+      "url": "https://elderscrolls.fandom.com/wiki/Steel_Nordic_Gauntlets"
+    },
+    {
+      "name": "Steel Plate Armor",
+      "url": "https://elderscrolls.fandom.com/wiki/Steel_Plate_Armor"
+    },
+    {
+      "name": "Steel Plate Armor (Armor Piece)",
+      "url": "https://elderscrolls.fandom.com/wiki/Steel_Plate_Armor_\\(Armor_Piece\\"
+    },
+    {
+      "name": "Steel Plate Boots",
+      "url": "https://elderscrolls.fandom.com/wiki/Steel_Plate_Boots"
+    },
+    {
+      "name": "Steel Plate Gauntlets",
+      "url": "https://elderscrolls.fandom.com/wiki/Steel_Plate_Gauntlets"
+    },
+    {
+      "name": "Steel Plate Helmet",
+      "url": "https://elderscrolls.fandom.com/wiki/Steel_Plate_Helmet"
+    },
+    {
+      "name": "Steel Shield (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Steel_Shield_\\(Skyrim\\"
+    },
+    {
+      "name": "Steel Shin Boots",
+      "url": "https://elderscrolls.fandom.com/wiki/Steel_Shin_Boots"
+    },
+    {
+      "name": "Stormcloak Cuirass",
+      "url": "https://elderscrolls.fandom.com/wiki/Stormcloak_Cuirass"
+    },
+    {
+      "name": "Stormcloak Helmet",
+      "url": "https://elderscrolls.fandom.com/wiki/Stormcloak_Helmet"
+    },
+    {
+      "name": "Stormcloak Officer Armor",
+      "url": "https://elderscrolls.fandom.com/wiki/Stormcloak_Officer_Armor"
+    },
+    {
+      "name": "Stormcloak Officer Armor (Armor Piece)",
+      "url": "https://elderscrolls.fandom.com/wiki/Stormcloak_Officer_Armor_\\(Armor_Piece\\"
+    },
+    {
+      "name": "Stormcloak Officer Boots",
+      "url": "https://elderscrolls.fandom.com/wiki/Stormcloak_Officer_Boots"
+    },
+    {
+      "name": "Stormcloak Officer Bracers",
+      "url": "https://elderscrolls.fandom.com/wiki/Stormcloak_Officer_Bracers"
+    },
+    {
+      "name": "Stormcloak Officer Helmet",
+      "url": "https://elderscrolls.fandom.com/wiki/Stormcloak_Officer_Helmet"
+    },
+    {
+      "name": "Stormhold (2003)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Travels:_Stormhold"
+    },
+    {
+      "name": "Studded Armor",
+      "url": "https://elderscrolls.fandom.com/wiki/Studded_Armor"
+    },
+    {
+      "name": "Studded Imperial Armor",
+      "url": "https://elderscrolls.fandom.com/wiki/Studded_Imperial_Armor"
+    },
+    {
+      "name": "Style and Formatting guide",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Style_and_Formatting"
+    },
+    {
+      "name": "Synergy",
+      "url": "https://elderscrolls.fandom.com/wiki/Synergy"
+    },
+    {
+      "name": "Targe of the Blooded",
+      "url": "https://elderscrolls.fandom.com/wiki/Targe_of_the_Blooded"
+    },
+    {
+      "name": "Templar",
+      "url": "https://elderscrolls.fandom.com/wiki/Templar"
+    },
+    {
+      "name": "The College of Winterhold",
+      "url": "https://elderscrolls.fandom.com/wiki/College_of_Winterhold#Quests"
+    },
+    {
+      "name": "The Companions",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Companions#Quests"
+    },
+    {
+      "name": "The Forgemaster's Fingers (Item)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Forgemaster%27s_Fingers_\\(Item\\"
+    },
+    {
+      "name": "The Jagged Crown (Item)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Jagged_Crown_\\(Item\\"
+    },
+    {
+      "name": "Thieves Guild",
+      "url": "https://elderscrolls.fandom.com/wiki/Thieves_Guild_\\(Skyrim\\"
+    },
+    {
+      "name": "Thieves Guild Armor",
+      "url": "https://elderscrolls.fandom.com/wiki/Thieves_Guild_Armor"
+    },
+    {
+      "name": "Thieves Guild Armor (Armor Piece)",
+      "url": "https://elderscrolls.fandom.com/wiki/Thieves_Guild_Armor_\\(Armor_Piece\\"
+    },
+    {
+      "name": "Thieves Guild Boots",
+      "url": "https://elderscrolls.fandom.com/wiki/Thieves_Guild_Boots"
+    },
+    {
+      "name": "Thieves Guild Gloves",
+      "url": "https://elderscrolls.fandom.com/wiki/Thieves_Guild_Gloves"
+    },
+    {
+      "name": "Thieves Guild Hood",
+      "url": "https://elderscrolls.fandom.com/wiki/Thieves_Guild_Hood"
+    },
+    {
+      "name": "Torturer's Hood",
+      "url": "https://elderscrolls.fandom.com/wiki/Torturer%27s_Hood"
+    },
+    {
+      "name": "Tower of Unutterable Truths",
+      "url": "https://elderscrolls.fandom.com/wiki/Tower_of_Unutterable_Truths"
+    },
+    {
+      "name": "Trainers",
+      "url": "https://elderscrolls.fandom.com/wiki/Trainers_\\(Skyrim\\"
+    },
+    {
+      "name": "Travels: Oblivion (2006)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Travels:_Oblivion_\\(Mobile\\"
+    },
+    {
+      "name": "Tribunal (2002)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_III:_Tribunal"
+    },
+    {
+      "name": "Tsun's Armor",
+      "url": "https://elderscrolls.fandom.com/wiki/Tsun%27s_Armor"
+    },
+    {
+      "name": "Tsun's Boots",
+      "url": "https://elderscrolls.fandom.com/wiki/Tsun%27s_Boots"
+    },
+    {
+      "name": "Tumblerbane Gloves",
+      "url": "https://elderscrolls.fandom.com/wiki/Tumblerbane_Gloves"
+    },
+    {
+      "name": "Ulfric's Bracers",
+      "url": "https://elderscrolls.fandom.com/wiki/Ulfric%27s_Bracers"
+    },
+    {
+      "name": "Ultimate Skills",
+      "url": "https://elderscrolls.fandom.com/wiki/Ultimate_Skills"
+    },
+    {
+      "name": "Unique Armor (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Unique_Armor_\\(Skyrim\\"
+    },
+    {
+      "name": "VI",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_VI"
+    },
+    {
+      "name": "Vampire Armor",
+      "url": "https://elderscrolls.fandom.com/wiki/Vampire_Armor"
+    },
+    {
+      "name": "Vampire Armor (Armor Piece)",
+      "url": "https://elderscrolls.fandom.com/wiki/Vampire_Armor_\\(Armor_Piece\\"
+    },
+    {
+      "name": "Vampire Boots (Light Armor)",
+      "url": "https://elderscrolls.fandom.com/wiki/Vampire_Boots_\\(Light_Armor\\"
+    },
+    {
+      "name": "Vampire Gauntlets",
+      "url": "https://elderscrolls.fandom.com/wiki/Vampire_Gauntlets"
+    },
+    {
+      "name": "Vampire Royal Armor",
+      "url": "https://elderscrolls.fandom.com/wiki/Vampire_Royal_Armor"
+    },
+    {
+      "name": "Vampirism",
+      "url": "https://elderscrolls.fandom.com/wiki/Vampirism_\\(Skyrim\\"
+    },
+    {
+      "name": "Visage of Mzund",
+      "url": "https://elderscrolls.fandom.com/wiki/Visage_of_Mzund"
+    },
+    {
+      "name": "Vokun (Mask)",
+      "url": "https://elderscrolls.fandom.com/wiki/Vokun_\\(Mask\\"
+    },
+    {
+      "name": "Volsung (Mask)",
+      "url": "https://elderscrolls.fandom.com/wiki/Volsung_\\(Mask\\"
+    },
+    {
+      "name": "Warden",
+      "url": "https://elderscrolls.fandom.com/wiki/Warden"
+    },
+    {
+      "name": "Wayshrines",
+      "url": "https://elderscrolls.fandom.com/wiki/Wayshrines_\\(Online\\"
+    },
+    {
+      "name": "Weekly News",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Weekly_Updates"
+    },
+    {
+      "name": "Whiterun Guard's Armor",
+      "url": "https://elderscrolls.fandom.com/wiki/Whiterun_Guard%27s_Armor"
+    },
+    {
+      "name": "Whiterun Guard's Helmet",
+      "url": "https://elderscrolls.fandom.com/wiki/Whiterun_Guard%27s_Helmet"
+    },
+    {
+      "name": "Whiterun Guard's Shield",
+      "url": "https://elderscrolls.fandom.com/wiki/Whiterun_Guard%27s_Shield"
+    },
+    {
+      "name": "Windhelm Guard's Shield",
+      "url": "https://elderscrolls.fandom.com/wiki/Windhelm_Guard%27s_Shield"
+    },
+    {
+      "name": "Winterhold Guard's Armor",
+      "url": "https://elderscrolls.fandom.com/wiki/Winterhold_Guard%27s_Armor"
+    },
+    {
+      "name": "Winterhold Guard's Helmet",
+      "url": "https://elderscrolls.fandom.com/wiki/Winterhold_Guard%27s_Helmet"
+    },
+    {
+      "name": "Winterhold Guard's Shield",
+      "url": "https://elderscrolls.fandom.com/wiki/Winterhold_Guard%27s_Shield"
+    },
+    {
+      "name": "Wolf Armor (Armor Piece)",
+      "url": "https://elderscrolls.fandom.com/wiki/Wolf_Armor_\\(Armor_Piece\\"
+    },
+    {
+      "name": "Wolf Armor (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Wolf_Armor_\\(Skyrim\\"
+    },
+    {
+      "name": "Wolf Boots (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Wolf_Boots_\\(Skyrim\\"
+    },
+    {
+      "name": "Wolf Gauntlets",
+      "url": "https://elderscrolls.fandom.com/wiki/Wolf_Gauntlets"
+    },
+    {
+      "name": "Wolf Helmet (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Wolf_Helmet_\\(Skyrim\\"
+    },
+    {
+      "name": "Wooden Mask",
+      "url": "https://elderscrolls.fandom.com/wiki/Wooden_Mask"
+    },
+    {
+      "name": "Worn Shrouded Armor",
+      "url": "https://elderscrolls.fandom.com/wiki/Worn_Shrouded_Armor"
+    },
+    {
+      "name": "Worn Shrouded Armor (Armor Piece)",
+      "url": "https://elderscrolls.fandom.com/wiki/Worn_Shrouded_Armor_\\(Armor_Piece\\"
+    },
+    {
+      "name": "Worn Shrouded Boots",
+      "url": "https://elderscrolls.fandom.com/wiki/Worn_Shrouded_Boots"
+    },
+    {
+      "name": "Worn Shrouded Cowl",
+      "url": "https://elderscrolls.fandom.com/wiki/Worn_Shrouded_Cowl"
+    },
+    {
+      "name": "Worn Shrouded Gloves",
+      "url": "https://elderscrolls.fandom.com/wiki/Worn_Shrouded_Gloves"
+    },
+    {
+      "name": "Zahkriisos (Mask)",
+      "url": "https://elderscrolls.fandom.com/wiki/Zahkriisos_\\(Mask\\"
+    },
+    {
+      "name": "server guidelines",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Discord"
+    }
+  ]
+}

@@ -1,0 +1,2921 @@
+{
+  "metadata": {
+    "type": "Perks",
+    "description": "Halaman lain yang relevan",
+    "source": "Elder Scrolls Wiki (Fandom)",
+    "crawled_at": "2026-02-03T12:28:03.833563",
+    "categories_crawled": [
+      "perks"
+    ],
+    "total_unique_items": 263,
+    "items_per_category": {
+      "perks": 263
+    }
+  },
+  "categories": {
+    "perks": {
+      "name": "Perks",
+      "urls": [
+        "https://elderscrolls.fandom.com/wiki/Category:Skyrim:_Perks"
+      ],
+      "count": 263,
+      "items": [
+        {
+          "name": "Abilities",
+          "url": "https://elderscrolls.fandom.com/wiki/Abilities_\\(Skyrim\\"
+        },
+        {
+          "name": "Add-ons",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Online#Expansion_packs"
+        },
+        {
+          "name": "Adept Alteration",
+          "url": "https://elderscrolls.fandom.com/wiki/Adept_Alteration"
+        },
+        {
+          "name": "Adept Illusion",
+          "url": "https://elderscrolls.fandom.com/wiki/Adept_Illusion"
+        },
+        {
+          "name": "Adept Restoration",
+          "url": "https://elderscrolls.fandom.com/wiki/Adept_Restoration"
+        },
+        {
+          "name": "Administrators",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Administrators"
+        },
+        {
+          "name": "Advanced Armors",
+          "url": "https://elderscrolls.fandom.com/wiki/Advanced_Armors"
+        },
+        {
+          "name": "Agile Defender",
+          "url": "https://elderscrolls.fandom.com/wiki/Agile_Defender"
+        },
+        {
+          "name": "Alchemist (Perk)",
+          "url": "https://elderscrolls.fandom.com/wiki/Alchemist_\\(Perk\\"
+        },
+        {
+          "name": "Aldmeri Dominion",
+          "url": "https://elderscrolls.fandom.com/wiki/Aldmeri_Dominion_Quests"
+        },
+        {
+          "name": "Alliances",
+          "url": "https://elderscrolls.fandom.com/wiki/Alliances"
+        },
+        {
+          "name": "Allure",
+          "url": "https://elderscrolls.fandom.com/wiki/Allure"
+        },
+        {
+          "name": "Alteration Dual Casting",
+          "url": "https://elderscrolls.fandom.com/wiki/Alteration_Dual_Casting"
+        },
+        {
+          "name": "Altmer",
+          "url": "https://elderscrolls.fandom.com/wiki/Altmer_\\(Online\\"
+        },
+        {
+          "name": "Animage",
+          "url": "https://elderscrolls.fandom.com/wiki/Animage"
+        },
+        {
+          "name": "Anniversary Edition",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_V:_Skyrim_Anniversary_Edition"
+        },
+        {
+          "name": "Apprentice Alteration",
+          "url": "https://elderscrolls.fandom.com/wiki/Apprentice_Alteration"
+        },
+        {
+          "name": "Apprentice Illusion",
+          "url": "https://elderscrolls.fandom.com/wiki/Apprentice_Illusion"
+        },
+        {
+          "name": "Apprentice Restoration",
+          "url": "https://elderscrolls.fandom.com/wiki/Apprentice_Restoration"
+        },
+        {
+          "name": "Arcane Blacksmith",
+          "url": "https://elderscrolls.fandom.com/wiki/Arcane_Blacksmith"
+        },
+        {
+          "name": "Arcanist",
+          "url": "https://elderscrolls.fandom.com/wiki/Arcanist_\\(Class\\"
+        },
+        {
+          "name": "Arena (1994)",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls:_Arena"
+        },
+        {
+          "name": "Argonian",
+          "url": "https://elderscrolls.fandom.com/wiki/Argonians_\\(Online\\"
+        },
+        {
+          "name": "Armsman (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Armsman_\\(Skyrim\\"
+        },
+        {
+          "name": "Aspect of Terror (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Aspect_of_Terror_\\(Skyrim\\"
+        },
+        {
+          "name": "Assassin's Blade (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Assassin%27s_Blade_\\(Skyrim\\"
+        },
+        {
+          "name": "Atronach (Perk)",
+          "url": "https://elderscrolls.fandom.com/wiki/Atronach_\\(Perk\\"
+        },
+        {
+          "name": "Avoid Death",
+          "url": "https://elderscrolls.fandom.com/wiki/Avoid_Death"
+        },
+        {
+          "name": "Backstab",
+          "url": "https://elderscrolls.fandom.com/wiki/Backstab"
+        },
+        {
+          "name": "Barbarian (Perk)",
+          "url": "https://elderscrolls.fandom.com/wiki/Barbarian_\\(Perk\\"
+        },
+        {
+          "name": "Bash Disarm",
+          "url": "https://elderscrolls.fandom.com/wiki/Bash_Disarm"
+        },
+        {
+          "name": "Battlespire (1997)",
+          "url": "https://elderscrolls.fandom.com/wiki/An_Elder_Scrolls_Legend:_Battlespire"
+        },
+        {
+          "name": "Benefactor",
+          "url": "https://elderscrolls.fandom.com/wiki/Benefactor"
+        },
+        {
+          "name": "Bismuth Steam Baths",
+          "url": "https://elderscrolls.fandom.com/wiki/Bismuth_Steam_Baths"
+        },
+        {
+          "name": "Blackwood (2021)",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Online:_Blackwood"
+        },
+        {
+          "name": "Blades (2019)",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls:_Blades"
+        },
+        {
+          "name": "Bladesman",
+          "url": "https://elderscrolls.fandom.com/wiki/Bladesman"
+        },
+        {
+          "name": "Block Runner",
+          "url": "https://elderscrolls.fandom.com/wiki/Block_Runner"
+        },
+        {
+          "name": "Blocking policy",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Blocking_policy"
+        },
+        {
+          "name": "Blog policy",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Blog_policy"
+        },
+        {
+          "name": "Bloodmoon (2003)",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_III:_Bloodmoon"
+        },
+        {
+          "name": "Bone Breaker",
+          "url": "https://elderscrolls.fandom.com/wiki/Bone_Breaker"
+        },
+        {
+          "name": "Bosmer",
+          "url": "https://elderscrolls.fandom.com/wiki/Bosmer_\\(Online\\"
+        },
+        {
+          "name": "Bots",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Bots"
+        },
+        {
+          "name": "Breton",
+          "url": "https://elderscrolls.fandom.com/wiki/Bretons_\\(Online\\"
+        },
+        {
+          "name": "Bribery",
+          "url": "https://elderscrolls.fandom.com/wiki/Bribery"
+        },
+        {
+          "name": "Bullseye",
+          "url": "https://elderscrolls.fandom.com/wiki/Bullseye"
+        },
+        {
+          "name": "Castles (2024)",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls:_Castles"
+        },
+        {
+          "name": "Champion's Stance",
+          "url": "https://elderscrolls.fandom.com/wiki/Champion%27s_Stance"
+        },
+        {
+          "name": "Classes",
+          "url": "https://elderscrolls.fandom.com/wiki/Classes_\\(Online\\"
+        },
+        {
+          "name": "CompUSA Expansion (1996)",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_II:_Daggerfall_CompUSA_Expansion"
+        },
+        {
+          "name": "Comprehensive Articles",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Comprehensive_Articles"
+        },
+        {
+          "name": "Concentrated Poison",
+          "url": "https://elderscrolls.fandom.com/wiki/Concentrated_Poison"
+        },
+        {
+          "name": "Conditioning (Perk)",
+          "url": "https://elderscrolls.fandom.com/wiki/Conditioning_\\(Perk\\"
+        },
+        {
+          "name": "Consensus policy",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Consensus"
+        },
+        {
+          "name": "Console Commands",
+          "url": "https://elderscrolls.fandom.com/wiki/Console_Commands_\\(Skyrim\\"
+        },
+        {
+          "name": "Console Commands (Skyrim)/Perks",
+          "url": "https://elderscrolls.fandom.com/wiki/Console_Commands_\\(Skyrim\\"
+        },
+        {
+          "name": "Controls",
+          "url": "https://elderscrolls.fandom.com/wiki/Controls_\\(Skyrim\\"
+        },
+        {
+          "name": "Corpus Enchanter",
+          "url": "https://elderscrolls.fandom.com/wiki/Corpus_Enchanter"
+        },
+        {
+          "name": "Crafting",
+          "url": "https://elderscrolls.fandom.com/wiki/Crafting_\\(Online\\"
+        },
+        {
+          "name": "Creation Club",
+          "url": "https://elderscrolls.fandom.com/wiki/Creation_Club"
+        },
+        {
+          "name": "Critical Charge (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Critical_Charge_\\(Skyrim\\"
+        },
+        {
+          "name": "Critical Shot",
+          "url": "https://elderscrolls.fandom.com/wiki/Critical_Shot"
+        },
+        {
+          "name": "Crown Store",
+          "url": "https://elderscrolls.fandom.com/wiki/Crown_Store"
+        },
+        {
+          "name": "Custom Fit",
+          "url": "https://elderscrolls.fandom.com/wiki/Custom_Fit"
+        },
+        {
+          "name": "Cutpurse (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Cutpurse_\\(Skyrim\\"
+        },
+        {
+          "name": "Daedric Artifacts",
+          "url": "https://elderscrolls.fandom.com/wiki/Daedric_Artifacts_\\(Skyrim\\"
+        },
+        {
+          "name": "Daedric Quests",
+          "url": "https://elderscrolls.fandom.com/wiki/Daedric_Quests_\\(Skyrim\\"
+        },
+        {
+          "name": "Daedric Shrines",
+          "url": "https://elderscrolls.fandom.com/wiki/Daedric_Shrines_\\(Skyrim\\"
+        },
+        {
+          "name": "Daedric Smithing",
+          "url": "https://elderscrolls.fandom.com/wiki/Daedric_Smithing"
+        },
+        {
+          "name": "Daggerfall (1996)",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_II:_Daggerfall"
+        },
+        {
+          "name": "Daggerfall Covenant",
+          "url": "https://elderscrolls.fandom.com/wiki/Daggerfall_Covenant_Quests"
+        },
+        {
+          "name": "Dark Brotherhood",
+          "url": "https://elderscrolls.fandom.com/wiki/Dark_Brotherhood_\\(Skyrim\\"
+        },
+        {
+          "name": "Dawnguard (2012)",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_V:_Dawnguard"
+        },
+        {
+          "name": "Dawnstar (2004)",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Travels:_Dawnstar"
+        },
+        {
+          "name": "Deadly Bash (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Deadly_Bash_\\(Skyrim\\"
+        },
+        {
+          "name": "Deep Wounds",
+          "url": "https://elderscrolls.fandom.com/wiki/Deep_Wounds"
+        },
+        {
+          "name": "Deflect Arrows",
+          "url": "https://elderscrolls.fandom.com/wiki/Deflect_Arrows"
+        },
+        {
+          "name": "Deft Movement",
+          "url": "https://elderscrolls.fandom.com/wiki/Deft_Movement"
+        },
+        {
+          "name": "Devastating Blow",
+          "url": "https://elderscrolls.fandom.com/wiki/Devastating_Blow"
+        },
+        {
+          "name": "Disarming Bash",
+          "url": "https://elderscrolls.fandom.com/wiki/Disarming_Bash"
+        },
+        {
+          "name": "Discord Moderators",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Discord_Moderators"
+        },
+        {
+          "name": "Discord policy",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Discord"
+        },
+        {
+          "name": "Disintegrate (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Disintegrate_\\(Skyrim\\"
+        },
+        {
+          "name": "Doomchar Plateau",
+          "url": "https://elderscrolls.fandom.com/wiki/Doomchar_Plateau"
+        },
+        {
+          "name": "Dragon Armor (Perk)",
+          "url": "https://elderscrolls.fandom.com/wiki/Dragon_Armor_\\(Perk\\"
+        },
+        {
+          "name": "Dragon Shouts",
+          "url": "https://elderscrolls.fandom.com/wiki/Dragon_Shouts"
+        },
+        {
+          "name": "Dragonborn (2012)",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_V:_Dragonborn"
+        },
+        {
+          "name": "Dragonknight",
+          "url": "https://elderscrolls.fandom.com/wiki/Dragonknight"
+        },
+        {
+          "name": "Dragons",
+          "url": "https://elderscrolls.fandom.com/wiki/Dragons_\\(Skyrim\\"
+        },
+        {
+          "name": "Dual Flurry",
+          "url": "https://elderscrolls.fandom.com/wiki/Dual_Flurry"
+        },
+        {
+          "name": "Dual Savagery",
+          "url": "https://elderscrolls.fandom.com/wiki/Dual_Savagery"
+        },
+        {
+          "name": "Dunmer",
+          "url": "https://elderscrolls.fandom.com/wiki/Dunmer_\\(Online\\"
+        },
+        {
+          "name": "Dwarven Smithing",
+          "url": "https://elderscrolls.fandom.com/wiki/Dwarven_Smithing"
+        },
+        {
+          "name": "ESO Plus",
+          "url": "https://elderscrolls.fandom.com/wiki/ESO_Plus"
+        },
+        {
+          "name": "Eagle Eye (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Eagle_Eye_\\(Skyrim\\"
+        },
+        {
+          "name": "Easter Eggs",
+          "url": "https://elderscrolls.fandom.com/wiki/Easter_Eggs_\\(Skyrim\\"
+        },
+        {
+          "name": "Ebonheart Pact",
+          "url": "https://elderscrolls.fandom.com/wiki/Ebonheart_Pact_Quests"
+        },
+        {
+          "name": "Ebony Smithing",
+          "url": "https://elderscrolls.fandom.com/wiki/Ebony_Smithing"
+        },
+        {
+          "name": "Elemental Protection (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Elemental_Protection_\\(Skyrim\\"
+        },
+        {
+          "name": "Elsweyr (2019)",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Online:_Elsweyr"
+        },
+        {
+          "name": "Elven Smithing",
+          "url": "https://elderscrolls.fandom.com/wiki/Elven_Smithing"
+        },
+        {
+          "name": "Enchanter (Perk)",
+          "url": "https://elderscrolls.fandom.com/wiki/Enchanter_\\(Perk\\"
+        },
+        {
+          "name": "Enchanting",
+          "url": "https://elderscrolls.fandom.com/wiki/Enchanting_\\(Skyrim\\"
+        },
+        {
+          "name": "Experimenter",
+          "url": "https://elderscrolls.fandom.com/wiki/Experimenter"
+        },
+        {
+          "name": "Expert Alteration",
+          "url": "https://elderscrolls.fandom.com/wiki/Expert_Alteration"
+        },
+        {
+          "name": "Expert Illusion",
+          "url": "https://elderscrolls.fandom.com/wiki/Expert_Illusion"
+        },
+        {
+          "name": "Expert Restoration",
+          "url": "https://elderscrolls.fandom.com/wiki/Expert_Restoration"
+        },
+        {
+          "name": "Extra Effect",
+          "url": "https://elderscrolls.fandom.com/wiki/Extra_Effect"
+        },
+        {
+          "name": "Extra Pockets",
+          "url": "https://elderscrolls.fandom.com/wiki/Extra_Pockets"
+        },
+        {
+          "name": "Factions",
+          "url": "https://elderscrolls.fandom.com/wiki/Factions_\\(Skyrim\\"
+        },
+        {
+          "name": "Featured Articles",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Featured_Articles"
+        },
+        {
+          "name": "Fence (Perk)",
+          "url": "https://elderscrolls.fandom.com/wiki/Fence_\\(Perk\\"
+        },
+        {
+          "name": "Fighting Stance",
+          "url": "https://elderscrolls.fandom.com/wiki/Fighting_Stance"
+        },
+        {
+          "name": "Finesse",
+          "url": "https://elderscrolls.fandom.com/wiki/Finesse"
+        },
+        {
+          "name": "Fire Enchanter",
+          "url": "https://elderscrolls.fandom.com/wiki/Fire_Enchanter"
+        },
+        {
+          "name": "Followers",
+          "url": "https://elderscrolls.fandom.com/wiki/Followers_\\(Skyrim\\"
+        },
+        {
+          "name": "Forum Moderators",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Moderators"
+        },
+        {
+          "name": "Forum/Discussions policy",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Discussions"
+        },
+        {
+          "name": "Frost Enchanter",
+          "url": "https://elderscrolls.fandom.com/wiki/Frost_Enchanter"
+        },
+        {
+          "name": "Games",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls"
+        },
+        {
+          "name": "Glass Smithing",
+          "url": "https://elderscrolls.fandom.com/wiki/Glass_Smithing"
+        },
+        {
+          "name": "Gold Road (2024)",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Online:_Gold_Road"
+        },
+        {
+          "name": "Good Articles",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Good_Articles"
+        },
+        {
+          "name": "Great Critical Charge",
+          "url": "https://elderscrolls.fandom.com/wiki/Great_Critical_Charge"
+        },
+        {
+          "name": "Green Thumb",
+          "url": "https://elderscrolls.fandom.com/wiki/Green_Thumb"
+        },
+        {
+          "name": "Greymoor (2020)",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Online:_Greymoor"
+        },
+        {
+          "name": "Hack and Slash",
+          "url": "https://elderscrolls.fandom.com/wiki/Hack_and_Slash"
+        },
+        {
+          "name": "Haggling",
+          "url": "https://elderscrolls.fandom.com/wiki/Haggling"
+        },
+        {
+          "name": "Hearthfire (2012)",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_V:_Hearthfire"
+        },
+        {
+          "name": "High Isle (2022)",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Online:_High_Isle"
+        },
+        {
+          "name": "Holds",
+          "url": "https://elderscrolls.fandom.com/wiki/Holds"
+        },
+        {
+          "name": "Hunter's Discipline",
+          "url": "https://elderscrolls.fandom.com/wiki/Hunter%27s_Discipline"
+        },
+        {
+          "name": "Hypnotic Gaze",
+          "url": "https://elderscrolls.fandom.com/wiki/Hypnotic_Gaze"
+        },
+        {
+          "name": "Illusion Dual Casting",
+          "url": "https://elderscrolls.fandom.com/wiki/Illusion_Dual_Casting"
+        },
+        {
+          "name": "Impact",
+          "url": "https://elderscrolls.fandom.com/wiki/Impact"
+        },
+        {
+          "name": "Imperial",
+          "url": "https://elderscrolls.fandom.com/wiki/Imperials_\\(Online\\"
+        },
+        {
+          "name": "Insightful Enchanter",
+          "url": "https://elderscrolls.fandom.com/wiki/Insightful_Enchanter"
+        },
+        {
+          "name": "Intimidation",
+          "url": "https://elderscrolls.fandom.com/wiki/Intimidation"
+        },
+        {
+          "name": "Investor",
+          "url": "https://elderscrolls.fandom.com/wiki/Investor"
+        },
+        {
+          "name": "Item Enchantment Types",
+          "url": "https://elderscrolls.fandom.com/wiki/Enchantment_Modifiers"
+        },
+        {
+          "name": "Keymaster",
+          "url": "https://elderscrolls.fandom.com/wiki/Keymaster"
+        },
+        {
+          "name": "Khajiit",
+          "url": "https://elderscrolls.fandom.com/wiki/Khajiit_\\(Online\\"
+        },
+        {
+          "name": "Kindred Mage",
+          "url": "https://elderscrolls.fandom.com/wiki/Kindred_Mage"
+        },
+        {
+          "name": "Knights of the Nine (2006)",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_IV:_Knights_of_the_Nine"
+        },
+        {
+          "name": "Legends (2016)",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls:_Legends"
+        },
+        {
+          "name": "Light Fingers (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Light_Fingers_\\(Skyrim\\"
+        },
+        {
+          "name": "Limbsplitter",
+          "url": "https://elderscrolls.fandom.com/wiki/Limbsplitter"
+        },
+        {
+          "name": "Local Sitemap",
+          "url": "https://elderscrolls.fandom.com/wiki/Local_Sitemap"
+        },
+        {
+          "name": "Lycanthropy",
+          "url": "https://elderscrolls.fandom.com/wiki/Lycanthropy_\\(Skyrim\\"
+        },
+        {
+          "name": "Mage Armor",
+          "url": "https://elderscrolls.fandom.com/wiki/Mage_Armor"
+        },
+        {
+          "name": "Magic Resistance",
+          "url": "https://elderscrolls.fandom.com/wiki/Magic_Resistance"
+        },
+        {
+          "name": "Main Quest",
+          "url": "https://elderscrolls.fandom.com/wiki/Main_Quest_\\(Online\\"
+        },
+        {
+          "name": "Map",
+          "url": "https://elderscrolls.fandom.com/wiki/Map_\\(Skyrim\\"
+        },
+        {
+          "name": "Marriage",
+          "url": "https://elderscrolls.fandom.com/wiki/Marriage"
+        },
+        {
+          "name": "Master Alteration",
+          "url": "https://elderscrolls.fandom.com/wiki/Master_Alteration"
+        },
+        {
+          "name": "Master Illusion",
+          "url": "https://elderscrolls.fandom.com/wiki/Master_Illusion"
+        },
+        {
+          "name": "Master Restoration",
+          "url": "https://elderscrolls.fandom.com/wiki/Master_Restoration"
+        },
+        {
+          "name": "Master Trader",
+          "url": "https://elderscrolls.fandom.com/wiki/Master_Trader"
+        },
+        {
+          "name": "Master of the Mind",
+          "url": "https://elderscrolls.fandom.com/wiki/Master_of_the_Mind"
+        },
+        {
+          "name": "Matching Set (Heavy Armor)",
+          "url": "https://elderscrolls.fandom.com/wiki/Matching_Set_\\(Heavy_Armor\\"
+        },
+        {
+          "name": "Matching Set (Light Armor)",
+          "url": "https://elderscrolls.fandom.com/wiki/Matching_Set_\\(Light_Armor\\"
+        },
+        {
+          "name": "Media policy",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Media"
+        },
+        {
+          "name": "Member of the Month",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Member_of_the_Month"
+        },
+        {
+          "name": "Merchant (Perk)",
+          "url": "https://elderscrolls.fandom.com/wiki/Merchant_\\(Perk\\"
+        },
+        {
+          "name": "Misdirection (Perk)",
+          "url": "https://elderscrolls.fandom.com/wiki/Misdirection_\\(Perk\\"
+        },
+        {
+          "name": "Moot",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Moot"
+        },
+        {
+          "name": "More Quests",
+          "url": "https://elderscrolls.fandom.com/wiki/Quests_\\(Skyrim\\"
+        },
+        {
+          "name": "Morrowind (2002)",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_III:_Morrowind"
+        },
+        {
+          "name": "Necrom (2023)",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Online:_Necrom"
+        },
+        {
+          "name": "Necromage (Perk)",
+          "url": "https://elderscrolls.fandom.com/wiki/Necromage_\\(Perk\\"
+        },
+        {
+          "name": "Necromancer",
+          "url": "https://elderscrolls.fandom.com/wiki/Necromancer_\\(Online\\"
+        },
+        {
+          "name": "Necromancy (Perk)",
+          "url": "https://elderscrolls.fandom.com/wiki/Necromancy_\\(Perk\\"
+        },
+        {
+          "name": "Neutral point of view",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Neutral_point_of_view"
+        },
+        {
+          "name": "News Team",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:News_Team"
+        },
+        {
+          "name": "Night Thief",
+          "url": "https://elderscrolls.fandom.com/wiki/Night_Thief"
+        },
+        {
+          "name": "Nightblade",
+          "url": "https://elderscrolls.fandom.com/wiki/Nightblade_\\(Online\\"
+        },
+        {
+          "name": "Nord",
+          "url": "https://elderscrolls.fandom.com/wiki/Nords_\\(Online\\"
+        },
+        {
+          "name": "Novice Alteration",
+          "url": "https://elderscrolls.fandom.com/wiki/Novice_Alteration"
+        },
+        {
+          "name": "Novice Illusion",
+          "url": "https://elderscrolls.fandom.com/wiki/Novice_Illusion"
+        },
+        {
+          "name": "Novice Restoration",
+          "url": "https://elderscrolls.fandom.com/wiki/Novice_Restoration"
+        },
+        {
+          "name": "Oblivion (2006)",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_IV:_Oblivion"
+        },
+        {
+          "name": "Oblivion Remastered (2025)",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_IV:_Oblivion_Remastered"
+        },
+        {
+          "name": "Orcish Smithing",
+          "url": "https://elderscrolls.fandom.com/wiki/Orcish_Smithing"
+        },
+        {
+          "name": "Orsimer",
+          "url": "https://elderscrolls.fandom.com/wiki/Orsimer_\\(Online\\"
+        },
+        {
+          "name": "Overdraw",
+          "url": "https://elderscrolls.fandom.com/wiki/Overdraw"
+        },
+        {
+          "name": "Paralyzing Strike",
+          "url": "https://elderscrolls.fandom.com/wiki/Paralyzing_Strike"
+        },
+        {
+          "name": "Patrollers",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Patrollers"
+        },
+        {
+          "name": "Perfect Touch",
+          "url": "https://elderscrolls.fandom.com/wiki/Perfect_Touch"
+        },
+        {
+          "name": "Perks",
+          "url": "https://elderscrolls.fandom.com/wiki/Perks"
+        },
+        {
+          "name": "Perks (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Perks_\\(Skyrim\\"
+        },
+        {
+          "name": "Persuasion (Perk)",
+          "url": "https://elderscrolls.fandom.com/wiki/Persuasion_\\(Perk\\"
+        },
+        {
+          "name": "Physician",
+          "url": "https://elderscrolls.fandom.com/wiki/Physician"
+        },
+        {
+          "name": "Poisoned (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Poisoned_\\(Skyrim\\"
+        },
+        {
+          "name": "Poisoner",
+          "url": "https://elderscrolls.fandom.com/wiki/Poisoner"
+        },
+        {
+          "name": "Policies and Guidelines",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Policies_and_Guidelines"
+        },
+        {
+          "name": "Power Bash (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Power_Bash_\\(Skyrim\\"
+        },
+        {
+          "name": "Power Shot",
+          "url": "https://elderscrolls.fandom.com/wiki/Power_Shot"
+        },
+        {
+          "name": "Powers",
+          "url": "https://elderscrolls.fandom.com/wiki/Powers"
+        },
+        {
+          "name": "Purity (Perk)",
+          "url": "https://elderscrolls.fandom.com/wiki/Purity_\\(Perk\\"
+        },
+        {
+          "name": "Quest Items",
+          "url": "https://elderscrolls.fandom.com/wiki/Quest_Items_\\(Skyrim\\"
+        },
+        {
+          "name": "Quick Reflexes",
+          "url": "https://elderscrolls.fandom.com/wiki/Quick_Reflexes"
+        },
+        {
+          "name": "Quick Shot",
+          "url": "https://elderscrolls.fandom.com/wiki/Quick_Shot"
+        },
+        {
+          "name": "Quiet Casting",
+          "url": "https://elderscrolls.fandom.com/wiki/Quiet_Casting"
+        },
+        {
+          "name": "Races",
+          "url": "https://elderscrolls.fandom.com/wiki/Races_\\(Online\\"
+        },
+        {
+          "name": "Rage (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Rage_\\(Skyrim\\"
+        },
+        {
+          "name": "Random Encounters",
+          "url": "https://elderscrolls.fandom.com/wiki/Random_Encounters_\\(Skyrim\\"
+        },
+        {
+          "name": "Ranger (Perk)",
+          "url": "https://elderscrolls.fandom.com/wiki/Ranger_\\(Perk\\"
+        },
+        {
+          "name": "Recent News",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:News"
+        },
+        {
+          "name": "Recovery (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Recovery_\\(Skyrim\\"
+        },
+        {
+          "name": "Redguard",
+          "url": "https://elderscrolls.fandom.com/wiki/Redguards_\\(Online\\"
+        },
+        {
+          "name": "Redguard (1998)",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Adventures:_Redguard"
+        },
+        {
+          "name": "Regeneration (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Regeneration_\\(Skyrim\\"
+        },
+        {
+          "name": "Regions",
+          "url": "https://elderscrolls.fandom.com/wiki/Regions_\\(Online\\"
+        },
+        {
+          "name": "Report Vandalism",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Vandalism_in_progress"
+        },
+        {
+          "name": "Respite",
+          "url": "https://elderscrolls.fandom.com/wiki/Respite"
+        },
+        {
+          "name": "Restoration Dual Casting",
+          "url": "https://elderscrolls.fandom.com/wiki/Restoration_Dual_Casting"
+        },
+        {
+          "name": "Sandbox",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Sandbox"
+        },
+        {
+          "name": "Savage Strike",
+          "url": "https://elderscrolls.fandom.com/wiki/Savage_Strike"
+        },
+        {
+          "name": "Seasons of the Worm Cult (2025)",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Online:_Seasons_of_the_Worm_Cult"
+        },
+        {
+          "name": "Shadowkey (2004)",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Travels:_Shadowkey"
+        },
+        {
+          "name": "Shield Charge (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Shield_Charge_\\(Skyrim\\"
+        },
+        {
+          "name": "Shield Wall (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Shield_Wall_\\(Skyrim\\"
+        },
+        {
+          "name": "Shivering Isles (2007)",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_IV:_Shivering_Isles"
+        },
+        {
+          "name": "Silence (Perk)",
+          "url": "https://elderscrolls.fandom.com/wiki/Silence_\\(Perk\\"
+        },
+        {
+          "name": "Skills",
+          "url": "https://elderscrolls.fandom.com/wiki/Skills_\\(Online\\"
+        },
+        {
+          "name": "Skull Crusher (Skyrim Perk)",
+          "url": "https://elderscrolls.fandom.com/wiki/Skull_Crusher_\\(Skyrim_Perk\\"
+        },
+        {
+          "name": "Skyrim (2011)",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_V:_Skyrim"
+        },
+        {
+          "name": "Smithing",
+          "url": "https://elderscrolls.fandom.com/wiki/Smithing_\\(Skyrim\\"
+        },
+        {
+          "name": "Snakeblood (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Snakeblood_\\(Skyrim\\"
+        },
+        {
+          "name": "Sorcerer",
+          "url": "https://elderscrolls.fandom.com/wiki/Sorcerer_\\(Online\\"
+        },
+        {
+          "name": "Soul Siphon (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Soul_Siphon_\\(Skyrim\\"
+        },
+        {
+          "name": "Soul Squeezer",
+          "url": "https://elderscrolls.fandom.com/wiki/Soul_Squeezer"
+        },
+        {
+          "name": "Special Edition",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_V:_Skyrim_Special_Edition"
+        },
+        {
+          "name": "Stability",
+          "url": "https://elderscrolls.fandom.com/wiki/Stability"
+        },
+        {
+          "name": "Staff",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Staff"
+        },
+        {
+          "name": "Steady Hand",
+          "url": "https://elderscrolls.fandom.com/wiki/Steady_Hand"
+        },
+        {
+          "name": "Stealth (Perk)",
+          "url": "https://elderscrolls.fandom.com/wiki/Stealth_\\(Perk\\"
+        },
+        {
+          "name": "Steel Smithing",
+          "url": "https://elderscrolls.fandom.com/wiki/Steel_Smithing"
+        },
+        {
+          "name": "Storm Enchanter",
+          "url": "https://elderscrolls.fandom.com/wiki/Storm_Enchanter"
+        },
+        {
+          "name": "Stormhold (2003)",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Travels:_Stormhold"
+        },
+        {
+          "name": "Style and Formatting guide",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Style_and_Formatting"
+        },
+        {
+          "name": "Sweep",
+          "url": "https://elderscrolls.fandom.com/wiki/Sweep"
+        },
+        {
+          "name": "Synergy",
+          "url": "https://elderscrolls.fandom.com/wiki/Synergy"
+        },
+        {
+          "name": "Templar",
+          "url": "https://elderscrolls.fandom.com/wiki/Templar"
+        },
+        {
+          "name": "The College of Winterhold",
+          "url": "https://elderscrolls.fandom.com/wiki/College_of_Winterhold#Quests"
+        },
+        {
+          "name": "The Companions",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Companions#Quests"
+        },
+        {
+          "name": "Thieves Guild",
+          "url": "https://elderscrolls.fandom.com/wiki/Thieves_Guild_\\(Skyrim\\"
+        },
+        {
+          "name": "Tower of Unutterable Truths",
+          "url": "https://elderscrolls.fandom.com/wiki/Tower_of_Unutterable_Truths"
+        },
+        {
+          "name": "Trainers",
+          "url": "https://elderscrolls.fandom.com/wiki/Trainers_\\(Skyrim\\"
+        },
+        {
+          "name": "Travels: Oblivion (2006)",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Travels:_Oblivion_\\(Mobile\\"
+        },
+        {
+          "name": "Tribunal (2002)",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_III:_Tribunal"
+        },
+        {
+          "name": "Ultimate Skills",
+          "url": "https://elderscrolls.fandom.com/wiki/Ultimate_Skills"
+        },
+        {
+          "name": "Unhindered",
+          "url": "https://elderscrolls.fandom.com/wiki/Unhindered"
+        },
+        {
+          "name": "VI",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_VI"
+        },
+        {
+          "name": "Vampirism",
+          "url": "https://elderscrolls.fandom.com/wiki/Vampirism_\\(Skyrim\\"
+        },
+        {
+          "name": "Ward Absorb",
+          "url": "https://elderscrolls.fandom.com/wiki/Ward_Absorb"
+        },
+        {
+          "name": "Warden",
+          "url": "https://elderscrolls.fandom.com/wiki/Warden"
+        },
+        {
+          "name": "Warmaster (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Warmaster_\\(Skyrim\\"
+        },
+        {
+          "name": "Wayshrines",
+          "url": "https://elderscrolls.fandom.com/wiki/Wayshrines_\\(Online\\"
+        },
+        {
+          "name": "Weekly News",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Weekly_Updates"
+        },
+        {
+          "name": "Wind Walker (Skyrim)",
+          "url": "https://elderscrolls.fandom.com/wiki/Wind_Walker_\\(Skyrim\\"
+        },
+        {
+          "name": "server guidelines",
+          "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Discord"
+        }
+      ]
+    }
+  },
+  "all_items": [
+    {
+      "name": "Abilities",
+      "url": "https://elderscrolls.fandom.com/wiki/Abilities_\\(Skyrim\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Add-ons",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Online#Expansion_packs",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Adept Alteration",
+      "url": "https://elderscrolls.fandom.com/wiki/Adept_Alteration",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Adept Illusion",
+      "url": "https://elderscrolls.fandom.com/wiki/Adept_Illusion",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Adept Restoration",
+      "url": "https://elderscrolls.fandom.com/wiki/Adept_Restoration",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Administrators",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Administrators",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Advanced Armors",
+      "url": "https://elderscrolls.fandom.com/wiki/Advanced_Armors",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Agile Defender",
+      "url": "https://elderscrolls.fandom.com/wiki/Agile_Defender",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Alchemist (Perk)",
+      "url": "https://elderscrolls.fandom.com/wiki/Alchemist_\\(Perk\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Aldmeri Dominion",
+      "url": "https://elderscrolls.fandom.com/wiki/Aldmeri_Dominion_Quests",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Alliances",
+      "url": "https://elderscrolls.fandom.com/wiki/Alliances",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Allure",
+      "url": "https://elderscrolls.fandom.com/wiki/Allure",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Alteration Dual Casting",
+      "url": "https://elderscrolls.fandom.com/wiki/Alteration_Dual_Casting",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Altmer",
+      "url": "https://elderscrolls.fandom.com/wiki/Altmer_\\(Online\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Animage",
+      "url": "https://elderscrolls.fandom.com/wiki/Animage",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Anniversary Edition",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_V:_Skyrim_Anniversary_Edition",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Apprentice Alteration",
+      "url": "https://elderscrolls.fandom.com/wiki/Apprentice_Alteration",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Apprentice Illusion",
+      "url": "https://elderscrolls.fandom.com/wiki/Apprentice_Illusion",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Apprentice Restoration",
+      "url": "https://elderscrolls.fandom.com/wiki/Apprentice_Restoration",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Arcane Blacksmith",
+      "url": "https://elderscrolls.fandom.com/wiki/Arcane_Blacksmith",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Arcanist",
+      "url": "https://elderscrolls.fandom.com/wiki/Arcanist_\\(Class\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Arena (1994)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls:_Arena",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Argonian",
+      "url": "https://elderscrolls.fandom.com/wiki/Argonians_\\(Online\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Armsman (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Armsman_\\(Skyrim\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Aspect of Terror (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Aspect_of_Terror_\\(Skyrim\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Assassin's Blade (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Assassin%27s_Blade_\\(Skyrim\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Atronach (Perk)",
+      "url": "https://elderscrolls.fandom.com/wiki/Atronach_\\(Perk\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Avoid Death",
+      "url": "https://elderscrolls.fandom.com/wiki/Avoid_Death",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Backstab",
+      "url": "https://elderscrolls.fandom.com/wiki/Backstab",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Barbarian (Perk)",
+      "url": "https://elderscrolls.fandom.com/wiki/Barbarian_\\(Perk\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Bash Disarm",
+      "url": "https://elderscrolls.fandom.com/wiki/Bash_Disarm",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Battlespire (1997)",
+      "url": "https://elderscrolls.fandom.com/wiki/An_Elder_Scrolls_Legend:_Battlespire",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Benefactor",
+      "url": "https://elderscrolls.fandom.com/wiki/Benefactor",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Bismuth Steam Baths",
+      "url": "https://elderscrolls.fandom.com/wiki/Bismuth_Steam_Baths",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Blackwood (2021)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Online:_Blackwood",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Blades (2019)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls:_Blades",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Bladesman",
+      "url": "https://elderscrolls.fandom.com/wiki/Bladesman",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Block Runner",
+      "url": "https://elderscrolls.fandom.com/wiki/Block_Runner",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Blocking policy",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Blocking_policy",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Blog policy",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Blog_policy",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Bloodmoon (2003)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_III:_Bloodmoon",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Bone Breaker",
+      "url": "https://elderscrolls.fandom.com/wiki/Bone_Breaker",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Bosmer",
+      "url": "https://elderscrolls.fandom.com/wiki/Bosmer_\\(Online\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Bots",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Bots",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Breton",
+      "url": "https://elderscrolls.fandom.com/wiki/Bretons_\\(Online\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Bribery",
+      "url": "https://elderscrolls.fandom.com/wiki/Bribery",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Bullseye",
+      "url": "https://elderscrolls.fandom.com/wiki/Bullseye",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Castles (2024)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls:_Castles",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Champion's Stance",
+      "url": "https://elderscrolls.fandom.com/wiki/Champion%27s_Stance",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Classes",
+      "url": "https://elderscrolls.fandom.com/wiki/Classes_\\(Online\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "CompUSA Expansion (1996)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_II:_Daggerfall_CompUSA_Expansion",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Comprehensive Articles",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Comprehensive_Articles",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Concentrated Poison",
+      "url": "https://elderscrolls.fandom.com/wiki/Concentrated_Poison",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Conditioning (Perk)",
+      "url": "https://elderscrolls.fandom.com/wiki/Conditioning_\\(Perk\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Consensus policy",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Consensus",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Console Commands",
+      "url": "https://elderscrolls.fandom.com/wiki/Console_Commands_\\(Skyrim\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Console Commands (Skyrim)/Perks",
+      "url": "https://elderscrolls.fandom.com/wiki/Console_Commands_\\(Skyrim\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Controls",
+      "url": "https://elderscrolls.fandom.com/wiki/Controls_\\(Skyrim\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Corpus Enchanter",
+      "url": "https://elderscrolls.fandom.com/wiki/Corpus_Enchanter",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Crafting",
+      "url": "https://elderscrolls.fandom.com/wiki/Crafting_\\(Online\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Creation Club",
+      "url": "https://elderscrolls.fandom.com/wiki/Creation_Club",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Critical Charge (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Critical_Charge_\\(Skyrim\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Critical Shot",
+      "url": "https://elderscrolls.fandom.com/wiki/Critical_Shot",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Crown Store",
+      "url": "https://elderscrolls.fandom.com/wiki/Crown_Store",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Custom Fit",
+      "url": "https://elderscrolls.fandom.com/wiki/Custom_Fit",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Cutpurse (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Cutpurse_\\(Skyrim\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Daedric Artifacts",
+      "url": "https://elderscrolls.fandom.com/wiki/Daedric_Artifacts_\\(Skyrim\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Daedric Quests",
+      "url": "https://elderscrolls.fandom.com/wiki/Daedric_Quests_\\(Skyrim\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Daedric Shrines",
+      "url": "https://elderscrolls.fandom.com/wiki/Daedric_Shrines_\\(Skyrim\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Daedric Smithing",
+      "url": "https://elderscrolls.fandom.com/wiki/Daedric_Smithing",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Daggerfall (1996)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_II:_Daggerfall",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Daggerfall Covenant",
+      "url": "https://elderscrolls.fandom.com/wiki/Daggerfall_Covenant_Quests",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Dark Brotherhood",
+      "url": "https://elderscrolls.fandom.com/wiki/Dark_Brotherhood_\\(Skyrim\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Dawnguard (2012)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_V:_Dawnguard",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Dawnstar (2004)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Travels:_Dawnstar",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Deadly Bash (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Deadly_Bash_\\(Skyrim\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Deep Wounds",
+      "url": "https://elderscrolls.fandom.com/wiki/Deep_Wounds",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Deflect Arrows",
+      "url": "https://elderscrolls.fandom.com/wiki/Deflect_Arrows",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Deft Movement",
+      "url": "https://elderscrolls.fandom.com/wiki/Deft_Movement",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Devastating Blow",
+      "url": "https://elderscrolls.fandom.com/wiki/Devastating_Blow",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Disarming Bash",
+      "url": "https://elderscrolls.fandom.com/wiki/Disarming_Bash",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Discord Moderators",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Discord_Moderators",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Discord policy",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Discord",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Disintegrate (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Disintegrate_\\(Skyrim\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Doomchar Plateau",
+      "url": "https://elderscrolls.fandom.com/wiki/Doomchar_Plateau",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Dragon Armor (Perk)",
+      "url": "https://elderscrolls.fandom.com/wiki/Dragon_Armor_\\(Perk\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Dragon Shouts",
+      "url": "https://elderscrolls.fandom.com/wiki/Dragon_Shouts",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Dragonborn (2012)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_V:_Dragonborn",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Dragonknight",
+      "url": "https://elderscrolls.fandom.com/wiki/Dragonknight",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Dragons",
+      "url": "https://elderscrolls.fandom.com/wiki/Dragons_\\(Skyrim\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Dual Flurry",
+      "url": "https://elderscrolls.fandom.com/wiki/Dual_Flurry",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Dual Savagery",
+      "url": "https://elderscrolls.fandom.com/wiki/Dual_Savagery",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Dunmer",
+      "url": "https://elderscrolls.fandom.com/wiki/Dunmer_\\(Online\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Dwarven Smithing",
+      "url": "https://elderscrolls.fandom.com/wiki/Dwarven_Smithing",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "ESO Plus",
+      "url": "https://elderscrolls.fandom.com/wiki/ESO_Plus",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Eagle Eye (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Eagle_Eye_\\(Skyrim\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Easter Eggs",
+      "url": "https://elderscrolls.fandom.com/wiki/Easter_Eggs_\\(Skyrim\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Ebonheart Pact",
+      "url": "https://elderscrolls.fandom.com/wiki/Ebonheart_Pact_Quests",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Ebony Smithing",
+      "url": "https://elderscrolls.fandom.com/wiki/Ebony_Smithing",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Elemental Protection (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Elemental_Protection_\\(Skyrim\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Elsweyr (2019)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Online:_Elsweyr",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Elven Smithing",
+      "url": "https://elderscrolls.fandom.com/wiki/Elven_Smithing",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Enchanter (Perk)",
+      "url": "https://elderscrolls.fandom.com/wiki/Enchanter_\\(Perk\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Enchanting",
+      "url": "https://elderscrolls.fandom.com/wiki/Enchanting_\\(Skyrim\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Experimenter",
+      "url": "https://elderscrolls.fandom.com/wiki/Experimenter",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Expert Alteration",
+      "url": "https://elderscrolls.fandom.com/wiki/Expert_Alteration",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Expert Illusion",
+      "url": "https://elderscrolls.fandom.com/wiki/Expert_Illusion",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Expert Restoration",
+      "url": "https://elderscrolls.fandom.com/wiki/Expert_Restoration",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Extra Effect",
+      "url": "https://elderscrolls.fandom.com/wiki/Extra_Effect",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Extra Pockets",
+      "url": "https://elderscrolls.fandom.com/wiki/Extra_Pockets",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Factions",
+      "url": "https://elderscrolls.fandom.com/wiki/Factions_\\(Skyrim\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Featured Articles",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Featured_Articles",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Fence (Perk)",
+      "url": "https://elderscrolls.fandom.com/wiki/Fence_\\(Perk\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Fighting Stance",
+      "url": "https://elderscrolls.fandom.com/wiki/Fighting_Stance",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Finesse",
+      "url": "https://elderscrolls.fandom.com/wiki/Finesse",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Fire Enchanter",
+      "url": "https://elderscrolls.fandom.com/wiki/Fire_Enchanter",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Followers",
+      "url": "https://elderscrolls.fandom.com/wiki/Followers_\\(Skyrim\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Forum Moderators",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Moderators",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Forum/Discussions policy",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Discussions",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Frost Enchanter",
+      "url": "https://elderscrolls.fandom.com/wiki/Frost_Enchanter",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Games",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Glass Smithing",
+      "url": "https://elderscrolls.fandom.com/wiki/Glass_Smithing",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Gold Road (2024)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Online:_Gold_Road",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Good Articles",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Good_Articles",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Great Critical Charge",
+      "url": "https://elderscrolls.fandom.com/wiki/Great_Critical_Charge",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Green Thumb",
+      "url": "https://elderscrolls.fandom.com/wiki/Green_Thumb",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Greymoor (2020)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Online:_Greymoor",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Hack and Slash",
+      "url": "https://elderscrolls.fandom.com/wiki/Hack_and_Slash",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Haggling",
+      "url": "https://elderscrolls.fandom.com/wiki/Haggling",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Hearthfire (2012)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_V:_Hearthfire",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "High Isle (2022)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Online:_High_Isle",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Holds",
+      "url": "https://elderscrolls.fandom.com/wiki/Holds",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Hunter's Discipline",
+      "url": "https://elderscrolls.fandom.com/wiki/Hunter%27s_Discipline",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Hypnotic Gaze",
+      "url": "https://elderscrolls.fandom.com/wiki/Hypnotic_Gaze",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Illusion Dual Casting",
+      "url": "https://elderscrolls.fandom.com/wiki/Illusion_Dual_Casting",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Impact",
+      "url": "https://elderscrolls.fandom.com/wiki/Impact",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Imperial",
+      "url": "https://elderscrolls.fandom.com/wiki/Imperials_\\(Online\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Insightful Enchanter",
+      "url": "https://elderscrolls.fandom.com/wiki/Insightful_Enchanter",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Intimidation",
+      "url": "https://elderscrolls.fandom.com/wiki/Intimidation",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Investor",
+      "url": "https://elderscrolls.fandom.com/wiki/Investor",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Item Enchantment Types",
+      "url": "https://elderscrolls.fandom.com/wiki/Enchantment_Modifiers",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Keymaster",
+      "url": "https://elderscrolls.fandom.com/wiki/Keymaster",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Khajiit",
+      "url": "https://elderscrolls.fandom.com/wiki/Khajiit_\\(Online\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Kindred Mage",
+      "url": "https://elderscrolls.fandom.com/wiki/Kindred_Mage",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Knights of the Nine (2006)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_IV:_Knights_of_the_Nine",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Legends (2016)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls:_Legends",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Light Fingers (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Light_Fingers_\\(Skyrim\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Limbsplitter",
+      "url": "https://elderscrolls.fandom.com/wiki/Limbsplitter",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Local Sitemap",
+      "url": "https://elderscrolls.fandom.com/wiki/Local_Sitemap",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Lycanthropy",
+      "url": "https://elderscrolls.fandom.com/wiki/Lycanthropy_\\(Skyrim\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Mage Armor",
+      "url": "https://elderscrolls.fandom.com/wiki/Mage_Armor",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Magic Resistance",
+      "url": "https://elderscrolls.fandom.com/wiki/Magic_Resistance",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Main Quest",
+      "url": "https://elderscrolls.fandom.com/wiki/Main_Quest_\\(Online\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Map",
+      "url": "https://elderscrolls.fandom.com/wiki/Map_\\(Skyrim\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Marriage",
+      "url": "https://elderscrolls.fandom.com/wiki/Marriage",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Master Alteration",
+      "url": "https://elderscrolls.fandom.com/wiki/Master_Alteration",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Master Illusion",
+      "url": "https://elderscrolls.fandom.com/wiki/Master_Illusion",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Master Restoration",
+      "url": "https://elderscrolls.fandom.com/wiki/Master_Restoration",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Master Trader",
+      "url": "https://elderscrolls.fandom.com/wiki/Master_Trader",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Master of the Mind",
+      "url": "https://elderscrolls.fandom.com/wiki/Master_of_the_Mind",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Matching Set (Heavy Armor)",
+      "url": "https://elderscrolls.fandom.com/wiki/Matching_Set_\\(Heavy_Armor\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Matching Set (Light Armor)",
+      "url": "https://elderscrolls.fandom.com/wiki/Matching_Set_\\(Light_Armor\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Media policy",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Media",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Member of the Month",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Member_of_the_Month",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Merchant (Perk)",
+      "url": "https://elderscrolls.fandom.com/wiki/Merchant_\\(Perk\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Misdirection (Perk)",
+      "url": "https://elderscrolls.fandom.com/wiki/Misdirection_\\(Perk\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Moot",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Moot",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "More Quests",
+      "url": "https://elderscrolls.fandom.com/wiki/Quests_\\(Skyrim\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Morrowind (2002)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_III:_Morrowind",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Necrom (2023)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Online:_Necrom",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Necromage (Perk)",
+      "url": "https://elderscrolls.fandom.com/wiki/Necromage_\\(Perk\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Necromancer",
+      "url": "https://elderscrolls.fandom.com/wiki/Necromancer_\\(Online\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Necromancy (Perk)",
+      "url": "https://elderscrolls.fandom.com/wiki/Necromancy_\\(Perk\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Neutral point of view",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Neutral_point_of_view",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "News Team",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:News_Team",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Night Thief",
+      "url": "https://elderscrolls.fandom.com/wiki/Night_Thief",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Nightblade",
+      "url": "https://elderscrolls.fandom.com/wiki/Nightblade_\\(Online\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Nord",
+      "url": "https://elderscrolls.fandom.com/wiki/Nords_\\(Online\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Novice Alteration",
+      "url": "https://elderscrolls.fandom.com/wiki/Novice_Alteration",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Novice Illusion",
+      "url": "https://elderscrolls.fandom.com/wiki/Novice_Illusion",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Novice Restoration",
+      "url": "https://elderscrolls.fandom.com/wiki/Novice_Restoration",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Oblivion (2006)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_IV:_Oblivion",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Oblivion Remastered (2025)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_IV:_Oblivion_Remastered",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Orcish Smithing",
+      "url": "https://elderscrolls.fandom.com/wiki/Orcish_Smithing",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Orsimer",
+      "url": "https://elderscrolls.fandom.com/wiki/Orsimer_\\(Online\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Overdraw",
+      "url": "https://elderscrolls.fandom.com/wiki/Overdraw",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Paralyzing Strike",
+      "url": "https://elderscrolls.fandom.com/wiki/Paralyzing_Strike",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Patrollers",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Patrollers",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Perfect Touch",
+      "url": "https://elderscrolls.fandom.com/wiki/Perfect_Touch",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Perks",
+      "url": "https://elderscrolls.fandom.com/wiki/Perks",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Perks (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Perks_\\(Skyrim\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Persuasion (Perk)",
+      "url": "https://elderscrolls.fandom.com/wiki/Persuasion_\\(Perk\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Physician",
+      "url": "https://elderscrolls.fandom.com/wiki/Physician",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Poisoned (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Poisoned_\\(Skyrim\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Poisoner",
+      "url": "https://elderscrolls.fandom.com/wiki/Poisoner",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Policies and Guidelines",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Policies_and_Guidelines",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Power Bash (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Power_Bash_\\(Skyrim\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Power Shot",
+      "url": "https://elderscrolls.fandom.com/wiki/Power_Shot",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Powers",
+      "url": "https://elderscrolls.fandom.com/wiki/Powers",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Purity (Perk)",
+      "url": "https://elderscrolls.fandom.com/wiki/Purity_\\(Perk\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Quest Items",
+      "url": "https://elderscrolls.fandom.com/wiki/Quest_Items_\\(Skyrim\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Quick Reflexes",
+      "url": "https://elderscrolls.fandom.com/wiki/Quick_Reflexes",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Quick Shot",
+      "url": "https://elderscrolls.fandom.com/wiki/Quick_Shot",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Quiet Casting",
+      "url": "https://elderscrolls.fandom.com/wiki/Quiet_Casting",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Races",
+      "url": "https://elderscrolls.fandom.com/wiki/Races_\\(Online\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Rage (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Rage_\\(Skyrim\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Random Encounters",
+      "url": "https://elderscrolls.fandom.com/wiki/Random_Encounters_\\(Skyrim\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Ranger (Perk)",
+      "url": "https://elderscrolls.fandom.com/wiki/Ranger_\\(Perk\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Recent News",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:News",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Recovery (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Recovery_\\(Skyrim\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Redguard",
+      "url": "https://elderscrolls.fandom.com/wiki/Redguards_\\(Online\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Redguard (1998)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Adventures:_Redguard",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Regeneration (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Regeneration_\\(Skyrim\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Regions",
+      "url": "https://elderscrolls.fandom.com/wiki/Regions_\\(Online\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Report Vandalism",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Vandalism_in_progress",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Respite",
+      "url": "https://elderscrolls.fandom.com/wiki/Respite",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Restoration Dual Casting",
+      "url": "https://elderscrolls.fandom.com/wiki/Restoration_Dual_Casting",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Sandbox",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Sandbox",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Savage Strike",
+      "url": "https://elderscrolls.fandom.com/wiki/Savage_Strike",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Seasons of the Worm Cult (2025)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Online:_Seasons_of_the_Worm_Cult",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Shadowkey (2004)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Travels:_Shadowkey",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Shield Charge (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Shield_Charge_\\(Skyrim\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Shield Wall (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Shield_Wall_\\(Skyrim\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Shivering Isles (2007)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_IV:_Shivering_Isles",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Silence (Perk)",
+      "url": "https://elderscrolls.fandom.com/wiki/Silence_\\(Perk\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Skills",
+      "url": "https://elderscrolls.fandom.com/wiki/Skills_\\(Online\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Skull Crusher (Skyrim Perk)",
+      "url": "https://elderscrolls.fandom.com/wiki/Skull_Crusher_\\(Skyrim_Perk\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Skyrim (2011)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_V:_Skyrim",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Smithing",
+      "url": "https://elderscrolls.fandom.com/wiki/Smithing_\\(Skyrim\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Snakeblood (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Snakeblood_\\(Skyrim\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Sorcerer",
+      "url": "https://elderscrolls.fandom.com/wiki/Sorcerer_\\(Online\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Soul Siphon (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Soul_Siphon_\\(Skyrim\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Soul Squeezer",
+      "url": "https://elderscrolls.fandom.com/wiki/Soul_Squeezer",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Special Edition",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_V:_Skyrim_Special_Edition",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Stability",
+      "url": "https://elderscrolls.fandom.com/wiki/Stability",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Staff",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Staff",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Steady Hand",
+      "url": "https://elderscrolls.fandom.com/wiki/Steady_Hand",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Stealth (Perk)",
+      "url": "https://elderscrolls.fandom.com/wiki/Stealth_\\(Perk\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Steel Smithing",
+      "url": "https://elderscrolls.fandom.com/wiki/Steel_Smithing",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Storm Enchanter",
+      "url": "https://elderscrolls.fandom.com/wiki/Storm_Enchanter",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Stormhold (2003)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Travels:_Stormhold",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Style and Formatting guide",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Style_and_Formatting",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Sweep",
+      "url": "https://elderscrolls.fandom.com/wiki/Sweep",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Synergy",
+      "url": "https://elderscrolls.fandom.com/wiki/Synergy",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Templar",
+      "url": "https://elderscrolls.fandom.com/wiki/Templar",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "The College of Winterhold",
+      "url": "https://elderscrolls.fandom.com/wiki/College_of_Winterhold#Quests",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "The Companions",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Companions#Quests",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Thieves Guild",
+      "url": "https://elderscrolls.fandom.com/wiki/Thieves_Guild_\\(Skyrim\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Tower of Unutterable Truths",
+      "url": "https://elderscrolls.fandom.com/wiki/Tower_of_Unutterable_Truths",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Trainers",
+      "url": "https://elderscrolls.fandom.com/wiki/Trainers_\\(Skyrim\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Travels: Oblivion (2006)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Travels:_Oblivion_\\(Mobile\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Tribunal (2002)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_III:_Tribunal",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Ultimate Skills",
+      "url": "https://elderscrolls.fandom.com/wiki/Ultimate_Skills",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Unhindered",
+      "url": "https://elderscrolls.fandom.com/wiki/Unhindered",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "VI",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_VI",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Vampirism",
+      "url": "https://elderscrolls.fandom.com/wiki/Vampirism_\\(Skyrim\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Ward Absorb",
+      "url": "https://elderscrolls.fandom.com/wiki/Ward_Absorb",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Warden",
+      "url": "https://elderscrolls.fandom.com/wiki/Warden",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Warmaster (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Warmaster_\\(Skyrim\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Wayshrines",
+      "url": "https://elderscrolls.fandom.com/wiki/Wayshrines_\\(Online\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Weekly News",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Weekly_Updates",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "Wind Walker (Skyrim)",
+      "url": "https://elderscrolls.fandom.com/wiki/Wind_Walker_\\(Skyrim\\",
+      "categories": [
+        "perks"
+      ]
+    },
+    {
+      "name": "server guidelines",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_Wiki:Discord",
+      "categories": [
+        "perks"
+      ]
+    }
+  ]
+}

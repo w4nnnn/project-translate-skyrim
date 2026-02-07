@@ -4,7 +4,7 @@ import * as fs from 'fs';
 import * as path from 'path';
 import { eq } from 'drizzle-orm';
 
-const EXPORT_STRINGS_DIR = path.join(__dirname, '../export_strings');
+const RAW_STRINGS_DIR = path.join(__dirname, '../raw_strings');
 
 const parser = new XMLParser({
     ignoreAttributes: false,
@@ -75,10 +75,10 @@ async function importFile(filePath: string) {
 }
 
 async function main() {
-    const files = fs.readdirSync(EXPORT_STRINGS_DIR).filter(file => file.endsWith('.xml'));
+    const files = fs.readdirSync(RAW_STRINGS_DIR).filter(file => file.endsWith('.xml'));
 
     for (const file of files) {
-        await importFile(path.join(EXPORT_STRINGS_DIR, file));
+        await importFile(path.join(RAW_STRINGS_DIR, file));
     }
     console.log('Done!');
 }

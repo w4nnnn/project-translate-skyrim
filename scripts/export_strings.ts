@@ -4,11 +4,11 @@ import * as fs from 'fs';
 import * as path from 'path';
 import { eq } from 'drizzle-orm';
 
-const EXPORT_DIR = path.join(__dirname, '../exported_strings');
+const OUTPUT_DIR = path.join(__dirname, '../output_strings');
 
 // Create export directory if it doesn't exist
-if (!fs.existsSync(EXPORT_DIR)) {
-    fs.mkdirSync(EXPORT_DIR);
+if (!fs.existsSync(OUTPUT_DIR)) {
+    fs.mkdirSync(OUTPUT_DIR);
 }
 
 const builder = new XMLBuilder({
@@ -47,7 +47,7 @@ async function exportFile(fileRecord: typeof dialogFiles.$inferSelect) {
     // Add <?xml ... ?> declaration manually if builder doesn't (fast-xml-parser builder usually doesn't add preamble by default unless configured)
     const finalXml = `<?xml version="1.0" encoding="UTF-8" standalone="yes"?>\n${xmlContent}`;
 
-    fs.writeFileSync(path.join(EXPORT_DIR, fileRecord.filename), finalXml, 'utf-8');
+    fs.writeFileSync(path.join(OUTPUT_DIR, fileRecord.filename), finalXml, 'utf-8');
 }
 
 async function main() {
@@ -56,7 +56,7 @@ async function main() {
     for (const file of files) {
         await exportFile(file);
     }
-    console.log(`Exported ${files.length} files to ${EXPORT_DIR}`);
+    console.log(`Exported ${files.length} files to ${OUTPUT_DIR}`);
 }
 
 main().catch(console.error);
