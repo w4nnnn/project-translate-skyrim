@@ -3,6 +3,7 @@ import { db, dialogStrings, glossary } from '../lib/db';
 import * as fs from 'fs';
 import * as path from 'path';
 import { eq, like, isNull, sql } from 'drizzle-orm';
+import { isTechnical } from '../lib/anomaly';
 
 const OUTPUT_DIR = path.join(__dirname, '../glossary');
 
@@ -128,7 +129,7 @@ async function main() {
 
     for (let idx = 0; idx < allStrings.length; idx++) {
         const record = allStrings[idx];
-        
+
         // Progress indicator setiap 1000 records atau setiap 5 detik
         const now = Date.now();
         if (idx % 1000 === 0 || now - lastProgressTime > 5000) {
@@ -148,10 +149,21 @@ async function main() {
         let shouldUpdate = false;
 
         // A. Auto-fill Dest Logic
+        // 1. Existing Term Check
         if (termSet.has(source.toLowerCase())) {
             if (dest !== source) {
                 dest = source;
                 shouldUpdate = true;
+            }
+        }
+
+        // 2. Technical ID Check (Auto-Fix)
+        if (isTechnical(source)) {
+            // If it's a technical ID, dest MUST be same as source
+            if (dest !== source) {
+                dest = source;
+                shouldUpdate = true;
+                // console.log(`Auto-fixing Technical ID: ${source}`);
             }
         }
 
@@ -175,6 +187,15 @@ async function main() {
             });
         }
     }
+
+    // C. Technical ID Auto-Fix Loop (Separate or integrated? Integrated is better for perf)
+    // Re-iterating slightly modified approach:
+    // We already iterated. Let's do a quick pass or integrate above? 
+    // Integration above is cleaner but I need to import isTechnical first.
+    // Let's keep it separate for now to ensure safety or just re-iterate updates? 
+    // Actually, let's look at lines 150-158 in original file. The user wants to apply logic to mask_strings.ts.
+    // I will add the import at the top and the logic inside the loop in a subsequent step.
+
 
     const totalTime = ((Date.now() - startTime) / 1000).toFixed(1);
     console.log(`\nProcessing complete in ${totalTime}s`);

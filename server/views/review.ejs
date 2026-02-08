@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Review Strings</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            margin: 2rem;
+            background: #f4f4f9;
+        }
+
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 2rem;
+        }
+
+        .search-bar {
+            display: flex;
+            gap: 1rem;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            background: white;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+
+        th,
+        td {
+            padding: 1rem;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+
+        th {
+            background: #f8f9fa;
+        }
+
+        textarea {
+            width: 100%;
+            height: 60px;
+            padding: 0.5rem;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            font-family: inherit;
+        }
+
+        .pagination {
+            margin-top: 2rem;
+            display: flex;
+            justify-content: center;
+            gap: 0.5rem;
+        }
+
+        .page-link {
+            padding: 0.5rem 1rem;
+            border: 1px solid #ddd;
+            background: white;
+            text-decoration: none;
+            color: #333;
+        }
+
+        .page-link.active {
+            background: #007BFF;
+            color: white;
+            border-color: #007BFF;
+        }
+
+        .status {
+            font-size: 0.8rem;
+            color: #888;
+        }
+
+        .save-btn {
+            margin-top: 0.5rem;
+            padding: 0.3rem 0.8rem;
+            background: #28a745;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            display: none;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="header">
+        <h1>Review Strings (<%= type==='punct' ? 'Tags & Quotes' : type %>)</h1>
+        <div class="search-bar">
+            <form action="/review" method="GET">
+                <input type="hidden" name="type" value="<%= type %>">
+                <input type="text" name="search" placeholder="Search..." value="<%= search %>" style="padding: 0.5rem;">
+                <button type="submit" style="padding: 0.5rem;">Search</button>
+            </form>
+            <a href="/"
+                style="padding: 0.5rem; text-decoration: none; background: #6c757d; color: white; border-radius: 4px;">Back
+                to Dashboard</a>
+        </div>
+    </div>
+
+    <table>
+        <thead>
+            <tr>
+                <th style="width: 50px;">ID</th>
+                <th style="width: 40%;">Source</th>
+                <th>Avg. Translation (Dest)</th>
+            </tr>
+        </thead>
+        <tbody>
+            <% strings.forEach(str=> { %>
+                <tr id="row-<%= str.id %>">
+                    <td>
+                        <%= str.id %>
+                    </td>
+                    <td>
+                        <div><strong>Original:</strong>
+                            <%= str.source %>
+                        </div>
+                        <% if (str.maskedSource && str.maskedSource !==str.source) { %>
+                            <div style="color: #666; font-size: 0.9em; margin-top: 0.5rem;">
+                                <strong>Masked:</strong>
+                                <%= str.maskedSource %>
+                            </div>
+                            <% } %>
+                    </td>
+                    <td>
+                        <textarea id="dest-<%= str.id %>"
+                            oninput="showSave(<%= str.id %>)"><%= str.dest || '' %></textarea>
+                        <button class="save-btn" id="btn-<%= str.id %>"
+                            onclick="saveString(<%= str.id %>)">Save</button>
+                        <span id="status-<%= str.id %>" class="status"></span>
+                    </td>
+                </tr>
+                <% }) %>
+        </tbody>
+    </table>
+
+    <div class="pagination">
+        <% if (page> 1) { %>
+            <a href="/review?page=<%= page - 1 %>&type=<%= type %>&search=<%= search %>" class="page-link">Previous</a>
+            <% } %>
+
+                <span style="padding: 0.5rem;">Page <%= page %> of <%= totalPages %></span>
+
+                <% if (page < totalPages) { %>
+                    <a href="/review?page=<%= page + 1 %>&type=<%= type %>&search=<%= search %>"
+                        class="page-link">Next</a>
+                    <% } %>
+    </div>
+
+    <script>
+        function showSave(id) {
+            document.getElementById(`btn-${id}`).style.display = 'inline-block';
+        }
+
+        async function saveString(id) {
+            const dest = document.getElementById(`dest-${id}`).value;
+            const btn = document.getElementById(`btn-${id}`);
+            const status = document.getElementById(`status-${id}`);
+
+            try {
+                btn.disabled = true;
+                const res = await fetch('/api/update', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ id, dest })
+                });
+
+                if (res.ok) {
+                    status.textContent = 'Saved!';
+                    status.style.color = 'green';
+                    setTimeout(() => {
+                        status.textContent = '';
+                        btn.style.display = 'none';
+                        btn.disabled = false;
+                    }, 2000);
+                } else {
+                    throw new Error('Failed');
+                }
+            } catch (e) {
+                status.textContent = 'Error saving';
+                status.style.color = 'red';
+                btn.disabled = false;
+            }
+        }
+    </script>
+</body>
+
+</html>

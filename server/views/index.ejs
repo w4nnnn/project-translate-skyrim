@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Skyrim Translation Review</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            margin: 2rem;
+            background: #f4f4f9;
+        }
+
+        h1 {
+            color: #333;
+        }
+
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1.5rem;
+            margin-top: 2rem;
+        }
+
+        .card {
+            background: white;
+            padding: 1.5rem;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+
+        .card h2 {
+            margin: 0;
+            font-size: 2.5rem;
+            color: #4CAF50;
+        }
+
+        .card p {
+            margin: 0.5rem 0 0;
+            color: #666;
+        }
+
+        .btn {
+            display: inline-block;
+            margin-top: 1rem;
+            padding: 0.5rem 1rem;
+            background: #007BFF;
+            color: white;
+            text-decoration: none;
+            border-radius: 4px;
+        }
+
+        .btn:hover {
+            background: #0056b3;
+        }
+
+        .btn.warn {
+            background: #ff9800;
+        }
+
+        .btn.danger {
+            background: #dc3545;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Translation Review Dashboard</h1>
+
+    <div class="stats">
+        <div class="card">
+            <h2>
+                <%= total %>
+            </h2>
+            <p>Total Strings</p>
+            <a href="/review" class="btn">View All</a>
+        </div>
+        <div class="card">
+            <h2>
+                <%= missing %>
+            </h2>
+            <p>Missing Translations</p>
+            <a href="/review?type=missing" class="btn danger">Review Missing</a>
+        </div>
+        <div class="card">
+            <h2>
+                <%= same %>
+            </h2>
+            <p>Untranslated (Same)</p>
+            <a href="/review?type=same" class="btn warn">Review Same</a>
+        </div>
+        <div class="card">
+            <h2>
+                <%= dlc %>
+            </h2>
+            <p>DLC Artifacts</p>
+            <a href="/review?type=dlc" class="btn">Review DLC</a>
+        </div>
+        <div class="card">
+            <h2>
+                <%= tech %>
+            </h2>
+            <p>Technical IDs</p>
+            <a href="/review?type=tech" class="btn">Review IDs</a>
+        </div>
+        <div class="card">
+            <h2>
+                <%= punct %>
+            </h2>
+            <p>Tags & Quotes Mismatches</p>
+            <a href="/review?type=punct" class="btn warn">Review Tags</a>
+        </div>
+    </div>
+</body>
+
+</html>
